@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -xe
 
 # ensure submodules are checked out
 git submodule update --init
@@ -29,9 +29,10 @@ mv _node_modules node_modules
 
 # move back to the root, and add and commit files
 cd ../../
-# GitHub Pages doesn't like submodules and Oakland's CNAME file conflicts with
-# our setting
-rm -rf .gitmodules CNAME openbudgetoakland/
+# GitHub Pages doesn't like submodules
+rm -rf .gitmodules openbudgetoakland/
+# Oakland's CNAME file conflicts with our setting
+git checkout master -- CNAME
 touch .nojekyll
 git add -A
 git commit -m "deploy"
