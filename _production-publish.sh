@@ -7,6 +7,8 @@ git submodule update --init
 git branch -D gh-pages
 git checkout --orphan gh-pages
 
+# override default config files
+cp config.js openbudgetoakland/_src/js
 # move into the _src directory and compile source files
 cd openbudgetoakland/_src
 # install node dependencies
