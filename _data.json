@@ -1,9 +1,4 @@
 {
-  "globals": {
-    "title": "Open Budget: SF",
-    "uri": "http://openbudgetsf.org"
-  },
-
   "index": {
     "title": "Open Budget: SF",
     "slug": "home"
