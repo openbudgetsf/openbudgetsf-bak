@@ -1,0 +1,3 @@
+[submodule "openbudgetoakland"]
+	path = openbudgetoakland
+	url = https://github.com/openbudgetsf/openbudgetoakland.git
