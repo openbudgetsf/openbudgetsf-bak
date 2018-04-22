@@ -10,6 +10,7 @@ git checkout --orphan gh-pages
 # compile data
 python3 data/scripts/budget_csv_to_sqlite.py
 python3 data/scripts/budget_sqlite_to_compare_data.py
+python3 data/scripts/budget_sqlite_to_flow_data.py
 
 # override default config files
 ./deploy_overrides.sh

@@ -13,3 +13,5 @@ cp data/output/compare/fiscal-years-expenses/depts/* openbudgetoakland/_src/data
 cp data/output/compare/fiscal-years-revenue/totals.json openbudgetoakland/_src/data/compare/fiscal-years-revenue
 cp data/output/compare/fiscal-years-revenue/account-cats/* openbudgetoakland/_src/data/compare/fiscal-years-revenue/account-cats
 cp data/output/compare/fiscal-years-revenue/depts/* openbudgetoakland/_src/data/compare/fiscal-years-revenue/depts
+
+cp data/output/flow/* openbudgetoakland/_src/data/flow
