@@ -1,6 +1,7 @@
 {
   "globals": {
     "title": "Open Budget: San Francisco",
-    "site_name": "Open Budget: San Francisco"
+    "site_name": "Open Budget: San Francisco",
+    "header_data_url": "https://data.sfgov.org/City-Management-and-Ethics/Budget/xdgd-c79v"
   }
 }
