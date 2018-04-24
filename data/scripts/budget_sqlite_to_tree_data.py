@@ -1,5 +1,6 @@
 import json
 import os
+import shutil
 import sqlite3
 
 def year_to_fiscal_range(year):
@@ -8,6 +9,14 @@ def year_to_fiscal_range(year):
 db_path = 'data/budget.db'
 conn = sqlite3.connect(db_path)
 c = conn.cursor()
+
+base_path = 'data/output/tree'
+try:
+    shutil.rmtree(base_path)
+except IOError:
+    pass
+
+os.makedirs(base_path)
 
 years = [row[0] for row in c.execute("SELECT DISTINCT(fiscal_year) FROM budget_items")]
 
@@ -78,11 +87,9 @@ for year in years:
             }
         }
 
-        base_path = 'data/output/tree'
         fiscal_year_range = year_to_fiscal_range(year)
-        output_path = os.path.join(base_path, 'Proposed.{}.{}.json'.format(
+        output_path = os.path.join(base_path, 'Adopted.{}.{}.json'.format(
             'Revenue' if is_revenue else 'Expense', fiscal_year_range))
-        os.makedirs(base_path, exist_ok=True)
 
         with open(output_path, 'w') as f:
             f.write(json.dumps(budget_data))

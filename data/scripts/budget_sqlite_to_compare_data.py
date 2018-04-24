@@ -1,5 +1,6 @@
 import json
 import os
+import shutil
 import sqlite3
 
 def year_to_fiscal_range(year):
@@ -21,7 +22,7 @@ def output_data(key_column, fiscal_year, is_revenue, output_key, base_path):
         output_key: row[0],
         "total": row[1],
         "fiscal_year_range": fiscal_year_range,
-        "budget_type": 3
+        "budget_type": 1
     } for row in data]
 
     os.makedirs(base_path, exist_ok=True)
@@ -32,10 +33,18 @@ db_path = 'data/budget.db'
 conn = sqlite3.connect(db_path)
 c = conn.cursor()
 
+base_path = 'data/output/compare'
+try:
+    shutil.rmtree(base_path)
+except IOError:
+    pass
+
+os.makedirs(base_path)
+
 years = [row[0] for row in c.execute("SELECT DISTINCT(fiscal_year) FROM budget_items")]
 
 for directory_suffix, is_revenue in {'expenses': False, 'revenue': True}.items():
-    is_revenue_base_path = 'data/output/compare/fiscal-years-{}'.format(directory_suffix)
+    is_revenue_base_path = '{}/fiscal-years-{}'.format(base_path, directory_suffix)
 
     for year in years:
         dirs = (
@@ -44,9 +53,9 @@ for directory_suffix, is_revenue in {'expenses': False, 'revenue': True}.items()
         )
 
         for output_key, key_column, bottom_directory in dirs:
-            base_path = '{}/{}'.format(is_revenue_base_path, bottom_directory)
+            key_base_path = '{}/{}'.format(is_revenue_base_path, bottom_directory)
             output_data(key_column=key_column, fiscal_year=year, is_revenue=is_revenue,
-                        output_key=output_key, base_path=base_path)
+                        output_key=output_key, base_path=key_base_path)
 
     total_query = c.execute("""
         SELECT fiscal_year, SUM(amount)
@@ -57,7 +66,7 @@ for directory_suffix, is_revenue in {'expenses': False, 'revenue': True}.items()
 
     totals = [{
         "fiscal_year_range": year_to_fiscal_range(row[0]),
-        "budget_type": 3,
+        "budget_type": 1,
         "total": row[1]
     } for row in total_query]
 

@@ -1,4 +1,5 @@
 import os
+import shutil
 import sqlite3
 
 def year_to_fiscal_range(year):
@@ -7,6 +8,14 @@ def year_to_fiscal_range(year):
 db_path = 'data/budget.db'
 conn = sqlite3.connect(db_path)
 c = conn.cursor()
+
+base_path = 'data/output/flow'
+try:
+    shutil.rmtree(base_path)
+except IOError:
+    pass
+
+os.makedirs(base_path)
 
 years = [row[0] for row in c.execute("SELECT DISTINCT(fiscal_year) FROM budget_items")]
 
@@ -25,16 +34,12 @@ for year in years:
 
         # eliminating negative values removes transfer adjustments (see
         # http://openbook.sfgov.org/openbooks/ccsf_content/BudgetHelp/Glossary.html#Adjust),
-        # which makes the fund totals gross instead of net, but has the advantage of
-        # making the links and nodes line up and not requiring refactoring of the sankey
-        # code
+        # makes the fund totals gross instead of net, but has the advantage of making the
+        # links and nodes line up and not requiring refactoring of the sankey code
         if row[-1] > 0:
             output_data.append(','.join([str(r) for r in row]))
 
-    base_path = 'data/output/flow'
-    output_path = os.path.join(base_path, '{}__proposed.csv'.format(fiscal_year_range))
-    os.makedirs(base_path, exist_ok=True)
-
+    output_path = os.path.join(base_path, '{}__adopted.csv'.format(fiscal_year_range))
     with open(output_path, 'w') as f:
         f.write('budget_year,department,account_type,fund_code,account_category,amount\n')
         f.write('\n'.join(output_data))
