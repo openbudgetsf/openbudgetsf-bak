@@ -39,6 +39,9 @@ c.execute("""
     )
 """)
 
+c.execute("CREATE INDEX fiscal_year_is_revenue_idx ON budget_items (fiscal_year, is_revenue)")
+c.execute("CREATE INDEX org_group_dept_program_idx ON budget_items (org_group, dept, program)")
+
 with open('data/raw/Budget.csv') as f:
     csv_reader = csv.reader(f)
     for line_index, line in enumerate(csv_reader):
@@ -47,5 +50,8 @@ with open('data/raw/Budget.csv') as f:
             values += [line[-1].replace(',', '')]
             command = "INSERT INTO budget_items VALUES ({})".format(', '.join(values))
             c.execute(command)
+
+        if line_index % 10000 == 0:
+            print('{} rows consumed'.format(line_index))
 
 conn.commit()
