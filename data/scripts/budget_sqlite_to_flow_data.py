@@ -9,7 +9,7 @@ db_path = 'data/budget.db'
 conn = sqlite3.connect(db_path)
 c = conn.cursor()
 
-base_path = 'data/output/flow'
+base_path = 'overrides/data/flow'
 try:
     shutil.rmtree(base_path)
 except IOError:

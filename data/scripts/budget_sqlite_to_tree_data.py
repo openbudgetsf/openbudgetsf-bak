@@ -10,8 +10,8 @@ db_path = 'data/budget.db'
 conn = sqlite3.connect(db_path)
 c = conn.cursor()
 
-tree_base_path = 'data/output/tree'
-sunburst_base_path = 'data/output/sunburst'
+tree_base_path = 'overrides/data/tree'
+sunburst_base_path = 'overrides/data/sunburst'
 
 for base_path in [tree_base_path, sunburst_base_path]:
     try:
@@ -23,12 +23,13 @@ for base_path in [tree_base_path, sunburst_base_path]:
 
 years = [row[0] for row in c.execute("SELECT DISTINCT(fiscal_year) FROM budget_items")]
 
-for year in years[:1]:
-    for is_revenue in [True, False][:1]:
+for year in years:
+    for is_revenue in [True, False]:
+        print('Year: {}, type: {}'.format(year, 'Revenue' if is_revenue else 'Expense'))
+
         keys = ['org_group', 'dept', 'program', 'character', 'object', 'sub_object']
 
         def select_keys(remaining_keys=keys, select_columns=[], select_values=[]):
-            # print(select_values)
             remaining_keys = list(remaining_keys)
             select_columns = list(select_columns)
 
@@ -44,7 +45,6 @@ for year in years[:1]:
                     key=key,
                     is_revenue='Revenue' if is_revenue else 'Spending',
                     select_columns=''.join([' AND {}'.format(c) for c in select_columns]))
-            # print(query)
             rows = list(c.execute(query))
 
             values = []
