@@ -3,9 +3,6 @@
 git submodule update --init
 cd openbudgetoakland/_src
 
-# Install Homebrew
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
 # Install node
 brew install node
 
