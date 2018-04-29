@@ -31,7 +31,6 @@ cp -r ../_dist/* ../..
 rm -rf ../_dist
 # restore node_modules before you forget
 mv _node_modules node_modules
-exit
 
 # move back to the root, and add and commit files
 cd ../../
