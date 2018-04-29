@@ -1,4 +1,6 @@
 #!/bin/bash
+./deploy_overrides.sh
+
 fswatch --event Created --event Updated --event Removed --event Renamed \
 		--event MovedFrom --event MovedTo --event Link overrides/ -r -o | xargs -n1 -I{} ./deploy_overrides.sh &
 
