@@ -1,0 +1,4374 @@
+{
+    "links": [
+        {
+            "source": "Gruwell, Chris",
+            "target": "A, Measure",
+            "value": 1229.94
+        },
+        {
+            "source": "Lennar Homes Of California, Inc.",
+            "target": "A, Measure",
+            "value": 10000
+        },
+        {
+            "source": "Podell, Nick",
+            "target": "A, Measure",
+            "value": 10000
+        },
+        {
+            "source": "Srb Syndicate, Llc",
+            "target": "A, Measure",
+            "value": 50000
+        },
+        {
+            "source": "Adams, Scott",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Allbin, Eric",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Anderson, Darius",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Anderson, Sarah",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Au, Helina",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Au, Pang",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Blaine, Gregory",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Cheung, Angela",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Cleaveland, Ken",
+            "target": "Breed, London",
+            "value": 850
+        },
+        {
+            "source": "Cleaveland, William",
+            "target": "Breed, London",
+            "value": 150
+        },
+        {
+            "source": "Cross, Charles",
+            "target": "Breed, London",
+            "value": 100
+        },
+        {
+            "source": "Culiner, Lael",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Erickson, Oz",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Flood, Karin",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Friedman, Anita",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Friend, Jason",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Gruwell, Stephen",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Gunther, Paul",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Haas, James",
+            "target": "Breed, London",
+            "value": 150
+        },
+        {
+            "source": "Hearing, Arden",
+            "target": "Breed, London",
+            "value": 250
+        },
+        {
+            "source": "Hogan, Ariane",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Iatse Local 16 Pac",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Ibew Local 6 Political Account",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Jeffries, Jennifer",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Kingsley, Dan",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Langelier, William",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Lauter, Samuel",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Lauter, Stephanie",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "London, Mike",
+            "target": "Breed, London",
+            "value": 100
+        },
+        {
+            "source": "Lyons, Joseph",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Makras, Victor",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Maples, Michael",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Mellett, Robert",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Mesloh, Debbie",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Nelson, Gregg",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Nemeth, Terezia",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Newstat, Joyce",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Northern California District Council Of Laborers Pac",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Operating Engineers Local 3 Union Statewide Pac",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Peterson, Richard",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Plumbers And Steamfitters Ua Local 38",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Read, Macgregor",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Rocco, Shae",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Safier, Dan",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Sakamoto, Keiko",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "San Francisco Fire Fighters Local 798",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Schellinger, Peter",
+            "target": "Breed, London",
+            "value": 100
+        },
+        {
+            "source": "Servino, Kathryn",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Sf Alliance For Jobs & Sustainable Growth",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Sittnick, Pete",
+            "target": "Breed, London",
+            "value": 250
+        },
+        {
+            "source": "Smolens, H. Marcia",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Tadesse, Sileshi",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Tandler, Robert",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Teamsters Local Union No. 350",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Teamsters Local Union No. 665",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Tullmann, Debbie",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Valli Tandler",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Winnicker, Tony",
+            "target": "Breed, London",
+            "value": 500
+        },
+        {
+            "source": "Webcor Builders",
+            "target": "Campos, David",
+            "value": 1000
+        },
+        {
+            "source": "Ackerberg, Peggy",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Alsop, Stewart",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Altman, Sam",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Birch, Michael",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Birch, Xochi",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Bogue, Zachary",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Bradley, Richard",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Carter, Kevin",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Cassolato, Stefano",
+            "target": "Christensen, Julie",
+            "value": 200
+        },
+        {
+            "source": "Caufield, Frank",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Cleaveland, William K",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Conway, Christopher",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Conway, Gayle",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Conway, Michele",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Conway, Ronald",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Conway, Ronny",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Fenton, Peter",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Florence, Toran",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Go, Francesca",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Golub, Benjamin",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Hasbrouck, Mary-Elizabeth",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Hatch, Ann",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Hayes, Jeff",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Hays, Carole",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Kelley, David",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Kovacevich, Richard",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Mattrick, Don",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Mayer, Marissa",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Oppenheimer, David",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Osofsky, Justin",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Parker, Alexandra",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Parker, Sean",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Peterson, Rich",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Pokorny, Brian",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Pollak, Robert",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Rabois, Keith",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Schrage, Elliot",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Sharp, Christina",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Sharp, Evan",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Silbermann, Benjamin",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Simon, Robert",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Stone, Biz",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Stone, Olivia",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Thomas, Laurie",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Tourk, Alex",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Van Dusen, Stephen",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Vettel, Steven",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Wright, Chris",
+            "target": "Christensen, Julie",
+            "value": 500
+        },
+        {
+            "source": "Garza-Bird, Mari",
+            "target": "Cisneros, Jose",
+            "value": 100
+        },
+        {
+            "source": "Gladstone, Brett",
+            "target": "Cisneros, Jose",
+            "value": 250
+        },
+        {
+            "source": "Laborers Local 261",
+            "target": "Cisneros, Jose",
+            "value": 500
+        },
+        {
+            "source": "Michels, Trent",
+            "target": "Cisneros, Jose",
+            "value": 500
+        },
+        {
+            "source": "Pedric, Ryan",
+            "target": "Cisneros, Jose",
+            "value": 500
+        },
+        {
+            "source": "Rutland, Patty-Jo",
+            "target": "Cisneros, Jose",
+            "value": 100
+        },
+        {
+            "source": "Adams, Kimberly",
+            "target": "Cohen, Malia",
+            "value": 200
+        },
+        {
+            "source": "Browner, Warren",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Cleaveland, Ken",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Downs, Gary",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Dufty, Bevan",
+            "target": "Cohen, Malia",
+            "value": 400
+        },
+        {
+            "source": "Fitch, Jennifer",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Gladstone, Brett",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Haight, Robert",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Hernandez, Jennifer",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Hogan, Ariane",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Johnston, Karin",
+            "target": "Cohen, Malia",
+            "value": 200
+        },
+        {
+            "source": "Kuei, Irene",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Mcnerney, Patrick",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Moss, Jordan",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Moyer, Monique",
+            "target": "Cohen, Malia",
+            "value": 100
+        },
+        {
+            "source": "O'reilly, Sean",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Pelichoff, Lynn",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Pelichoff, Scott",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Pham, Tuan",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Roess, Llc",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Sekhri, Neil",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Sewell, David",
+            "target": "Cohen, Malia",
+            "value": 250
+        },
+        {
+            "source": "Sfaa-Pac",
+            "target": "Cohen, Malia",
+            "value": 2000
+        },
+        {
+            "source": "Smith, Steven",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Stutts, Mary",
+            "target": "Cohen, Malia",
+            "value": 100
+        },
+        {
+            "source": "Tourk, Alex",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Tullmann, Debbie",
+            "target": "Cohen, Malia",
+            "value": 500
+        },
+        {
+            "source": "Gruwell, Chris",
+            "target": "H, Measure",
+            "value": 1078.8
+        },
+        {
+            "source": "Adams, Scott",
+            "target": "Hennessy, Vicki",
+            "value": 100
+        },
+        {
+            "source": "Allphin, Gwyndolen",
+            "target": "Hennessy, Vicki",
+            "value": 25
+        },
+        {
+            "source": "Campion, Marty",
+            "target": "Hennessy, Vicki",
+            "value": 100
+        },
+        {
+            "source": "Cleaveland, Ken",
+            "target": "Hennessy, Vicki",
+            "value": 150
+        },
+        {
+            "source": "Dugan, Joseph",
+            "target": "Hennessy, Vicki",
+            "value": 250
+        },
+        {
+            "source": "Epel, Naomi",
+            "target": "Hennessy, Vicki",
+            "value": 25
+        },
+        {
+            "source": "Erdmann, Scott",
+            "target": "Hennessy, Vicki",
+            "value": 100
+        },
+        {
+            "source": "Falvey, Christine",
+            "target": "Hennessy, Vicki",
+            "value": 100
+        },
+        {
+            "source": "Fannon, Una",
+            "target": "Hennessy, Vicki",
+            "value": 150
+        },
+        {
+            "source": "Feinstein, Dianne",
+            "target": "Hennessy, Vicki",
+            "value": 500
+        },
+        {
+            "source": "Gilligan, Luke",
+            "target": "Hennessy, Vicki",
+            "value": 500
+        },
+        {
+            "source": "Johnson, Lillian",
+            "target": "Hennessy, Vicki",
+            "value": 50
+        },
+        {
+            "source": "Johnston, Jennifer",
+            "target": "Hennessy, Vicki",
+            "value": 50
+        },
+        {
+            "source": "Kawa, Steve",
+            "target": "Hennessy, Vicki",
+            "value": 500
+        },
+        {
+            "source": "Lapointe, Denise",
+            "target": "Hennessy, Vicki",
+            "value": 500
+        },
+        {
+            "source": "Loeven, Lewis",
+            "target": "Hennessy, Vicki",
+            "value": 250
+        },
+        {
+            "source": "Mccarthy, Angus",
+            "target": "Hennessy, Vicki",
+            "value": 500
+        },
+        {
+            "source": "Murray, Michael",
+            "target": "Hennessy, Vicki",
+            "value": 250
+        },
+        {
+            "source": "O'brien, Michael",
+            "target": "Hennessy, Vicki",
+            "value": 500
+        },
+        {
+            "source": "O'brien, Seosanh",
+            "target": "Hennessy, Vicki",
+            "value": 500
+        },
+        {
+            "source": "O'shea, Maureen",
+            "target": "Hennessy, Vicki",
+            "value": 50
+        },
+        {
+            "source": "Peterson, Richard",
+            "target": "Hennessy, Vicki",
+            "value": 250
+        },
+        {
+            "source": "Scnnell, Joan",
+            "target": "Hennessy, Vicki",
+            "value": 50
+        },
+        {
+            "source": "Smolens, H. Marcia",
+            "target": "Hennessy, Vicki",
+            "value": 250
+        },
+        {
+            "source": "New, Janan",
+            "target": "Hennessy, Vickie",
+            "value": 500
+        },
+        {
+            "source": "Sfaa-Pac",
+            "target": "Hennessy, Vickie",
+            "value": 500
+        },
+        {
+            "source": "Gruwell, Chris",
+            "target": "Herrera, Dennis",
+            "value": 500
+        },
+        {
+            "source": "Smolens, H. Marcia",
+            "target": "Herrera, Dennis",
+            "value": 500
+        },
+        {
+            "source": "Lennar Residential",
+            "target": "J, Measure",
+            "value": 10000
+        },
+        {
+            "source": "Goodyear Peterson Hayward & Associates",
+            "target": "Kim, Jane",
+            "value": 2000
+        },
+        {
+            "source": "Johnston, Karin",
+            "target": "Kim, Jane",
+            "value": 100
+        },
+        {
+            "source": "Abraham, John",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Abram, Benjamin",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Abrams, James",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Achtenberg, Roberta",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Adams, Scott",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Agger, David",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Anderson, Darius",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Anderson, Jack",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Anderson, Sarah",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Baron, Barry",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Bartlett, Ted",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Baruh, John",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Baum, Alvin",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Bell, Veronica",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Bickford, John",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Blaine, Cheryl",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Boeing, Susan",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Boren, Corinne",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Brandt, Julie",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Bryant, Josefina",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Buie, James",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Cassolato, Stefano",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Cepkauskas, Marty",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Chapman, Todd",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Christensen, Julienne",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Chu, Carey",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Clark, Tom",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Cohen, Martha",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Cohn, Barry",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Corzine, Josh",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Cross, Charles",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Denman, Michael",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Devincenti, James",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Dufty, Bevan",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Duggan Jr, John",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Duggan Sr, John",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Egan, Kerry",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Eisenberg, Jeff",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Emerson, Daniel",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Enriquez-Grajeda, Nora",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Farrell, James",
+            "target": "Lee, Ed",
+            "value": 350
+        },
+        {
+            "source": "Feldman, Michael",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Felson, Joe",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Fetter, Alexander",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Fiedotin, Richard",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Fields, Kathy",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Fleishhacker, William",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Fong, Jacalyn",
+            "target": "Lee, Ed",
+            "value": 100
+        },
+        {
+            "source": "Frankel, Charles",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Freeman, William",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Frey, Jacqueline",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Friedkin, Amy",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Friedkin, Morton",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Friedman, Anita",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Friedman, David",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Friend, Benjamin",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Friend, Donny",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Friend, Janie",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Friend, Jason",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Friend, Michelle",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Gardner, Christine",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Ghielmetti, James",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Ginsberg, Shane",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Goldman, Richie",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Goldman, Tracy",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Golub, Lee",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Golub, Sandra",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Goodyear, Charles",
+            "target": "Lee, Ed",
+            "value": 1000
+        },
+        {
+            "source": "Goodyear, Claire",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Goodyear, Connie",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Grand, Nancy",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Grand, Stephen",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Greenberg, Barbara",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Greenberg, John",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Haas, Walter",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Hamalian, Seth",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Hansen, Andrew",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Hanson, Lisa",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Harris, David",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Harris, Paula",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Hart, Bruce",
+            "target": "Lee, Ed",
+            "value": 400
+        },
+        {
+            "source": "Hasz, Karl",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Hayward, Boe",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Hayward, Sophie",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Heim, Jamie",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Heim, Richard",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Heithaus, Marco",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Hogan, Ariane",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Holgate, Robert",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Holt, Maureen",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Hudson, Bill",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Humphrey, Arthur",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Hunter, Robert",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Jewett, George",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Johns, Richard",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Johnston, Karin",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Johnston, Patrick",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Jones, Dwayne",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Junius, Andrew",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Kahn, Ellen",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Kamen, Jason",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Kelley, Ariel",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Koch, Hans",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Kumar, Vijay",
+            "target": "Lee, Ed",
+            "value": 300
+        },
+        {
+            "source": "Kyogoku, Yasunobu",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "La, Nicole",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Lagomarsino, Brad",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Langelier, Bill",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Lawton, Edward",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Lazarus, Jim",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Leider, Richard",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Leonoudakis, Jeff",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Lesser, Philip",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Levin Schiff, Sue Ann",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Linker, Joyce",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Ludwig, Jim",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Lybarsky, Cynthia",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Lyons, Joseph",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Macneill, Diarmuid",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Maguire, Chris",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Mcisaac, Peter",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Mellett, Robert",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Meyer, Andrew",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Meyer, Ben",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Moore, Elizabeth",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Morris, Diane",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Mosher, Mark",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Naughton, Bernadette",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Nelson Golub, Jill",
+            "target": "Lee, Ed",
+            "value": 100
+        },
+        {
+            "source": "Newman, Michael",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Noel, Casey",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Nootbaar, Joe",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "O'reilly, Sean",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Paige, Matt",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Pannu, Hardip",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Patel, Arvind",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Pedrero, Anne",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Pedrero, Robert",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Peterson, Marianne",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Peterson, Richard",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Peterson, Tanya",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Piccini, Matthew",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Podell, Leslie",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Podell, Nick",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Poole, Ed",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Poole, Lynn",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Power, Tom",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Preston, Scott",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Pursglove, Kevin",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Rabin, Daniel",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Randolph, Alex",
+            "target": "Lee, Ed",
+            "value": 200
+        },
+        {
+            "source": "Rayant, Garry",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Read, Macgregor",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Reuben, James",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Roeder, Chris",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Roos, Joel",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Rosenberg, Patricia",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Rosenblatt, Sally",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Rothenberg, Alan",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Rubin, Richard",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Safire, Eric",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Sal, Giglio",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "San Francisco Bar Pilots' Political Action Committee",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Sandra, Eugene",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Saperstein, Jacob",
+            "target": "Lee, Ed",
+            "value": 100
+        },
+        {
+            "source": "Saxe, David",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Saylor, Natalie",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Schellinger, Peter",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Schmitt, Bob",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Seitz, Lisa",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Shain, Susan",
+            "target": "Lee, Ed",
+            "value": 200
+        },
+        {
+            "source": "Sheehy, Brian",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Slepian, Arthur",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Smith, Josh",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Smolens, H. Marcia",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Stern, Harry",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Strang, Gary",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Sweet, Michael",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Swig, Darian",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Tandler, Robert",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Tanner, Steven",
+            "target": "Lee, Ed",
+            "value": 200
+        },
+        {
+            "source": "Tartakovsky, Aaron",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Tartakovsky, Igor",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Tartakovsky, Joseph",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Tartakovsky, Tahlia",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Taylor, Jeri",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Tesler, Robert",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Tomkins, Claire",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Tomkins, Jenny",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Tran, Cali",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Waldman, Kevin",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Waterbury, Emily",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Watkins, Stephen",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Wheaton, Nicole",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Whitehurst, John",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Williams, Alison",
+            "target": "Lee, Ed",
+            "value": 250
+        },
+        {
+            "source": "Woodbury, Tim",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Zeches, Charley",
+            "target": "Lee, Ed",
+            "value": 500
+        },
+        {
+            "source": "Agarwal, Aditya",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Austin, David",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Bhusri, Aneel",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Blume, Zach",
+            "target": "Lee, Edwin",
+            "value": 100
+        },
+        {
+            "source": "Cassolato, Stefano",
+            "target": "Lee, Edwin",
+            "value": 250
+        },
+        {
+            "source": "Chang, Annabel",
+            "target": "Lee, Edwin",
+            "value": 200
+        },
+        {
+            "source": "Chignell, Paul",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Cleaveland, William K",
+            "target": "Lee, Edwin",
+            "value": 250
+        },
+        {
+            "source": "Costolo, Dick",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Costolo, Lorin",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Estrada, Dave",
+            "target": "Lee, Edwin",
+            "value": 200
+        },
+        {
+            "source": "Fadeev, Boris",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Fazio, Anthony",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Ferrigno, Sharon",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Graham, Paul",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Hebel, Michael",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Howard, Chris",
+            "target": "Lee, Edwin",
+            "value": 250
+        },
+        {
+            "source": "Jones, Shawnel",
+            "target": "Lee, Edwin",
+            "value": 99
+        },
+        {
+            "source": "Kirwan, Val",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Kordestani, Gisel",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Kunze, John",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Lapointe, Denise",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Lepe, Bismark",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Linscheid, Bob",
+            "target": "Lee, Edwin",
+            "value": 250
+        },
+        {
+            "source": "Liu Collins, Margaret",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Livingston, Jessica",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Mannix, Ann",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Moser, Robert",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Orkes, Charlie",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Paul, Sunil",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Redmond, Sharon",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Roach, Michael",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Schleier-Smith, Johann",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Singerman, Brian",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Sommer, Ethan",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Tan, Garry",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Tomioka, Kirk",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Tomioka, Lyn",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "Tseng, Greg",
+            "target": "Lee, Edwin",
+            "value": 100
+        },
+        {
+            "source": "Walk, Hunter",
+            "target": "Lee, Edwin",
+            "value": 25
+        },
+        {
+            "source": "Wallenberg, Jeremy",
+            "target": "Lee, Edwin",
+            "value": 100
+        },
+        {
+            "source": "Weinbeg, Anna",
+            "target": "Lee, Edwin",
+            "value": 500
+        },
+        {
+            "source": "White, Brad",
+            "target": "Lee, Edwin",
+            "value": 250
+        },
+        {
+            "source": "Whitney, Sean",
+            "target": "Lee, Edwin",
+            "value": 100
+        },
+        {
+            "source": "Sfaa-Pac",
+            "target": "Na, Na",
+            "value": 39000
+        },
+        {
+            "source": "Sfaa-Pac",
+            "target": "None, None",
+            "value": 3500
+        },
+        {
+            "source": "Alberti, Adam",
+            "target": "Peskin, Aaron",
+            "value": 500
+        },
+        {
+            "source": "Gruwell, Chris",
+            "target": "Peskin, Aaron",
+            "value": 400
+        },
+        {
+            "source": "Lapointe, Denise",
+            "target": "Peskin, Aaron",
+            "value": 500
+        },
+        {
+            "source": "Lauter, Samuel",
+            "target": "Peskin, Aaron",
+            "value": 500
+        },
+        {
+            "source": "Peterson, Richard",
+            "target": "Peskin, Aaron",
+            "value": 500
+        },
+        {
+            "source": "Sfaa-Pac",
+            "target": "Peskin, Aaron",
+            "value": 500
+        },
+        {
+            "source": "Singer, Sam",
+            "target": "Peskin, Aaron",
+            "value": 500
+        },
+        {
+            "source": "New, Janan",
+            "target": "Philhour, Marjan",
+            "value": 500
+        },
+        {
+            "source": "Sfaa-Pac",
+            "target": "Philhour, Marjan",
+            "value": 500
+        },
+        {
+            "source": "Cleaveland, Ken",
+            "target": "Randolph, Alex",
+            "value": 550
+        },
+        {
+            "source": "Cleaveland, William K",
+            "target": "Randolph, Alex",
+            "value": 350
+        },
+        {
+            "source": "Gladstone, Brett",
+            "target": "Randolph, Alex",
+            "value": 250
+        },
+        {
+            "source": "Sfaa-Pac",
+            "target": "Randolph, Alex",
+            "value": 500
+        },
+        {
+            "source": "Peterson, Rich",
+            "target": "Ronen, Hillary",
+            "value": 500
+        },
+        {
+            "source": "Byrne, Paul",
+            "target": "Safai, Ahsha",
+            "value": 500
+        },
+        {
+            "source": "Fornari, Cody",
+            "target": "Safai, Ahsha",
+            "value": 500
+        },
+        {
+            "source": "Goldman, Richard",
+            "target": "Safai, Ahsha",
+            "value": 250
+        },
+        {
+            "source": "Gruwell, Chris",
+            "target": "Safai, Ahsha",
+            "value": 262.74
+        },
+        {
+            "source": "Jaye, Eric",
+            "target": "Safai, Ahsha",
+            "value": 250
+        },
+        {
+            "source": "Jung, Mary",
+            "target": "Safai, Ahsha",
+            "value": 500
+        },
+        {
+            "source": "Lauter, Samuel",
+            "target": "Safai, Ahsha",
+            "value": 500
+        },
+        {
+            "source": "Lazarus, James",
+            "target": "Safai, Ahsha",
+            "value": 100
+        },
+        {
+            "source": "Marantis, Demetrios",
+            "target": "Safai, Ahsha",
+            "value": 100
+        },
+        {
+            "source": "New, Janan",
+            "target": "Safai, Ahsha",
+            "value": 250
+        },
+        {
+            "source": "Peterson, Richard",
+            "target": "Safai, Ahsha",
+            "value": 500
+        },
+        {
+            "source": "Sfaa-Pac",
+            "target": "Safai, Ahsha",
+            "value": 250
+        },
+        {
+            "source": "Shemano, Jacob",
+            "target": "Safai, Ahsha",
+            "value": 500
+        },
+        {
+            "source": "Tourk, Alex",
+            "target": "Safai, Ahsha",
+            "value": 500
+        },
+        {
+            "source": "Wright, Chris",
+            "target": "Safai, Ahsha",
+            "value": 200
+        },
+        {
+            "source": "Wright, Christopher",
+            "target": "Safai, Ahsha",
+            "value": 200
+        },
+        {
+            "source": "Alexandria Real Estate Equities, Inc.",
+            "target": "Sf Ballot Measure, Prop A",
+            "value": 7500
+        },
+        {
+            "source": "Comcast Cable Communications, Inc.",
+            "target": "Sf Ballot Measure, Prop A",
+            "value": 7500
+        },
+        {
+            "source": "Dfs Group Limited",
+            "target": "Sf Ballot Measure, Prop A",
+            "value": 7500
+        },
+        {
+            "source": "Forest City",
+            "target": "Sf Ballot Measure, Prop A",
+            "value": 50000
+        },
+        {
+            "source": "Genentech",
+            "target": "Sf Ballot Measure, Prop A",
+            "value": 10000
+        },
+        {
+            "source": "Mellett, Robert",
+            "target": "Sf Ballot Measure, Prop A",
+            "value": 7500
+        },
+        {
+            "source": "Millennium Partners",
+            "target": "Sf Ballot Measure, Prop A",
+            "value": 50000
+        },
+        {
+            "source": "Pacific Waterfront Partners, Llc",
+            "target": "Sf Ballot Measure, Prop A",
+            "value": 7500
+        },
+        {
+            "source": "Smith, Josh",
+            "target": "Sf Ballot Measure, Prop A",
+            "value": 7500
+        },
+        {
+            "source": "Cleaveland, William K",
+            "target": "Wiener, Scott",
+            "value": 250
+        },
+        {
+            "source": "Giacomini, Andrew",
+            "target": "Wiener, Scott",
+            "value": 250
+        },
+        {
+            "source": "Gladstone, Brett",
+            "target": "Wiener, Scott",
+            "value": 600
+        },
+        {
+            "source": "Gladstone, Nina",
+            "target": "Wiener, Scott",
+            "value": 100
+        },
+        {
+            "source": "Goodyear Peterson Hayward & Associates",
+            "target": "Wiener, Scott",
+            "value": 3000
+        },
+        {
+            "source": "Heller Manus Architects",
+            "target": "Wiener, Scott",
+            "value": 500
+        },
+        {
+            "source": "Heneghan, Kevin",
+            "target": "Wiener, Scott",
+            "value": 150
+        },
+        {
+            "source": "Karnilowicz, Henry",
+            "target": "Wiener, Scott",
+            "value": 250
+        },
+        {
+            "source": "Lum, John",
+            "target": "Wiener, Scott",
+            "value": 250
+        },
+        {
+            "source": "Makras, Victor",
+            "target": "Wiener, Scott",
+            "value": 250
+        },
+        {
+            "source": "Miller, David",
+            "target": "Wiener, Scott",
+            "value": 250
+        },
+        {
+            "source": "Pendergast, Paul",
+            "target": "Wiener, Scott",
+            "value": 250
+        },
+        {
+            "source": "Preston, Scott",
+            "target": "Wiener, Scott",
+            "value": 150
+        },
+        {
+            "source": "Rrti, Inc.",
+            "target": "Wiener, Scott",
+            "value": 1000
+        },
+        {
+            "source": "Singer Associates, Inc.",
+            "target": "Wiener, Scott",
+            "value": 1000
+        },
+        {
+            "source": "Storper, Jonathan",
+            "target": "Wiener, Scott",
+            "value": 400
+        },
+        {
+            "source": "Stratton, Richard",
+            "target": "Wiener, Scott",
+            "value": 250
+        },
+        {
+            "source": "Vettel, Steve",
+            "target": "Wiener, Scott",
+            "value": 500
+        },
+        {
+            "source": "Zira, Tahir",
+            "target": "Wiener, Scott",
+            "value": 250
+        },
+        {
+            "source": "Anderson, Darius",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Anderson, Sarah",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Au, Helina",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Au, Pang",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Cassolato, Stefano",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Cheung, Angela",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Frattin, Daniel",
+            "target": "Yee, Norman",
+            "value": 250
+        },
+        {
+            "source": "Gruwell, Chris",
+            "target": "Yee, Norman",
+            "value": 467.63
+        },
+        {
+            "source": "Hauben, Margaret",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Hayward, Sophie",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Jewett, Brenda",
+            "target": "Yee, Norman",
+            "value": 200
+        },
+        {
+            "source": "Junius, Andrew",
+            "target": "Yee, Norman",
+            "value": 250
+        },
+        {
+            "source": "Kevlin, John",
+            "target": "Yee, Norman",
+            "value": 200
+        },
+        {
+            "source": "Krajcar, Antoinette",
+            "target": "Yee, Norman",
+            "value": 200
+        },
+        {
+            "source": "Laborers Local 261",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Marchetti, Kevin",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Mcnellis, John",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Meyer, Andrew",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Meyer, Ben",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Michels, Trent",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Miller, Neil",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Padraic, Ryan",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Pedrero, Anne",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Pedrero, Robert",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Peterson, Richard",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Podell, Leslie",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Poole, Ed",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Read, Macgregor",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Reuben, Jim",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Richardson, Linda",
+            "target": "Yee, Norman",
+            "value": 250
+        },
+        {
+            "source": "Sanandaji, Cyrus",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Schellinger, Peter",
+            "target": "Yee, Norman",
+            "value": 100
+        },
+        {
+            "source": "Secchia, Gail",
+            "target": "Yee, Norman",
+            "value": 500
+        },
+        {
+            "source": "Teamsters Local 856",
+            "target": "Yee, Norman",
+            "value": 500
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "Lee, Ed"
+        },
+        {
+            "group": 1,
+            "id": "Breed, London"
+        },
+        {
+            "group": 1,
+            "id": "Safai, Ahsha"
+        },
+        {
+            "group": 1,
+            "id": "Hennessy, Vicki"
+        },
+        {
+            "group": 1,
+            "id": "Lee, Edwin"
+        },
+        {
+            "group": 1,
+            "id": "Christensen, Julie"
+        },
+        {
+            "group": 1,
+            "id": "Yee, Norman"
+        },
+        {
+            "group": 1,
+            "id": "Peskin, Aaron"
+        },
+        {
+            "group": 1,
+            "id": "Wiener, Scott"
+        },
+        {
+            "group": 1,
+            "id": "Randolph, Alex"
+        },
+        {
+            "group": 1,
+            "id": "Cohen, Malia"
+        },
+        {
+            "group": 1,
+            "id": "Philhour, Marjan"
+        },
+        {
+            "group": 1,
+            "id": "None, None"
+        },
+        {
+            "group": 1,
+            "id": "Hennessy, Vickie"
+        },
+        {
+            "group": 1,
+            "id": "Na, Na"
+        },
+        {
+            "group": 1,
+            "id": "Herrera, Dennis"
+        },
+        {
+            "group": 1,
+            "id": "Sf Ballot Measure, Prop A"
+        },
+        {
+            "group": 1,
+            "id": "Kim, Jane"
+        },
+        {
+            "group": 1,
+            "id": "Cisneros, Jose"
+        },
+        {
+            "group": 1,
+            "id": "Campos, David"
+        },
+        {
+            "group": 1,
+            "id": "H, Measure"
+        },
+        {
+            "group": 1,
+            "id": "J, Measure"
+        },
+        {
+            "group": 1,
+            "id": "A, Measure"
+        },
+        {
+            "group": 1,
+            "id": "Ronen, Hillary"
+        },
+        {
+            "group": 2,
+            "id": "Golub, Sandra"
+        },
+        {
+            "group": 2,
+            "id": "Teamsters Local Union No. 350"
+        },
+        {
+            "group": 2,
+            "id": "Blaine, Cheryl"
+        },
+        {
+            "group": 2,
+            "id": "Cleaveland, Ken"
+        },
+        {
+            "group": 2,
+            "id": "Gruwell, Chris"
+        },
+        {
+            "group": 2,
+            "id": "Rabin, Daniel"
+        },
+        {
+            "group": 2,
+            "id": "Allphin, Gwyndolen"
+        },
+        {
+            "group": 2,
+            "id": "Tseng, Greg"
+        },
+        {
+            "group": 2,
+            "id": "Eisenberg, Jeff"
+        },
+        {
+            "group": 2,
+            "id": "Parker, Sean"
+        },
+        {
+            "group": 2,
+            "id": "Parker, Alexandra"
+        },
+        {
+            "group": 2,
+            "id": "Agarwal, Aditya"
+        },
+        {
+            "group": 2,
+            "id": "Erdmann, Scott"
+        },
+        {
+            "group": 2,
+            "id": "Conway, Christopher"
+        },
+        {
+            "group": 2,
+            "id": "Hanson, Lisa"
+        },
+        {
+            "group": 2,
+            "id": "Sommer, Ethan"
+        },
+        {
+            "group": 2,
+            "id": "Christensen, Julienne"
+        },
+        {
+            "group": 2,
+            "id": "Teamsters Local 856"
+        },
+        {
+            "group": 2,
+            "id": "Junius, Andrew"
+        },
+        {
+            "group": 2,
+            "id": "Smith, Josh"
+        },
+        {
+            "group": 2,
+            "id": "Heithaus, Marco"
+        },
+        {
+            "group": 2,
+            "id": "Poole, Lynn"
+        },
+        {
+            "group": 2,
+            "id": "Kunze, John"
+        },
+        {
+            "group": 2,
+            "id": "Carter, Kevin"
+        },
+        {
+            "group": 2,
+            "id": "Nemeth, Terezia"
+        },
+        {
+            "group": 2,
+            "id": "Lauter, Samuel"
+        },
+        {
+            "group": 2,
+            "id": "Rosenblatt, Sally"
+        },
+        {
+            "group": 2,
+            "id": "Pollak, Robert"
+        },
+        {
+            "group": 2,
+            "id": "Austin, David"
+        },
+        {
+            "group": 2,
+            "id": "Lum, John"
+        },
+        {
+            "group": 2,
+            "id": "Tandler, Robert"
+        },
+        {
+            "group": 2,
+            "id": "Kelley, David"
+        },
+        {
+            "group": 2,
+            "id": "La, Nicole"
+        },
+        {
+            "group": 2,
+            "id": "Birch, Xochi"
+        },
+        {
+            "group": 2,
+            "id": "Newman, Michael"
+        },
+        {
+            "group": 2,
+            "id": "Goldman, Richie"
+        },
+        {
+            "group": 2,
+            "id": "Cleaveland, William K"
+        },
+        {
+            "group": 2,
+            "id": "Hunter, Robert"
+        },
+        {
+            "group": 2,
+            "id": "Sfaa-Pac"
+        },
+        {
+            "group": 2,
+            "id": "New, Janan"
+        },
+        {
+            "group": 2,
+            "id": "Friend, Benjamin"
+        },
+        {
+            "group": 2,
+            "id": "Marantis, Demetrios"
+        },
+        {
+            "group": 2,
+            "id": "Kordestani, Gisel"
+        },
+        {
+            "group": 2,
+            "id": "Preston, Scott"
+        },
+        {
+            "group": 2,
+            "id": "Fields, Kathy"
+        },
+        {
+            "group": 2,
+            "id": "Boren, Corinne"
+        },
+        {
+            "group": 2,
+            "id": "Gardner, Christine"
+        },
+        {
+            "group": 2,
+            "id": "Fong, Jacalyn"
+        },
+        {
+            "group": 2,
+            "id": "Leonoudakis, Jeff"
+        },
+        {
+            "group": 2,
+            "id": "Noel, Casey"
+        },
+        {
+            "group": 2,
+            "id": "Sittnick, Pete"
+        },
+        {
+            "group": 2,
+            "id": "Jewett, George"
+        },
+        {
+            "group": 2,
+            "id": "Podell, Leslie"
+        },
+        {
+            "group": 2,
+            "id": "Genentech"
+        },
+        {
+            "group": 2,
+            "id": "Meyer, Andrew"
+        },
+        {
+            "group": 2,
+            "id": "Macneill, Diarmuid"
+        },
+        {
+            "group": 2,
+            "id": "Johnston, Karin"
+        },
+        {
+            "group": 2,
+            "id": "Johnson, Lillian"
+        },
+        {
+            "group": 2,
+            "id": "O'brien, Seosanh"
+        },
+        {
+            "group": 2,
+            "id": "Lapointe, Denise"
+        },
+        {
+            "group": 2,
+            "id": "Johns, Richard"
+        },
+        {
+            "group": 2,
+            "id": "Dugan, Joseph"
+        },
+        {
+            "group": 2,
+            "id": "Tourk, Alex"
+        },
+        {
+            "group": 2,
+            "id": "Sal, Giglio"
+        },
+        {
+            "group": 2,
+            "id": "Hernandez, Jennifer"
+        },
+        {
+            "group": 2,
+            "id": "Adams, Kimberly"
+        },
+        {
+            "group": 2,
+            "id": "Wheaton, Nicole"
+        },
+        {
+            "group": 2,
+            "id": "Shemano, Jacob"
+        },
+        {
+            "group": 2,
+            "id": "Sewell, David"
+        },
+        {
+            "group": 2,
+            "id": "Browner, Warren"
+        },
+        {
+            "group": 2,
+            "id": "Rocco, Shae"
+        },
+        {
+            "group": 2,
+            "id": "Lauter, Stephanie"
+        },
+        {
+            "group": 2,
+            "id": "Holt, Maureen"
+        },
+        {
+            "group": 2,
+            "id": "Costolo, Lorin"
+        },
+        {
+            "group": 2,
+            "id": "Chignell, Paul"
+        },
+        {
+            "group": 2,
+            "id": "Costolo, Dick"
+        },
+        {
+            "group": 2,
+            "id": "Bradley, Richard"
+        },
+        {
+            "group": 2,
+            "id": "Miller, David"
+        },
+        {
+            "group": 2,
+            "id": "Frey, Jacqueline"
+        },
+        {
+            "group": 2,
+            "id": "Gladstone, Brett"
+        },
+        {
+            "group": 2,
+            "id": "Fadeev, Boris"
+        },
+        {
+            "group": 2,
+            "id": "Fiedotin, Richard"
+        },
+        {
+            "group": 2,
+            "id": "Schleier-Smith, Johann"
+        },
+        {
+            "group": 2,
+            "id": "O'brien, Michael"
+        },
+        {
+            "group": 2,
+            "id": "Achtenberg, Roberta"
+        },
+        {
+            "group": 2,
+            "id": "Campion, Marty"
+        },
+        {
+            "group": 2,
+            "id": "Levin Schiff, Sue Ann"
+        },
+        {
+            "group": 2,
+            "id": "Smith, Steven"
+        },
+        {
+            "group": 2,
+            "id": "Schrage, Elliot"
+        },
+        {
+            "group": 2,
+            "id": "Ginsberg, Shane"
+        },
+        {
+            "group": 2,
+            "id": "Friend, Donny"
+        },
+        {
+            "group": 2,
+            "id": "Conway, Gayle"
+        },
+        {
+            "group": 2,
+            "id": "Caufield, Frank"
+        },
+        {
+            "group": 2,
+            "id": "Stutts, Mary"
+        },
+        {
+            "group": 2,
+            "id": "Mayer, Marissa"
+        },
+        {
+            "group": 2,
+            "id": "Silbermann, Benjamin"
+        },
+        {
+            "group": 2,
+            "id": "Ackerberg, Peggy"
+        },
+        {
+            "group": 2,
+            "id": "Bogue, Zachary"
+        },
+        {
+            "group": 2,
+            "id": "Moss, Jordan"
+        },
+        {
+            "group": 2,
+            "id": "Hays, Carole"
+        },
+        {
+            "group": 2,
+            "id": "Slepian, Arthur"
+        },
+        {
+            "group": 2,
+            "id": "Mccarthy, Angus"
+        },
+        {
+            "group": 2,
+            "id": "Cohn, Barry"
+        },
+        {
+            "group": 2,
+            "id": "Servino, Kathryn"
+        },
+        {
+            "group": 2,
+            "id": "Nelson Golub, Jill"
+        },
+        {
+            "group": 2,
+            "id": "Swig, Darian"
+        },
+        {
+            "group": 2,
+            "id": "Whitney, Sean"
+        },
+        {
+            "group": 2,
+            "id": "Reuben, James"
+        },
+        {
+            "group": 2,
+            "id": "Scnnell, Joan"
+        },
+        {
+            "group": 2,
+            "id": "Roach, Michael"
+        },
+        {
+            "group": 2,
+            "id": "Rayant, Garry"
+        },
+        {
+            "group": 2,
+            "id": "Lazarus, Jim"
+        },
+        {
+            "group": 2,
+            "id": "Hebel, Michael"
+        },
+        {
+            "group": 2,
+            "id": "Cohen, Martha"
+        },
+        {
+            "group": 2,
+            "id": "Howard, Chris"
+        },
+        {
+            "group": 2,
+            "id": "Jones, Shawnel"
+        },
+        {
+            "group": 2,
+            "id": "Wright, Chris"
+        },
+        {
+            "group": 2,
+            "id": "Saperstein, Jacob"
+        },
+        {
+            "group": 2,
+            "id": "Alsop, Stewart"
+        },
+        {
+            "group": 2,
+            "id": "Gladstone, Nina"
+        },
+        {
+            "group": 2,
+            "id": "O'reilly, Sean"
+        },
+        {
+            "group": 2,
+            "id": "Jung, Mary"
+        },
+        {
+            "group": 2,
+            "id": "Stratton, Richard"
+        },
+        {
+            "group": 2,
+            "id": "Waldman, Kevin"
+        },
+        {
+            "group": 2,
+            "id": "Chu, Carey"
+        },
+        {
+            "group": 2,
+            "id": "Fitch, Jennifer"
+        },
+        {
+            "group": 2,
+            "id": "Tartakovsky, Tahlia"
+        },
+        {
+            "group": 2,
+            "id": "Pham, Tuan"
+        },
+        {
+            "group": 2,
+            "id": "Lesser, Philip"
+        },
+        {
+            "group": 2,
+            "id": "Friend, Jason"
+        },
+        {
+            "group": 2,
+            "id": "Mosher, Mark"
+        },
+        {
+            "group": 2,
+            "id": "Tartakovsky, Aaron"
+        },
+        {
+            "group": 2,
+            "id": "Strang, Gary"
+        },
+        {
+            "group": 2,
+            "id": "Tomkins, Jenny"
+        },
+        {
+            "group": 2,
+            "id": "Holgate, Robert"
+        },
+        {
+            "group": 2,
+            "id": "Agger, David"
+        },
+        {
+            "group": 2,
+            "id": "Feldman, Michael"
+        },
+        {
+            "group": 2,
+            "id": "Moser, Robert"
+        },
+        {
+            "group": 2,
+            "id": "Walk, Hunter"
+        },
+        {
+            "group": 2,
+            "id": "Altman, Sam"
+        },
+        {
+            "group": 2,
+            "id": "Allbin, Eric"
+        },
+        {
+            "group": 2,
+            "id": "Buie, James"
+        },
+        {
+            "group": 2,
+            "id": "Sharp, Christina"
+        },
+        {
+            "group": 2,
+            "id": "Greenberg, John"
+        },
+        {
+            "group": 2,
+            "id": "Felson, Joe"
+        },
+        {
+            "group": 2,
+            "id": "Rosenberg, Patricia"
+        },
+        {
+            "group": 2,
+            "id": "Chang, Annabel"
+        },
+        {
+            "group": 2,
+            "id": "Weinbeg, Anna"
+        },
+        {
+            "group": 2,
+            "id": "Tartakovsky, Joseph"
+        },
+        {
+            "group": 2,
+            "id": "Fenton, Peter"
+        },
+        {
+            "group": 2,
+            "id": "Simon, Robert"
+        },
+        {
+            "group": 2,
+            "id": "Vettel, Steve"
+        },
+        {
+            "group": 2,
+            "id": "Friedkin, Amy"
+        },
+        {
+            "group": 2,
+            "id": "Valli Tandler"
+        },
+        {
+            "group": 2,
+            "id": "Hogan, Ariane"
+        },
+        {
+            "group": 2,
+            "id": "Golub, Benjamin"
+        },
+        {
+            "group": 2,
+            "id": "Johnston, Jennifer"
+        },
+        {
+            "group": 2,
+            "id": "Enriquez-Grajeda, Nora"
+        },
+        {
+            "group": 2,
+            "id": "Rrti, Inc."
+        },
+        {
+            "group": 2,
+            "id": "Dufty, Bevan"
+        },
+        {
+            "group": 2,
+            "id": "Van Dusen, Stephen"
+        },
+        {
+            "group": 2,
+            "id": "Heneghan, Kevin"
+        },
+        {
+            "group": 2,
+            "id": "Devincenti, James"
+        },
+        {
+            "group": 2,
+            "id": "Adams, Scott"
+        },
+        {
+            "group": 2,
+            "id": "Lazarus, James"
+        },
+        {
+            "group": 2,
+            "id": "Shain, Susan"
+        },
+        {
+            "group": 2,
+            "id": "Paul, Sunil"
+        },
+        {
+            "group": 2,
+            "id": "Conway, Ronald"
+        },
+        {
+            "group": 2,
+            "id": "Kahn, Ellen"
+        },
+        {
+            "group": 2,
+            "id": "Newstat, Joyce"
+        },
+        {
+            "group": 2,
+            "id": "Fannon, Una"
+        },
+        {
+            "group": 2,
+            "id": "Friedman, Anita"
+        },
+        {
+            "group": 2,
+            "id": "Greenberg, Barbara"
+        },
+        {
+            "group": 2,
+            "id": "Oppenheimer, David"
+        },
+        {
+            "group": 2,
+            "id": "Frankel, Charles"
+        },
+        {
+            "group": 2,
+            "id": "Sweet, Michael"
+        },
+        {
+            "group": 2,
+            "id": "Tartakovsky, Igor"
+        },
+        {
+            "group": 2,
+            "id": "Jeffries, Jennifer"
+        },
+        {
+            "group": 2,
+            "id": "Feinstein, Dianne"
+        },
+        {
+            "group": 2,
+            "id": "Mellett, Robert"
+        },
+        {
+            "group": 2,
+            "id": "Hamalian, Seth"
+        },
+        {
+            "group": 2,
+            "id": "White, Brad"
+        },
+        {
+            "group": 2,
+            "id": "Blume, Zach"
+        },
+        {
+            "group": 2,
+            "id": "Zira, Tahir"
+        },
+        {
+            "group": 2,
+            "id": "Whitehurst, John"
+        },
+        {
+            "group": 2,
+            "id": "Fetter, Alexander"
+        },
+        {
+            "group": 2,
+            "id": "Loeven, Lewis"
+        },
+        {
+            "group": 2,
+            "id": "Bhusri, Aneel"
+        },
+        {
+            "group": 2,
+            "id": "Murray, Michael"
+        },
+        {
+            "group": 2,
+            "id": "Roos, Joel"
+        },
+        {
+            "group": 2,
+            "id": "Lagomarsino, Brad"
+        },
+        {
+            "group": 2,
+            "id": "Rothenberg, Alan"
+        },
+        {
+            "group": 2,
+            "id": "Ferrigno, Sharon"
+        },
+        {
+            "group": 2,
+            "id": "Sekhri, Neil"
+        },
+        {
+            "group": 2,
+            "id": "Tesler, Robert"
+        },
+        {
+            "group": 2,
+            "id": "Abram, Benjamin"
+        },
+        {
+            "group": 2,
+            "id": "Go, Francesca"
+        },
+        {
+            "group": 2,
+            "id": "Storper, Jonathan"
+        },
+        {
+            "group": 2,
+            "id": "Estrada, Dave"
+        },
+        {
+            "group": 2,
+            "id": "Fazio, Anthony"
+        },
+        {
+            "group": 2,
+            "id": "Birch, Michael"
+        },
+        {
+            "group": 2,
+            "id": "Downs, Gary"
+        },
+        {
+            "group": 2,
+            "id": "Northern California District Council Of Laborers Pac"
+        },
+        {
+            "group": 2,
+            "id": "Abrams, James"
+        },
+        {
+            "group": 2,
+            "id": "Hauben, Margaret"
+        },
+        {
+            "group": 2,
+            "id": "Wright, Christopher"
+        },
+        {
+            "group": 2,
+            "id": "Pokorny, Brian"
+        },
+        {
+            "group": 2,
+            "id": "Tullmann, Debbie"
+        },
+        {
+            "group": 2,
+            "id": "Stone, Olivia"
+        },
+        {
+            "group": 2,
+            "id": "Stern, Harry"
+        },
+        {
+            "group": 2,
+            "id": "Tan, Garry"
+        },
+        {
+            "group": 2,
+            "id": "Fornari, Cody"
+        },
+        {
+            "group": 2,
+            "id": "Hasbrouck, Mary-Elizabeth"
+        },
+        {
+            "group": 2,
+            "id": "Mannix, Ann"
+        },
+        {
+            "group": 2,
+            "id": "Liu Collins, Margaret"
+        },
+        {
+            "group": 2,
+            "id": "Tran, Cali"
+        },
+        {
+            "group": 2,
+            "id": "Pursglove, Kevin"
+        },
+        {
+            "group": 2,
+            "id": "Kelley, Ariel"
+        },
+        {
+            "group": 2,
+            "id": "Tanner, Steven"
+        },
+        {
+            "group": 2,
+            "id": "Tomioka, Lyn"
+        },
+        {
+            "group": 2,
+            "id": "Stone, Biz"
+        },
+        {
+            "group": 2,
+            "id": "O'shea, Maureen"
+        },
+        {
+            "group": 2,
+            "id": "Jaye, Eric"
+        },
+        {
+            "group": 2,
+            "id": "Rabois, Keith"
+        },
+        {
+            "group": 2,
+            "id": "Pelichoff, Lynn"
+        },
+        {
+            "group": 2,
+            "id": "Linscheid, Bob"
+        },
+        {
+            "group": 2,
+            "id": "Osofsky, Justin"
+        },
+        {
+            "group": 2,
+            "id": "Tomioka, Kirk"
+        },
+        {
+            "group": 2,
+            "id": "Friend, Janie"
+        },
+        {
+            "group": 2,
+            "id": "Florence, Toran"
+        },
+        {
+            "group": 2,
+            "id": "Byrne, Paul"
+        },
+        {
+            "group": 2,
+            "id": "Graham, Paul"
+        },
+        {
+            "group": 2,
+            "id": "Karnilowicz, Henry"
+        },
+        {
+            "group": 2,
+            "id": "Roess, Llc"
+        },
+        {
+            "group": 2,
+            "id": "Hayes, Jeff"
+        },
+        {
+            "group": 2,
+            "id": "Falvey, Christine"
+        },
+        {
+            "group": 2,
+            "id": "Woodbury, Tim"
+        },
+        {
+            "group": 2,
+            "id": "Goodyear Peterson Hayward & Associates"
+        },
+        {
+            "group": 2,
+            "id": "Paige, Matt"
+        },
+        {
+            "group": 2,
+            "id": "Redmond, Sharon"
+        },
+        {
+            "group": 2,
+            "id": "Epel, Naomi"
+        },
+        {
+            "group": 2,
+            "id": "Giacomini, Andrew"
+        },
+        {
+            "group": 2,
+            "id": "Saxe, David"
+        },
+        {
+            "group": 2,
+            "id": "Heller Manus Architects"
+        },
+        {
+            "group": 2,
+            "id": "Moyer, Monique"
+        },
+        {
+            "group": 2,
+            "id": "Friedman, David"
+        },
+        {
+            "group": 2,
+            "id": "Friedkin, Morton"
+        },
+        {
+            "group": 2,
+            "id": "Mattrick, Don"
+        },
+        {
+            "group": 2,
+            "id": "Gilligan, Luke"
+        },
+        {
+            "group": 2,
+            "id": "Haight, Robert"
+        },
+        {
+            "group": 2,
+            "id": "Pelichoff, Scott"
+        },
+        {
+            "group": 2,
+            "id": "Taylor, Jeri"
+        },
+        {
+            "group": 2,
+            "id": "Baum, Alvin"
+        },
+        {
+            "group": 2,
+            "id": "Baruh, John"
+        },
+        {
+            "group": 2,
+            "id": "Kuei, Irene"
+        },
+        {
+            "group": 2,
+            "id": "Conway, Michele"
+        },
+        {
+            "group": 2,
+            "id": "Orkes, Charlie"
+        },
+        {
+            "group": 2,
+            "id": "Mcnerney, Patrick"
+        },
+        {
+            "group": 2,
+            "id": "Goldman, Richard"
+        },
+        {
+            "group": 2,
+            "id": "Vettel, Steven"
+        },
+        {
+            "group": 2,
+            "id": "Safire, Eric"
+        },
+        {
+            "group": 2,
+            "id": "Tomkins, Claire"
+        },
+        {
+            "group": 2,
+            "id": "Kovacevich, Richard"
+        },
+        {
+            "group": 2,
+            "id": "Linker, Joyce"
+        },
+        {
+            "group": 2,
+            "id": "Conway, Ronny"
+        },
+        {
+            "group": 2,
+            "id": "Grand, Stephen"
+        },
+        {
+            "group": 2,
+            "id": "Makras, Victor"
+        },
+        {
+            "group": 2,
+            "id": "Thomas, Laurie"
+        },
+        {
+            "group": 2,
+            "id": "Pendergast, Paul"
+        },
+        {
+            "group": 2,
+            "id": "Haas, Walter"
+        },
+        {
+            "group": 2,
+            "id": "Brandt, Julie"
+        },
+        {
+            "group": 2,
+            "id": "Kawa, Steve"
+        },
+        {
+            "group": 2,
+            "id": "Sharp, Evan"
+        },
+        {
+            "group": 2,
+            "id": "Wallenberg, Jeremy"
+        },
+        {
+            "group": 2,
+            "id": "Grand, Nancy"
+        },
+        {
+            "group": 2,
+            "id": "Ghielmetti, James"
+        },
+        {
+            "group": 2,
+            "id": "Lyons, Joseph"
+        },
+        {
+            "group": 2,
+            "id": "Anderson, Jack"
+        },
+        {
+            "group": 2,
+            "id": "Livingston, Jessica"
+        },
+        {
+            "group": 2,
+            "id": "Friend, Michelle"
+        },
+        {
+            "group": 2,
+            "id": "Gunther, Paul"
+        },
+        {
+            "group": 2,
+            "id": "Lepe, Bismark"
+        },
+        {
+            "group": 2,
+            "id": "Lybarsky, Cynthia"
+        },
+        {
+            "group": 2,
+            "id": "Kirwan, Val"
+        },
+        {
+            "group": 2,
+            "id": "Kamen, Jason"
+        },
+        {
+            "group": 2,
+            "id": "Singerman, Brian"
+        },
+        {
+            "group": 2,
+            "id": "Hatch, Ann"
+        },
+        {
+            "group": 2,
+            "id": "Culiner, Lael"
+        },
+        {
+            "group": 2,
+            "id": "Gruwell, Stephen"
+        },
+        {
+            "group": 2,
+            "id": "Plumbers And Steamfitters Ua Local 38"
+        },
+        {
+            "group": 2,
+            "id": "Hearing, Arden"
+        },
+        {
+            "group": 2,
+            "id": "Johnston, Patrick"
+        },
+        {
+            "group": 2,
+            "id": "Smolens, H. Marcia"
+        },
+        {
+            "group": 2,
+            "id": "Cepkauskas, Marty"
+        },
+        {
+            "group": 2,
+            "id": "Michels, Trent"
+        },
+        {
+            "group": 2,
+            "id": "Pedric, Ryan"
+        },
+        {
+            "group": 2,
+            "id": "Boeing, Susan"
+        },
+        {
+            "group": 2,
+            "id": "Peterson, Marianne"
+        },
+        {
+            "group": 2,
+            "id": "Chapman, Todd"
+        },
+        {
+            "group": 2,
+            "id": "Goldman, Tracy"
+        },
+        {
+            "group": 2,
+            "id": "Ludwig, Jim"
+        },
+        {
+            "group": 2,
+            "id": "London, Mike"
+        },
+        {
+            "group": 2,
+            "id": "Sandra, Eugene"
+        },
+        {
+            "group": 2,
+            "id": "Hasz, Karl"
+        },
+        {
+            "group": 2,
+            "id": "Jewett, Brenda"
+        },
+        {
+            "group": 2,
+            "id": "Baron, Barry"
+        },
+        {
+            "group": 2,
+            "id": "Koch, Hans"
+        },
+        {
+            "group": 2,
+            "id": "Pacific Waterfront Partners, Llc"
+        },
+        {
+            "group": 2,
+            "id": "Schmitt, Bob"
+        },
+        {
+            "group": 2,
+            "id": "Krajcar, Antoinette"
+        },
+        {
+            "group": 2,
+            "id": "Au, Helina"
+        },
+        {
+            "group": 2,
+            "id": "Blaine, Gregory"
+        },
+        {
+            "group": 2,
+            "id": "Zeches, Charley"
+        },
+        {
+            "group": 2,
+            "id": "Sakamoto, Keiko"
+        },
+        {
+            "group": 2,
+            "id": "San Francisco Fire Fighters Local 798"
+        },
+        {
+            "group": 2,
+            "id": "Anderson, Darius"
+        },
+        {
+            "group": 2,
+            "id": "San Francisco Bar Pilots' Political Action Committee"
+        },
+        {
+            "group": 2,
+            "id": "Ibew Local 6 Political Account"
+        },
+        {
+            "group": 2,
+            "id": "Miller, Neil"
+        },
+        {
+            "group": 2,
+            "id": "Padraic, Ryan"
+        },
+        {
+            "group": 2,
+            "id": "Heim, Jamie"
+        },
+        {
+            "group": 2,
+            "id": "Read, Macgregor"
+        },
+        {
+            "group": 2,
+            "id": "Kumar, Vijay"
+        },
+        {
+            "group": 2,
+            "id": "Kingsley, Dan"
+        },
+        {
+            "group": 2,
+            "id": "Laborers Local 261"
+        },
+        {
+            "group": 2,
+            "id": "Webcor Builders"
+        },
+        {
+            "group": 2,
+            "id": "Duggan Jr, John"
+        },
+        {
+            "group": 2,
+            "id": "Kevlin, John"
+        },
+        {
+            "group": 2,
+            "id": "Goodyear, Charles"
+        },
+        {
+            "group": 2,
+            "id": "Secchia, Gail"
+        },
+        {
+            "group": 2,
+            "id": "Piccini, Matthew"
+        },
+        {
+            "group": 2,
+            "id": "Harris, Paula"
+        },
+        {
+            "group": 2,
+            "id": "Au, Pang"
+        },
+        {
+            "group": 2,
+            "id": "Lennar Residential"
+        },
+        {
+            "group": 2,
+            "id": "Mcnellis, John"
+        },
+        {
+            "group": 2,
+            "id": "Heim, Richard"
+        },
+        {
+            "group": 2,
+            "id": "Cross, Charles"
+        },
+        {
+            "group": 2,
+            "id": "Iatse Local 16 Pac"
+        },
+        {
+            "group": 2,
+            "id": "Mcisaac, Peter"
+        },
+        {
+            "group": 2,
+            "id": "Mesloh, Debbie"
+        },
+        {
+            "group": 2,
+            "id": "Naughton, Bernadette"
+        },
+        {
+            "group": 2,
+            "id": "Cassolato, Stefano"
+        },
+        {
+            "group": 2,
+            "id": "Sanandaji, Cyrus"
+        },
+        {
+            "group": 2,
+            "id": "Harris, David"
+        },
+        {
+            "group": 2,
+            "id": "Humphrey, Arthur"
+        },
+        {
+            "group": 2,
+            "id": "Srb Syndicate, Llc"
+        },
+        {
+            "group": 2,
+            "id": "Hudson, Bill"
+        },
+        {
+            "group": 2,
+            "id": "Cheung, Angela"
+        },
+        {
+            "group": 2,
+            "id": "Bell, Veronica"
+        },
+        {
+            "group": 2,
+            "id": "Seitz, Lisa"
+        },
+        {
+            "group": 2,
+            "id": "Kyogoku, Yasunobu"
+        },
+        {
+            "group": 2,
+            "id": "Hayward, Boe"
+        },
+        {
+            "group": 2,
+            "id": "Nelson, Gregg"
+        },
+        {
+            "group": 2,
+            "id": "Lennar Homes Of California, Inc."
+        },
+        {
+            "group": 2,
+            "id": "Denman, Michael"
+        },
+        {
+            "group": 2,
+            "id": "Peterson, Rich"
+        },
+        {
+            "group": 2,
+            "id": "Marchetti, Kevin"
+        },
+        {
+            "group": 2,
+            "id": "Maguire, Chris"
+        },
+        {
+            "group": 2,
+            "id": "Meyer, Ben"
+        },
+        {
+            "group": 2,
+            "id": "Schellinger, Peter"
+        },
+        {
+            "group": 2,
+            "id": "Morris, Diane"
+        },
+        {
+            "group": 2,
+            "id": "Pedrero, Anne"
+        },
+        {
+            "group": 2,
+            "id": "Frattin, Daniel"
+        },
+        {
+            "group": 2,
+            "id": "Podell, Nick"
+        },
+        {
+            "group": 2,
+            "id": "Abraham, John"
+        },
+        {
+            "group": 2,
+            "id": "Poole, Ed"
+        },
+        {
+            "group": 2,
+            "id": "Erickson, Oz"
+        },
+        {
+            "group": 2,
+            "id": "Fleishhacker, William"
+        },
+        {
+            "group": 2,
+            "id": "Bartlett, Ted"
+        },
+        {
+            "group": 2,
+            "id": "Goodyear, Connie"
+        },
+        {
+            "group": 2,
+            "id": "Langelier, Bill"
+        },
+        {
+            "group": 2,
+            "id": "Maples, Michael"
+        },
+        {
+            "group": 2,
+            "id": "Power, Tom"
+        },
+        {
+            "group": 2,
+            "id": "Pedrero, Robert"
+        },
+        {
+            "group": 2,
+            "id": "Sf Alliance For Jobs & Sustainable Growth"
+        },
+        {
+            "group": 2,
+            "id": "Teamsters Local Union No. 665"
+        },
+        {
+            "group": 2,
+            "id": "Haas, James"
+        },
+        {
+            "group": 2,
+            "id": "Moore, Elizabeth"
+        },
+        {
+            "group": 2,
+            "id": "Alberti, Adam"
+        },
+        {
+            "group": 2,
+            "id": "Bickford, John"
+        },
+        {
+            "group": 2,
+            "id": "Anderson, Sarah"
+        },
+        {
+            "group": 2,
+            "id": "Peterson, Richard"
+        },
+        {
+            "group": 2,
+            "id": "Hayward, Sophie"
+        },
+        {
+            "group": 2,
+            "id": "Winnicker, Tony"
+        },
+        {
+            "group": 2,
+            "id": "Farrell, James"
+        },
+        {
+            "group": 2,
+            "id": "Singer, Sam"
+        },
+        {
+            "group": 2,
+            "id": "Dfs Group Limited"
+        },
+        {
+            "group": 2,
+            "id": "Richardson, Linda"
+        },
+        {
+            "group": 2,
+            "id": "Saylor, Natalie"
+        },
+        {
+            "group": 2,
+            "id": "Hart, Bruce"
+        },
+        {
+            "group": 2,
+            "id": "Peterson, Tanya"
+        },
+        {
+            "group": 2,
+            "id": "Pannu, Hardip"
+        },
+        {
+            "group": 2,
+            "id": "Jones, Dwayne"
+        },
+        {
+            "group": 2,
+            "id": "Nootbaar, Joe"
+        },
+        {
+            "group": 2,
+            "id": "Sheehy, Brian"
+        },
+        {
+            "group": 2,
+            "id": "Singer Associates, Inc."
+        },
+        {
+            "group": 2,
+            "id": "Alexandria Real Estate Equities, Inc."
+        },
+        {
+            "group": 2,
+            "id": "Tadesse, Sileshi"
+        },
+        {
+            "group": 2,
+            "id": "Rutland, Patty-Jo"
+        },
+        {
+            "group": 2,
+            "id": "Egan, Kerry"
+        },
+        {
+            "group": 2,
+            "id": "Waterbury, Emily"
+        },
+        {
+            "group": 2,
+            "id": "Millennium Partners"
+        },
+        {
+            "group": 2,
+            "id": "Bryant, Josefina"
+        },
+        {
+            "group": 2,
+            "id": "Flood, Karin"
+        },
+        {
+            "group": 2,
+            "id": "Golub, Lee"
+        },
+        {
+            "group": 2,
+            "id": "Clark, Tom"
+        },
+        {
+            "group": 2,
+            "id": "Safier, Dan"
+        },
+        {
+            "group": 2,
+            "id": "Reuben, Jim"
+        },
+        {
+            "group": 2,
+            "id": "Emerson, Daniel"
+        },
+        {
+            "group": 2,
+            "id": "Freeman, William"
+        },
+        {
+            "group": 2,
+            "id": "Corzine, Josh"
+        },
+        {
+            "group": 2,
+            "id": "Comcast Cable Communications, Inc."
+        },
+        {
+            "group": 2,
+            "id": "Goodyear, Claire"
+        },
+        {
+            "group": 2,
+            "id": "Hansen, Andrew"
+        },
+        {
+            "group": 2,
+            "id": "Roeder, Chris"
+        },
+        {
+            "group": 2,
+            "id": "Leider, Richard"
+        },
+        {
+            "group": 2,
+            "id": "Williams, Alison"
+        },
+        {
+            "group": 2,
+            "id": "Forest City"
+        },
+        {
+            "group": 2,
+            "id": "Langelier, William"
+        },
+        {
+            "group": 2,
+            "id": "Lawton, Edward"
+        },
+        {
+            "group": 2,
+            "id": "Duggan Sr, John"
+        },
+        {
+            "group": 2,
+            "id": "Garza-Bird, Mari"
+        },
+        {
+            "group": 2,
+            "id": "Watkins, Stephen"
+        },
+        {
+            "group": 2,
+            "id": "Rubin, Richard"
+        },
+        {
+            "group": 2,
+            "id": "Randolph, Alex"
+        },
+        {
+            "group": 2,
+            "id": "Patel, Arvind"
+        },
+        {
+            "group": 2,
+            "id": "Operating Engineers Local 3 Union Statewide Pac"
+        },
+        {
+            "group": 2,
+            "id": "Cleaveland, William"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+extends templates/flow-template.jade
+
+block title
+  h2 Cash Flow
+
+block datasource
+  h6
+    | Data source:&nbsp;
+    a(href = "http://budgetdata.oaklandca.gov/#!/view-data") Oakland Budget Explorer
+
+block disqus_config
+  script(type="text/javascript").
+    var disqus_identifier = "2017-19-proposed-budget-flow";
+
+block get_datafiles
+  script(type="text/javascript").
+    var datafiles = [
+      {filename: "FY10-11__adopted.csv"},
+      {filename: "FY11-12__adopted.csv"},
+      {filename: "FY12-13__adopted.csv"},
+      {filename: "FY13-14__adopted.csv"},
+      {filename: "FY14-15__adopted.csv"},
+      {filename: "FY15-16__adopted.csv"},
+      {filename: "FY16-17__adopted.csv"},
+      {filename: "FY17-18__adopted.csv"},
+      {filename: "FY18-19__adopted.csv"},
+      {filename: "FY19-20__adopted.csv"}
+    ];

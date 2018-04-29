@@ -1,0 +1,355 @@
+budget_year,department,account_type,fund_code,account_category,amount
+FY19-20,Aid Assistance,Expense,1G,Aid Assistance,27148603
+FY19-20,Aid Assistance,Expense,2S,Aid Assistance,2126355
+FY19-20,Aid Payments,Expense,1G,Aid Payments,314886861
+FY19-20,Allocated Charges,Expense,2S,Allocated Charges,1502692
+FY19-20,Allocated Charges,Expense,7S,Allocated Charges,39301
+FY19-20,Business Taxes,Revenue,1G,Business Taxes,762500000
+FY19-20,Business Taxes,Revenue,2S,Business Taxes,1900000
+FY19-20,Capital Outlay,Expense,1G,Capital Outlay,102794906
+FY19-20,Capital Outlay,Expense,2S,Capital Outlay,80845001
+FY19-20,Capital Outlay,Expense,3C,Capital Outlay,2850000
+FY19-20,Capital Outlay,Expense,5A,Capital Outlay,25220799
+FY19-20,Capital Outlay,Expense,5C,Capital Outlay,930144
+FY19-20,Capital Outlay,Expense,5H,Capital Outlay,16998816
+FY19-20,Capital Outlay,Expense,5L,Capital Outlay,1321489
+FY19-20,Capital Outlay,Expense,5M,Capital Outlay,32200000
+FY19-20,Capital Outlay,Expense,5N,Capital Outlay,11040000
+FY19-20,Capital Outlay,Expense,5P,Capital Outlay,5803572
+FY19-20,Capital Outlay,Expense,5T,Capital Outlay,2381032
+FY19-20,Capital Outlay,Expense,5W,Capital Outlay,9718758
+FY19-20,Capital Outlay,Expense,6I,Capital Outlay,2619163
+FY19-20,Charges for Services,Revenue,1G,Charges for Services,241536162
+FY19-20,Charges for Services,Revenue,2S,Charges for Services,111422710
+FY19-20,Charges for Services,Revenue,5A,Charges for Services,629375500
+FY19-20,Charges for Services,Revenue,5C,Charges for Services,292918590
+FY19-20,Charges for Services,Revenue,5H,Charges for Services,719834242
+FY19-20,Charges for Services,Revenue,5L,Charges for Services,173529409
+FY19-20,Charges for Services,Revenue,5M,Charges for Services,243790100
+FY19-20,Charges for Services,Revenue,5N,Charges for Services,22936000
+FY19-20,Charges for Services,Revenue,5O,Charges for Services,150000
+FY19-20,Charges for Services,Revenue,5P,Charges for Services,22341000
+FY19-20,Charges for Services,Revenue,5Q,Charges for Services,40257512
+FY19-20,Charges for Services,Revenue,5T,Charges for Services,49754177
+FY19-20,Charges for Services,Revenue,5W,Charges for Services,470400986
+FY19-20,Charges for Services,Revenue,5X,Charges for Services,5000
+FY19-20,Charges for Services,Revenue,6I,Charges for Services,700000
+FY19-20,City Grant Programs,Expense,1G,City Grant Programs,348656042
+FY19-20,City Grant Programs,Expense,2S,City Grant Programs,314273627
+FY19-20,City Grant Programs,Expense,5C,City Grant Programs,250000
+FY19-20,City Grant Programs,Expense,5W,City Grant Programs,2356694
+FY19-20,City Grant Programs,Expense,7S,City Grant Programs,4055000
+FY19-20,Contributions (Ret, HSS, Health Care),Revenue,7P,Contributions (Ret, HSS, Health Care),29669830
+FY19-20,Contributions (Ret, HSS, Health Care),Revenue,7R,Contributions (Ret, HSS, Health Care),82429000
+FY19-20,Debt Service,Expense,1G,Debt Service,23070952
+FY19-20,Debt Service,Expense,2S,Debt Service,12568841
+FY19-20,Debt Service,Expense,4D,Debt Service,237878182
+FY19-20,Debt Service,Expense,5A,Debt Service,433023815
+FY19-20,Debt Service,Expense,5C,Debt Service,78614590
+FY19-20,Debt Service,Expense,5H,Debt Service,2844747
+FY19-20,Debt Service,Expense,5L,Debt Service,13049297
+FY19-20,Debt Service,Expense,5M,Debt Service,24784287
+FY19-20,Debt Service,Expense,5P,Debt Service,7718362
+FY19-20,Debt Service,Expense,5Q,Debt Service,2042728
+FY19-20,Debt Service,Expense,5T,Debt Service,6078636
+FY19-20,Debt Service,Expense,5W,Debt Service,263565694
+FY19-20,Debt Service,Expense,7S,Debt Service,103567800
+FY19-20,Expenditure Recovery,Revenue,1G,Expenditure Recovery,431568020
+FY19-20,Expenditure Recovery,Revenue,2S,Expenditure Recovery,201966385
+FY19-20,Expenditure Recovery,Revenue,5A,Expenditure Recovery,65285
+FY19-20,Expenditure Recovery,Revenue,5C,Expenditure Recovery,8448224
+FY19-20,Expenditure Recovery,Revenue,5H,Expenditure Recovery,51060
+FY19-20,Expenditure Recovery,Revenue,5L,Expenditure Recovery,229950
+FY19-20,Expenditure Recovery,Revenue,5M,Expenditure Recovery,1082600
+FY19-20,Expenditure Recovery,Revenue,5N,Expenditure Recovery,1358000
+FY19-20,Expenditure Recovery,Revenue,5O,Expenditure Recovery,40000
+FY19-20,Expenditure Recovery,Revenue,5P,Expenditure Recovery,400000
+FY19-20,Expenditure Recovery,Revenue,5T,Expenditure Recovery,115813903
+FY19-20,Expenditure Recovery,Revenue,5W,Expenditure Recovery,15196921
+FY19-20,Expenditure Recovery,Revenue,6I,Expenditure Recovery,150147591
+FY19-20,Expenditure Recovery,Revenue,7P,Expenditure Recovery,50000
+FY19-20,Facilities Maintenance,Expense,1G,Facilities Maintenance,8910898
+FY19-20,Facilities Maintenance,Expense,2S,Facilities Maintenance,839252
+FY19-20,Facilities Maintenance,Expense,5C,Facilities Maintenance,6282000
+FY19-20,Facilities Maintenance,Expense,5H,Facilities Maintenance,1474409
+FY19-20,Facilities Maintenance,Expense,5L,Facilities Maintenance,1273851
+FY19-20,Facilities Maintenance,Expense,5T,Facilities Maintenance,11835000
+FY19-20,Facilities Maintenance,Expense,5W,Facilities Maintenance,18414000
+FY19-20,Fines, Forfeitures & Penalties,Revenue,1G,Fines, Forfeitures & Penalties,4578659
+FY19-20,Fines, Forfeitures & Penalties,Revenue,2S,Fines, Forfeitures & Penalties,9033805
+FY19-20,Fines, Forfeitures & Penalties,Revenue,4D,Fines, Forfeitures & Penalties,15456148
+FY19-20,Fines, Forfeitures & Penalties,Revenue,5A,Fines, Forfeitures & Penalties,1207000
+FY19-20,Fines, Forfeitures & Penalties,Revenue,5M,Fines, Forfeitures & Penalties,2222000
+FY19-20,Fines, Forfeitures & Penalties,Revenue,5N,Fines, Forfeitures & Penalties,89041020
+FY19-20,Fines, Forfeitures & Penalties,Revenue,5O,Fines, Forfeitures & Penalties,75750
+FY19-20,Fines, Forfeitures & Penalties,Revenue,5P,Fines, Forfeitures & Penalties,3797000
+FY19-20,General Fund Support,Revenue,2S,General Fund Support,186300278
+FY19-20,General Fund Support,Revenue,5H,General Fund Support,256612285
+FY19-20,General Fund Support,Revenue,5L,General Fund Support,79656604
+FY19-20,General Fund Support,Revenue,5M,General Fund Support,242540000
+FY19-20,General Fund Support,Revenue,5N,General Fund Support,87030000
+FY19-20,ISF Charges for Services,Revenue,5H,ISF Charges for Services,2740203
+FY19-20,Interest & Investment Income,Revenue,1G,Interest & Investment Income,18390000
+FY19-20,Interest & Investment Income,Revenue,2S,Interest & Investment Income,1618958
+FY19-20,Interest & Investment Income,Revenue,5A,Interest & Investment Income,11099000
+FY19-20,Interest & Investment Income,Revenue,5C,Interest & Investment Income,1480242
+FY19-20,Interest & Investment Income,Revenue,5M,Interest & Investment Income,1147884
+FY19-20,Interest & Investment Income,Revenue,5N,Interest & Investment Income,655934
+FY19-20,Interest & Investment Income,Revenue,5O,Interest & Investment Income,57394
+FY19-20,Interest & Investment Income,Revenue,5P,Interest & Investment Income,600000
+FY19-20,Interest & Investment Income,Revenue,5T,Interest & Investment Income,1291142
+FY19-20,Interest & Investment Income,Revenue,5W,Interest & Investment Income,1841090
+FY19-20,Interest & Investment Income,Revenue,5X,Interest & Investment Income,122988
+FY19-20,Interest & Investment Income,Revenue,7A,Interest & Investment Income,81000
+FY19-20,Interest & Investment Income,Revenue,7E,Interest & Investment Income,35000
+FY19-20,Interest & Investment Income,Revenue,7P,Interest & Investment Income,250000
+FY19-20,Interest & Investment Income,Revenue,7R,Interest & Investment Income,45000
+FY19-20,Intergovernmental Revenues-Federal,Revenue,1G,Intergovernmental Revenues-Federal,270308839
+FY19-20,Intergovernmental Revenues-Federal,Revenue,2S,Intergovernmental Revenues-Federal,165385940
+FY19-20,Intergovernmental Revenues-Federal,Revenue,5A,Intergovernmental Revenues-Federal,21510000
+FY19-20,Intergovernmental Revenues-Federal,Revenue,5M,Intergovernmental Revenues-Federal,3800000
+FY19-20,Intergovernmental Revenues-Other,Revenue,1G,Intergovernmental Revenues-Other,3354778
+FY19-20,Intergovernmental Revenues-Other,Revenue,2S,Intergovernmental Revenues-Other,2504796
+FY19-20,Intergovernmental Revenues-Other,Revenue,5M,Intergovernmental Revenues-Other,92717051
+FY19-20,Intergovernmental Revenues-Other,Revenue,6I,Intergovernmental Revenues-Other,42865
+FY19-20,Intergovernmental Revenues-State,Revenue,1G,Intergovernmental Revenues-State,750545432
+FY19-20,Intergovernmental Revenues-State,Revenue,2S,Intergovernmental Revenues-State,113854299
+FY19-20,Intergovernmental Revenues-State,Revenue,4D,Intergovernmental Revenues-State,800000
+FY19-20,Intergovernmental Revenues-State,Revenue,5A,Intergovernmental Revenues-State,20000
+FY19-20,Intergovernmental Revenues-State,Revenue,5H,Intergovernmental Revenues-State,52368312
+FY19-20,Intergovernmental Revenues-State,Revenue,5L,Intergovernmental Revenues-State,386290
+FY19-20,Intergovernmental Revenues-State,Revenue,5M,Intergovernmental Revenues-State,48740000
+FY19-20,Intergovernmental Revenues-State,Revenue,7A,Intergovernmental Revenues-State,94829111
+FY19-20,Intergovernmental Revenues-State,Revenue,7S,Intergovernmental Revenues-State,944084
+FY19-20,Intrafund Transfers In,Revenue,1G,Intrafund Transfers In,552256675
+FY19-20,Intrafund Transfers In,Revenue,2S,Intrafund Transfers In,35616696
+FY19-20,Intrafund Transfers In,Revenue,5A,Intrafund Transfers In,48882299
+FY19-20,Intrafund Transfers In,Revenue,5C,Intrafund Transfers In,50230000
+FY19-20,Intrafund Transfers In,Revenue,5H,Intrafund Transfers In,20024409
+FY19-20,Intrafund Transfers In,Revenue,5L,Intrafund Transfers In,1773851
+FY19-20,Intrafund Transfers In,Revenue,5M,Intrafund Transfers In,13800000
+FY19-20,Intrafund Transfers In,Revenue,5P,Intrafund Transfers In,5171572
+FY19-20,Intrafund Transfers In,Revenue,5Q,Intrafund Transfers In,9756021
+FY19-20,Intrafund Transfers In,Revenue,5T,Intrafund Transfers In,45475000
+FY19-20,Intrafund Transfers In,Revenue,5W,Intrafund Transfers In,48169596
+FY19-20,Intrafund Transfers Out,Expense,1G,Intrafund Transfers Out,552256675
+FY19-20,Intrafund Transfers Out,Expense,2S,Intrafund Transfers Out,35616696
+FY19-20,Intrafund Transfers Out,Expense,5A,Intrafund Transfers Out,48882299
+FY19-20,Intrafund Transfers Out,Expense,5C,Intrafund Transfers Out,50230000
+FY19-20,Intrafund Transfers Out,Expense,5H,Intrafund Transfers Out,20024409
+FY19-20,Intrafund Transfers Out,Expense,5L,Intrafund Transfers Out,1773851
+FY19-20,Intrafund Transfers Out,Expense,5M,Intrafund Transfers Out,13800000
+FY19-20,Intrafund Transfers Out,Expense,5P,Intrafund Transfers Out,5171572
+FY19-20,Intrafund Transfers Out,Expense,5Q,Intrafund Transfers Out,9756021
+FY19-20,Intrafund Transfers Out,Expense,5T,Intrafund Transfers Out,45475000
+FY19-20,Intrafund Transfers Out,Expense,5W,Intrafund Transfers Out,48169596
+FY19-20,Licenses, Permits & Franchises,Revenue,1G,Licenses, Permits & Franchises,30366750
+FY19-20,Licenses, Permits & Franchises,Revenue,2S,Licenses, Permits & Franchises,11270743
+FY19-20,Licenses, Permits & Franchises,Revenue,5N,Licenses, Permits & Franchises,12731000
+FY19-20,Licenses, Permits & Franchises,Revenue,5O,Licenses, Permits & Franchises,8939889
+FY19-20,Mandatory Fringe Benefits,Expense,1G,Mandatory Fringe Benefits,727395222
+FY19-20,Mandatory Fringe Benefits,Expense,2S,Mandatory Fringe Benefits,138852469
+FY19-20,Mandatory Fringe Benefits,Expense,5A,Mandatory Fringe Benefits,111504382
+FY19-20,Mandatory Fringe Benefits,Expense,5C,Mandatory Fringe Benefits,23275610
+FY19-20,Mandatory Fringe Benefits,Expense,5H,Mandatory Fringe Benefits,162869877
+FY19-20,Mandatory Fringe Benefits,Expense,5L,Mandatory Fringe Benefits,65012165
+FY19-20,Mandatory Fringe Benefits,Expense,5M,Mandatory Fringe Benefits,230235711
+FY19-20,Mandatory Fringe Benefits,Expense,5N,Mandatory Fringe Benefits,28465729
+FY19-20,Mandatory Fringe Benefits,Expense,5O,Mandatory Fringe Benefits,854870
+FY19-20,Mandatory Fringe Benefits,Expense,5P,Mandatory Fringe Benefits,14607333
+FY19-20,Mandatory Fringe Benefits,Expense,5Q,Mandatory Fringe Benefits,573551
+FY19-20,Mandatory Fringe Benefits,Expense,5T,Mandatory Fringe Benefits,14256877
+FY19-20,Mandatory Fringe Benefits,Expense,5W,Mandatory Fringe Benefits,66883122
+FY19-20,Mandatory Fringe Benefits,Expense,5X,Mandatory Fringe Benefits,933879
+FY19-20,Mandatory Fringe Benefits,Expense,6I,Mandatory Fringe Benefits,18955821
+FY19-20,Mandatory Fringe Benefits,Expense,7A,Mandatory Fringe Benefits,25169578
+FY19-20,Mandatory Fringe Benefits,Expense,7E,Mandatory Fringe Benefits,201170
+FY19-20,Mandatory Fringe Benefits,Expense,7P,Mandatory Fringe Benefits,5761889
+FY19-20,Mandatory Fringe Benefits,Expense,7S,Mandatory Fringe Benefits,3222877
+FY19-20,Mandatory Fringe Benefits,Expense,8A,Mandatory Fringe Benefits,628456
+FY19-20,Materials & Supplies,Expense,1G,Materials & Supplies,52948254
+FY19-20,Materials & Supplies,Expense,2S,Materials & Supplies,31834245
+FY19-20,Materials & Supplies,Expense,5A,Materials & Supplies,17961400
+FY19-20,Materials & Supplies,Expense,5C,Materials & Supplies,10384063
+FY19-20,Materials & Supplies,Expense,5H,Materials & Supplies,80767973
+FY19-20,Materials & Supplies,Expense,5L,Materials & Supplies,22052732
+FY19-20,Materials & Supplies,Expense,5M,Materials & Supplies,71465988
+FY19-20,Materials & Supplies,Expense,5N,Materials & Supplies,5081295
+FY19-20,Materials & Supplies,Expense,5O,Materials & Supplies,109344
+FY19-20,Materials & Supplies,Expense,5P,Materials & Supplies,1581784
+FY19-20,Materials & Supplies,Expense,5Q,Materials & Supplies,12426
+FY19-20,Materials & Supplies,Expense,5T,Materials & Supplies,2707781
+FY19-20,Materials & Supplies,Expense,5W,Materials & Supplies,15779512
+FY19-20,Materials & Supplies,Expense,5X,Materials & Supplies,6729
+FY19-20,Materials & Supplies,Expense,6I,Materials & Supplies,14340765
+FY19-20,Materials & Supplies,Expense,7E,Materials & Supplies,517500
+FY19-20,Materials & Supplies,Expense,7P,Materials & Supplies,250000
+FY19-20,Materials & Supplies,Expense,7S,Materials & Supplies,60000
+FY19-20,Materials & Supplies,Expense,8A,Materials & Supplies,50000
+FY19-20,Non Personnel Services,Expense,1G,Non Personnel Services,710243780
+FY19-20,Non Personnel Services,Expense,2S,Non Personnel Services,324208019
+FY19-20,Non Personnel Services,Expense,5A,Non Personnel Services,133084124
+FY19-20,Non Personnel Services,Expense,5C,Non Personnel Services,17022897
+FY19-20,Non Personnel Services,Expense,5H,Non Personnel Services,214210903
+FY19-20,Non Personnel Services,Expense,5L,Non Personnel Services,8887915
+FY19-20,Non Personnel Services,Expense,5M,Non Personnel Services,129033309
+FY19-20,Non Personnel Services,Expense,5N,Non Personnel Services,52409397
+FY19-20,Non Personnel Services,Expense,5O,Non Personnel Services,1393275
+FY19-20,Non Personnel Services,Expense,5P,Non Personnel Services,13374083
+FY19-20,Non Personnel Services,Expense,5Q,Non Personnel Services,27793009
+FY19-20,Non Personnel Services,Expense,5T,Non Personnel Services,82984797
+FY19-20,Non Personnel Services,Expense,5W,Non Personnel Services,27852958
+FY19-20,Non Personnel Services,Expense,5X,Non Personnel Services,29053477
+FY19-20,Non Personnel Services,Expense,6I,Non Personnel Services,58966207
+FY19-20,Non Personnel Services,Expense,7E,Non Personnel Services,349500
+FY19-20,Non Personnel Services,Expense,7P,Non Personnel Services,3513503
+FY19-20,Non Personnel Services,Expense,7R,Non Personnel Services,596010
+FY19-20,Non Personnel Services,Expense,7S,Non Personnel Services,109018464
+FY19-20,Non Personnel Services,Expense,8A,Non Personnel Services,5223410
+FY19-20,Operating Transfers In,Revenue,1G,Operating Transfers In,168277286
+FY19-20,Operating Transfers In,Revenue,2S,Operating Transfers In,179719218
+FY19-20,Operating Transfers In,Revenue,4D,Operating Transfers In,8564598
+FY19-20,Operating Transfers In,Revenue,5L,Operating Transfers In,2496270
+FY19-20,Operating Transfers In,Revenue,5M,Operating Transfers In,248954048
+FY19-20,Operating Transfers In,Revenue,5N,Operating Transfers In,40802787
+FY19-20,Operating Transfers In,Revenue,5T,Operating Transfers In,32600000
+FY19-20,Operating Transfers In,Revenue,5W,Operating Transfers In,100000
+FY19-20,Operating Transfers In,Revenue,6I,Operating Transfers In,11291996
+FY19-20,Operating Transfers Out,Expense,1G,Operating Transfers Out,251302019
+FY19-20,Operating Transfers Out,Expense,2S,Operating Transfers Out,7630201
+FY19-20,Operating Transfers Out,Expense,5A,Operating Transfers Out,45492063
+FY19-20,Operating Transfers Out,Expense,5C,Operating Transfers Out,31713
+FY19-20,Operating Transfers Out,Expense,5H,Operating Transfers Out,116875260
+FY19-20,Operating Transfers Out,Expense,5L,Operating Transfers Out,9309504
+FY19-20,Operating Transfers Out,Expense,5N,Operating Transfers Out,176837306
+FY19-20,Operating Transfers Out,Expense,5O,Operating Transfers Out,3346742
+FY19-20,Operating Transfers Out,Expense,5P,Operating Transfers Out,1081713
+FY19-20,Operating Transfers Out,Expense,5T,Operating Transfers Out,31712
+FY19-20,Operating Transfers Out,Expense,5W,Operating Transfers Out,32631712
+FY19-20,Operating Transfers Out,Expense,5X,Operating Transfers Out,36344262
+FY19-20,Operating Transfers Out,Expense,6I,Operating Transfers Out,11291996
+FY19-20,Operating Transfers Out,Expense,7E,Operating Transfers Out,600000
+FY19-20,Other Financing Sources,Revenue,1G,Other Financing Sources,87000
+FY19-20,Other Financing Sources,Revenue,7S,Other Financing Sources,22000000
+FY19-20,Other Local Taxes,Revenue,1G,Other Local Taxes,1098110000
+FY19-20,Other Local Taxes,Revenue,7S,Other Local Taxes,5995750
+FY19-20,Other Revenues,Revenue,1G,Other Revenues,40634442
+FY19-20,Other Revenues,Revenue,2S,Other Revenues,25222068
+FY19-20,Other Revenues,Revenue,5A,Other Revenues,46464000
+FY19-20,Other Revenues,Revenue,5C,Other Revenues,4387039
+FY19-20,Other Revenues,Revenue,5H,Other Revenues,11343804
+FY19-20,Other Revenues,Revenue,5L,Other Revenues,14577413
+FY19-20,Other Revenues,Revenue,5P,Other Revenues,1907000
+FY19-20,Other Revenues,Revenue,5T,Other Revenues,3833383
+FY19-20,Other Revenues,Revenue,5W,Other Revenues,33395664
+FY19-20,Other Revenues,Revenue,7E,Other Revenues,1491896
+FY19-20,Other Revenues,Revenue,7S,Other Revenues,80592379
+FY19-20,Other Revenues,Revenue,8A,Other Revenues,2111000
+FY19-20,Other Support & Care Of Persons,Expense,1G,Other Support & Care Of Persons,47979300
+FY19-20,Other Support & Care Of Persons,Expense,2S,Other Support & Care Of Persons,5000000
+FY19-20,Other Support & Care Of Persons,Expense,7S,Other Support & Care Of Persons,16175739
+FY19-20,Overhead,Expense,1G,Overhead,23130813
+FY19-20,Overhead,Expense,5C,Overhead,29005544
+FY19-20,Overhead,Expense,5N,Overhead,19852434
+FY19-20,Overhead,Expense,5O,Overhead,915562
+FY19-20,Overhead,Expense,5P,Overhead,353517
+FY19-20,Overhead,Expense,5Q,Overhead,1474826
+FY19-20,Overhead,Expense,5T,Overhead,14750232
+FY19-20,Overhead,Expense,5X,Overhead,4395056
+FY19-20,Overhead,Expense,6I,Overhead,475863
+FY19-20,Overhead,Expense,7A,Overhead,2567319
+FY19-20,Overhead,Expense,7P,Overhead,38137
+FY19-20,Overhead,Expense,7S,Overhead,7256654
+FY19-20,Programmatic Projects,Expense,1G,Programmatic Projects,98761938
+FY19-20,Programmatic Projects,Expense,2S,Programmatic Projects,15458236
+FY19-20,Programmatic Projects,Expense,5C,Programmatic Projects,1045000
+FY19-20,Programmatic Projects,Expense,5H,Programmatic Projects,5500000
+FY19-20,Programmatic Projects,Expense,5P,Programmatic Projects,1734925
+FY19-20,Programmatic Projects,Expense,5T,Programmatic Projects,955000
+FY19-20,Programmatic Projects,Expense,5W,Programmatic Projects,750000
+FY19-20,Programmatic Projects,Expense,6I,Programmatic Projects,10108589
+FY19-20,Programmatic Projects,Expense,7S,Programmatic Projects,37211281
+FY19-20,Project Carryforward Budgets Only,Expense,1G,Project Carryforward Budgets Only,25000000
+FY19-20,Property Taxes,Revenue,1G,Property Taxes,1620000000
+FY19-20,Property Taxes,Revenue,2S,Property Taxes,216320000
+FY19-20,Property Taxes,Revenue,4D,Property Taxes,213057436
+FY19-20,Property Taxes,Revenue,7S,Property Taxes,123303476
+FY19-20,Rents & Concessions,Revenue,1G,Rents & Concessions,14983915
+FY19-20,Rents & Concessions,Revenue,2S,Rents & Concessions,56409811
+FY19-20,Rents & Concessions,Revenue,5A,Rents & Concessions,327152000
+FY19-20,Rents & Concessions,Revenue,5C,Rents & Concessions,780933
+FY19-20,Rents & Concessions,Revenue,5L,Rents & Concessions,563740
+FY19-20,Rents & Concessions,Revenue,5M,Rents & Concessions,1326000
+FY19-20,Rents & Concessions,Revenue,5N,Rents & Concessions,64891076
+FY19-20,Rents & Concessions,Revenue,5P,Rents & Concessions,81297525
+FY19-20,Rents & Concessions,Revenue,5T,Rents & Concessions,476800
+FY19-20,Rents & Concessions,Revenue,5W,Rents & Concessions,13110339
+FY19-20,Rents & Concessions,Revenue,5X,Rents & Concessions,71028152
+FY19-20,Rents & Concessions,Revenue,6I,Rents & Concessions,823888
+FY19-20,Rents & Concessions,Revenue,7E,Rents & Concessions,202500
+FY19-20,Rents & Concessions,Revenue,7S,Rents & Concessions,13443017
+FY19-20,Rents & Concessions,Revenue,8A,Rents & Concessions,11687850
+FY19-20,Salaries,Expense,1G,Salaries,1691025703
+FY19-20,Salaries,Expense,2S,Salaries,275961998
+FY19-20,Salaries,Expense,5A,Salaries,228682087
+FY19-20,Salaries,Expense,5C,Salaries,49536323
+FY19-20,Salaries,Expense,5H,Salaries,385097860
+FY19-20,Salaries,Expense,5L,Salaries,140300009
+FY19-20,Salaries,Expense,5M,Salaries,434979148
+FY19-20,Salaries,Expense,5N,Salaries,46605014
+FY19-20,Salaries,Expense,5O,Salaries,1914879
+FY19-20,Salaries,Expense,5P,Salaries,30815724
+FY19-20,Salaries,Expense,5Q,Salaries,1692018
+FY19-20,Salaries,Expense,5T,Salaries,30638597
+FY19-20,Salaries,Expense,5W,Salaries,159635534
+FY19-20,Salaries,Expense,5X,Salaries,2669342
+FY19-20,Salaries,Expense,6I,Salaries,40216484
+FY19-20,Salaries,Expense,7A,Salaries,67173214
+FY19-20,Salaries,Expense,7E,Salaries,447376
+FY19-20,Salaries,Expense,7P,Salaries,14780740
+FY19-20,Salaries,Expense,8A,Salaries,1614810
+FY19-20,Services of Other Depts,Expense,1G,Services of Other Depts,341539337
+FY19-20,Services of Other Depts,Expense,2S,Services of Other Depts,159637894
+FY19-20,Services of Other Depts,Expense,5A,Services of Other Depts,77760378
+FY19-20,Services of Other Depts,Expense,5C,Services of Other Depts,34987735
+FY19-20,Services of Other Depts,Expense,5H,Services of Other Depts,56310061
+FY19-20,Services of Other Depts,Expense,5L,Services of Other Depts,13839832
+FY19-20,Services of Other Depts,Expense,5M,Services of Other Depts,61970868
+FY19-20,Services of Other Depts,Expense,5N,Services of Other Depts,8861367
+FY19-20,Services of Other Depts,Expense,5O,Services of Other Depts,728361
+FY19-20,Services of Other Depts,Expense,5P,Services of Other Depts,15857909
+FY19-20,Services of Other Depts,Expense,5Q,Services of Other Depts,1182156
+FY19-20,Services of Other Depts,Expense,5T,Services of Other Depts,7529081
+FY19-20,Services of Other Depts,Expense,5W,Services of Other Depts,48265344
+FY19-20,Services of Other Depts,Expense,5X,Services of Other Depts,453395
+FY19-20,Services of Other Depts,Expense,6I,Services of Other Depts,8793479
+FY19-20,Services of Other Depts,Expense,7P,Services of Other Depts,5625561
+FY19-20,Services of Other Depts,Expense,7R,Services of Other Depts,175000
+FY19-20,Services of Other Depts,Expense,8A,Services of Other Depts,6282174
+FY19-20,Transfer In for Capital Expenditures,Revenue,5M,Transfer In for Capital Expenditures,32200000
+FY19-20,Transfer In for Capital Expenditures,Revenue,5N,Transfer In for Capital Expenditures,10730000
+FY19-20,Transfer Out for Capital Expenditures,Expense,1G,Transfer Out for Capital Expenditures,42930000
+FY19-20,Unappropriated Fund Balance,Revenue,1G,Unappropriated Fund Balance,289258082
+FY19-20,Unappropriated Fund Balance,Revenue,2S,Unappropriated Fund Balance,23265281
+FY19-20,Unappropriated Fund Balance,Revenue,3C,Unappropriated Fund Balance,2850000
+FY19-20,Unappropriated Fund Balance,Revenue,5A,Unappropriated Fund Balance,30123516
+FY19-20,Unappropriated Fund Balance,Revenue,5L,Unappropriated Fund Balance,3607118
+FY19-20,Unappropriated Fund Balance,Revenue,5M,Unappropriated Fund Balance,14351822
+FY19-20,Unappropriated Fund Balance,Revenue,5N,Unappropriated Fund Balance,14258274
+FY19-20,Unappropriated Fund Balance,Revenue,5T,Unappropriated Fund Balance,2131208
+FY19-20,Unappropriated Fund Balance,Revenue,5W,Unappropriated Fund Balance,3454576
+FY19-20,Unappropriated Fund Balance,Revenue,6I,Unappropriated Fund Balance,2762027
+FY19-20,Unappropriated Fund Balance,Revenue,7E,Unappropriated Fund Balance,262500
+FY19-20,Unappropriated Fund Balance,Revenue,7S,Unappropriated Fund Balance,34328410
+FY19-20,Unappropriated Revenue Retained,Expense,1G,Unappropriated Revenue Retained,42068262
+FY19-20,Unappropriated Revenue Retained,Expense,5C,Unappropriated Revenue Retained,45000000
+FY19-20,Unappropriated Revenue Retained,Expense,5T,Unappropriated Revenue Retained,33000000
+FY19-20,Unappropriated Revenue Retained,Expense,5W,Unappropriated Revenue Retained,27830000
+FY19-20,Unappropriated Revenue-Designated,Expense,1G,Unappropriated Revenue-Designated,14070000
+FY19-20,Unappropriated Revenue-Designated,Expense,2S,Unappropriated Revenue-Designated,874487
+FY19-20,Unappropriated Revenue-Designated,Expense,5C,Unappropriated Revenue-Designated,14073588
+FY19-20,Unappropriated Revenue-Designated,Expense,5M,Unappropriated Revenue-Designated,2370000
+FY19-20,Unappropriated Revenue-Designated,Expense,5P,Unappropriated Revenue-Designated,17413603
+FY19-20,Unappropriated Revenue-Designated,Expense,5Q,Unappropriated Revenue-Designated,5486798
+FY19-20,Unappropriated Revenue-Designated,Expense,5W,Unappropriated Revenue-Designated,18945
+FY19-20,Unappropriated Revenue-Designated,Expense,7R,Unappropriated Revenue-Designated,81702990

@@ -1,0 +1,353 @@
+budget_year,department,account_type,fund_code,account_category,amount
+FY15-16,Aid Assistance,Expense,1G,Aid Assistance,58420356
+FY15-16,Aid Assistance,Expense,2S,Aid Assistance,614776
+FY15-16,Aid Payments,Expense,1G,Aid Payments,279680066
+FY15-16,Allocated Charges,Expense,2S,Allocated Charges,1400311
+FY15-16,Allocated Charges,Expense,7S,Allocated Charges,1
+FY15-16,Business Taxes,Revenue,1G,Business Taxes,572385000
+FY15-16,Business Taxes,Revenue,2S,Business Taxes,1000000
+FY15-16,Capital Outlay,Expense,1G,Capital Outlay,117555401
+FY15-16,Capital Outlay,Expense,2S,Capital Outlay,64856591
+FY15-16,Capital Outlay,Expense,5A,Capital Outlay,86601448
+FY15-16,Capital Outlay,Expense,5C,Capital Outlay,1006504
+FY15-16,Capital Outlay,Expense,5H,Capital Outlay,10580003
+FY15-16,Capital Outlay,Expense,5L,Capital Outlay,1409929
+FY15-16,Capital Outlay,Expense,5M,Capital Outlay,13229026
+FY15-16,Capital Outlay,Expense,5N,Capital Outlay,8101492
+FY15-16,Capital Outlay,Expense,5P,Capital Outlay,19465662
+FY15-16,Capital Outlay,Expense,5T,Capital Outlay,3620660
+FY15-16,Capital Outlay,Expense,5W,Capital Outlay,14928824
+FY15-16,Capital Outlay,Expense,5X,Capital Outlay,3000000
+FY15-16,Capital Outlay,Expense,6I,Capital Outlay,2115060
+FY15-16,Capital Outlay,Expense,7P,Capital Outlay,153544
+FY15-16,Charges for Services,Revenue,1G,Charges for Services,209809511
+FY15-16,Charges for Services,Revenue,2S,Charges for Services,102604353
+FY15-16,Charges for Services,Revenue,5A,Charges for Services,608434000
+FY15-16,Charges for Services,Revenue,5C,Charges for Services,259064289
+FY15-16,Charges for Services,Revenue,5H,Charges for Services,691057866
+FY15-16,Charges for Services,Revenue,5L,Charges for Services,151258541
+FY15-16,Charges for Services,Revenue,5M,Charges for Services,225552356
+FY15-16,Charges for Services,Revenue,5N,Charges for Services,12940460
+FY15-16,Charges for Services,Revenue,5O,Charges for Services,10000
+FY15-16,Charges for Services,Revenue,5P,Charges for Services,16732000
+FY15-16,Charges for Services,Revenue,5T,Charges for Services,46519069
+FY15-16,Charges for Services,Revenue,5W,Charges for Services,412683756
+FY15-16,Charges for Services,Revenue,5X,Charges for Services,5000
+FY15-16,Charges for Services,Revenue,6I,Charges for Services,700000
+FY15-16,City Grant Programs,Expense,1G,City Grant Programs,203072666
+FY15-16,City Grant Programs,Expense,2S,City Grant Programs,213911737
+FY15-16,City Grant Programs,Expense,5W,City Grant Programs,2604178
+FY15-16,City Grant Programs,Expense,7E,City Grant Programs,76350
+FY15-16,City Grant Programs,Expense,7S,City Grant Programs,5312467
+FY15-16,Contributions (Ret, HSS, Health Care),Revenue,7P,Contributions (Ret, HSS, Health Care),26025156
+FY15-16,Contributions (Ret, HSS, Health Care),Revenue,7R,Contributions (Ret, HSS, Health Care),21750000
+FY15-16,Debt Service,Expense,1G,Debt Service,5319219
+FY15-16,Debt Service,Expense,2S,Debt Service,2559480
+FY15-16,Debt Service,Expense,4D,Debt Service,253253659
+FY15-16,Debt Service,Expense,5A,Debt Service,390477686
+FY15-16,Debt Service,Expense,5C,Debt Service,54768723
+FY15-16,Debt Service,Expense,5H,Debt Service,2862157
+FY15-16,Debt Service,Expense,5L,Debt Service,12997272
+FY15-16,Debt Service,Expense,5M,Debt Service,2000000
+FY15-16,Debt Service,Expense,5P,Debt Service,9396259
+FY15-16,Debt Service,Expense,5T,Debt Service,3444584
+FY15-16,Debt Service,Expense,5W,Debt Service,244760963
+FY15-16,Debt Service,Expense,5X,Debt Service,10000000
+FY15-16,Debt Service,Expense,7S,Debt Service,119554756
+FY15-16,Expenditure Recovery,Revenue,1G,Expenditure Recovery,400684172
+FY15-16,Expenditure Recovery,Revenue,2S,Expenditure Recovery,208026818
+FY15-16,Expenditure Recovery,Revenue,5A,Expenditure Recovery,8648402
+FY15-16,Expenditure Recovery,Revenue,5C,Expenditure Recovery,7227854
+FY15-16,Expenditure Recovery,Revenue,5H,Expenditure Recovery,24050
+FY15-16,Expenditure Recovery,Revenue,5L,Expenditure Recovery,229950
+FY15-16,Expenditure Recovery,Revenue,5M,Expenditure Recovery,107870592
+FY15-16,Expenditure Recovery,Revenue,5N,Expenditure Recovery,1508500
+FY15-16,Expenditure Recovery,Revenue,5O,Expenditure Recovery,40000
+FY15-16,Expenditure Recovery,Revenue,5P,Expenditure Recovery,170000
+FY15-16,Expenditure Recovery,Revenue,5T,Expenditure Recovery,92991527
+FY15-16,Expenditure Recovery,Revenue,5W,Expenditure Recovery,176437685
+FY15-16,Expenditure Recovery,Revenue,6I,Expenditure Recovery,119396488
+FY15-16,Expenditure Recovery,Revenue,7P,Expenditure Recovery,40515
+FY15-16,Facilities Maintenance,Expense,1G,Facilities Maintenance,9604428
+FY15-16,Facilities Maintenance,Expense,2S,Facilities Maintenance,712000
+FY15-16,Facilities Maintenance,Expense,5A,Facilities Maintenance,11403000
+FY15-16,Facilities Maintenance,Expense,5C,Facilities Maintenance,6054000
+FY15-16,Facilities Maintenance,Expense,5H,Facilities Maintenance,1213000
+FY15-16,Facilities Maintenance,Expense,5L,Facilities Maintenance,1048000
+FY15-16,Facilities Maintenance,Expense,5P,Facilities Maintenance,6261896
+FY15-16,Facilities Maintenance,Expense,5T,Facilities Maintenance,16707000
+FY15-16,Facilities Maintenance,Expense,5W,Facilities Maintenance,16995000
+FY15-16,Fines, Forfeitures & Penalties,Revenue,1G,Fines, Forfeitures & Penalties,4242000
+FY15-16,Fines, Forfeitures & Penalties,Revenue,2S,Fines, Forfeitures & Penalties,4550201
+FY15-16,Fines, Forfeitures & Penalties,Revenue,4D,Fines, Forfeitures & Penalties,15148633
+FY15-16,Fines, Forfeitures & Penalties,Revenue,5A,Fines, Forfeitures & Penalties,180000
+FY15-16,Fines, Forfeitures & Penalties,Revenue,5M,Fines, Forfeitures & Penalties,2500000
+FY15-16,Fines, Forfeitures & Penalties,Revenue,5N,Fines, Forfeitures & Penalties,85751980
+FY15-16,Fines, Forfeitures & Penalties,Revenue,5O,Fines, Forfeitures & Penalties,70000
+FY15-16,Fines, Forfeitures & Penalties,Revenue,5P,Fines, Forfeitures & Penalties,3012000
+FY15-16,General Fund Support,Revenue,2S,General Fund Support,90712563
+FY15-16,General Fund Support,Revenue,5H,General Fund Support,210516408
+FY15-16,General Fund Support,Revenue,5L,General Fund Support,73550612
+FY15-16,General Fund Support,Revenue,5M,General Fund Support,180260000
+FY15-16,General Fund Support,Revenue,5N,General Fund Support,67600000
+FY15-16,ISF Charges for Services,Revenue,5H,ISF Charges for Services,2310206
+FY15-16,Interest & Investment Income,Revenue,1G,Interest & Investment Income,6852768
+FY15-16,Interest & Investment Income,Revenue,2S,Interest & Investment Income,2023698
+FY15-16,Interest & Investment Income,Revenue,5A,Interest & Investment Income,5739000
+FY15-16,Interest & Investment Income,Revenue,5C,Interest & Investment Income,969614
+FY15-16,Interest & Investment Income,Revenue,5M,Interest & Investment Income,1490000
+FY15-16,Interest & Investment Income,Revenue,5N,Interest & Investment Income,420000
+FY15-16,Interest & Investment Income,Revenue,5O,Interest & Investment Income,40000
+FY15-16,Interest & Investment Income,Revenue,5P,Interest & Investment Income,1054454
+FY15-16,Interest & Investment Income,Revenue,5T,Interest & Investment Income,549742
+FY15-16,Interest & Investment Income,Revenue,5W,Interest & Investment Income,1210145
+FY15-16,Interest & Investment Income,Revenue,5X,Interest & Investment Income,80000
+FY15-16,Interest & Investment Income,Revenue,7A,Interest & Investment Income,81000
+FY15-16,Interest & Investment Income,Revenue,7E,Interest & Investment Income,76000
+FY15-16,Interest & Investment Income,Revenue,7P,Interest & Investment Income,250000
+FY15-16,Interest & Investment Income,Revenue,7R,Interest & Investment Income,379743
+FY15-16,Intergovernmental Revenues-Federal,Revenue,1G,Intergovernmental Revenues-Federal,234921884
+FY15-16,Intergovernmental Revenues-Federal,Revenue,2S,Intergovernmental Revenues-Federal,138748881
+FY15-16,Intergovernmental Revenues-Federal,Revenue,5A,Intergovernmental Revenues-Federal,22250000
+FY15-16,Intergovernmental Revenues-Federal,Revenue,5H,Intergovernmental Revenues-Federal,4152116
+FY15-16,Intergovernmental Revenues-Federal,Revenue,5L,Intergovernmental Revenues-Federal,658750
+FY15-16,Intergovernmental Revenues-Federal,Revenue,5M,Intergovernmental Revenues-Federal,3810000
+FY15-16,Intergovernmental Revenues-Federal,Revenue,7S,Intergovernmental Revenues-Federal,290000
+FY15-16,Intergovernmental Revenues-Other,Revenue,1G,Intergovernmental Revenues-Other,2649941
+FY15-16,Intergovernmental Revenues-Other,Revenue,2S,Intergovernmental Revenues-Other,4598468
+FY15-16,Intergovernmental Revenues-Other,Revenue,5M,Intergovernmental Revenues-Other,85717100
+FY15-16,Intergovernmental Revenues-Other,Revenue,5P,Intergovernmental Revenues-Other,1903093
+FY15-16,Intergovernmental Revenues-Other,Revenue,6I,Intergovernmental Revenues-Other,38265
+FY15-16,Intergovernmental Revenues-State,Revenue,1G,Intergovernmental Revenues-State,624361236
+FY15-16,Intergovernmental Revenues-State,Revenue,2S,Intergovernmental Revenues-State,107147740
+FY15-16,Intergovernmental Revenues-State,Revenue,4D,Intergovernmental Revenues-State,800000
+FY15-16,Intergovernmental Revenues-State,Revenue,5A,Intergovernmental Revenues-State,20000
+FY15-16,Intergovernmental Revenues-State,Revenue,5H,Intergovernmental Revenues-State,52268312
+FY15-16,Intergovernmental Revenues-State,Revenue,5M,Intergovernmental Revenues-State,36260000
+FY15-16,Intergovernmental Revenues-State,Revenue,5N,Intergovernmental Revenues-State,2830000
+FY15-16,Intergovernmental Revenues-State,Revenue,7A,Intergovernmental Revenues-State,89703373
+FY15-16,Intrafund Transfers In,Revenue,1G,Intrafund Transfers In,302235619
+FY15-16,Intrafund Transfers In,Revenue,2S,Intrafund Transfers In,68959268
+FY15-16,Intrafund Transfers In,Revenue,5A,Intrafund Transfers In,170770760
+FY15-16,Intrafund Transfers In,Revenue,5C,Intrafund Transfers In,44808000
+FY15-16,Intrafund Transfers In,Revenue,5H,Intrafund Transfers In,36413000
+FY15-16,Intrafund Transfers In,Revenue,5L,Intrafund Transfers In,2023000
+FY15-16,Intrafund Transfers In,Revenue,5M,Intrafund Transfers In,6810000
+FY15-16,Intrafund Transfers In,Revenue,5P,Intrafund Transfers In,16742789
+FY15-16,Intrafund Transfers In,Revenue,5T,Intrafund Transfers In,40595796
+FY15-16,Intrafund Transfers In,Revenue,5W,Intrafund Transfers In,60999894
+FY15-16,Intrafund Transfers Out,Expense,1G,Intrafund Transfers Out,302235619
+FY15-16,Intrafund Transfers Out,Expense,2S,Intrafund Transfers Out,68959268
+FY15-16,Intrafund Transfers Out,Expense,5A,Intrafund Transfers Out,170770760
+FY15-16,Intrafund Transfers Out,Expense,5C,Intrafund Transfers Out,44808000
+FY15-16,Intrafund Transfers Out,Expense,5H,Intrafund Transfers Out,36413000
+FY15-16,Intrafund Transfers Out,Expense,5L,Intrafund Transfers Out,2023000
+FY15-16,Intrafund Transfers Out,Expense,5M,Intrafund Transfers Out,6810000
+FY15-16,Intrafund Transfers Out,Expense,5P,Intrafund Transfers Out,16742789
+FY15-16,Intrafund Transfers Out,Expense,5T,Intrafund Transfers Out,40595796
+FY15-16,Intrafund Transfers Out,Expense,5W,Intrafund Transfers Out,60999894
+FY15-16,Licenses, Permits & Franchises,Revenue,1G,Licenses, Permits & Franchises,27128558
+FY15-16,Licenses, Permits & Franchises,Revenue,2S,Licenses, Permits & Franchises,10725253
+FY15-16,Licenses, Permits & Franchises,Revenue,5N,Licenses, Permits & Franchises,9924818
+FY15-16,Licenses, Permits & Franchises,Revenue,5O,Licenses, Permits & Franchises,14164560
+FY15-16,Mandatory Fringe Benefits,Expense,1G,Mandatory Fringe Benefits,596536295
+FY15-16,Mandatory Fringe Benefits,Expense,2S,Mandatory Fringe Benefits,114215329
+FY15-16,Mandatory Fringe Benefits,Expense,5A,Mandatory Fringe Benefits,131178155
+FY15-16,Mandatory Fringe Benefits,Expense,5C,Mandatory Fringe Benefits,21306339
+FY15-16,Mandatory Fringe Benefits,Expense,5H,Mandatory Fringe Benefits,140196426
+FY15-16,Mandatory Fringe Benefits,Expense,5L,Mandatory Fringe Benefits,58570457
+FY15-16,Mandatory Fringe Benefits,Expense,5M,Mandatory Fringe Benefits,184721400
+FY15-16,Mandatory Fringe Benefits,Expense,5N,Mandatory Fringe Benefits,25970177
+FY15-16,Mandatory Fringe Benefits,Expense,5O,Mandatory Fringe Benefits,674865
+FY15-16,Mandatory Fringe Benefits,Expense,5P,Mandatory Fringe Benefits,12844379
+FY15-16,Mandatory Fringe Benefits,Expense,5T,Mandatory Fringe Benefits,12682310
+FY15-16,Mandatory Fringe Benefits,Expense,5W,Mandatory Fringe Benefits,60827198
+FY15-16,Mandatory Fringe Benefits,Expense,5X,Mandatory Fringe Benefits,416970
+FY15-16,Mandatory Fringe Benefits,Expense,6I,Mandatory Fringe Benefits,15871224
+FY15-16,Mandatory Fringe Benefits,Expense,7A,Mandatory Fringe Benefits,27113375
+FY15-16,Mandatory Fringe Benefits,Expense,7E,Mandatory Fringe Benefits,378000
+FY15-16,Mandatory Fringe Benefits,Expense,7P,Mandatory Fringe Benefits,4704766
+FY15-16,Mandatory Fringe Benefits,Expense,7S,Mandatory Fringe Benefits,1040000
+FY15-16,Materials & Supplies,Expense,1G,Materials & Supplies,44320863
+FY15-16,Materials & Supplies,Expense,2S,Materials & Supplies,24608712
+FY15-16,Materials & Supplies,Expense,5A,Materials & Supplies,17318880
+FY15-16,Materials & Supplies,Expense,5C,Materials & Supplies,9789273
+FY15-16,Materials & Supplies,Expense,5H,Materials & Supplies,77360681
+FY15-16,Materials & Supplies,Expense,5L,Materials & Supplies,19081794
+FY15-16,Materials & Supplies,Expense,5M,Materials & Supplies,73252489
+FY15-16,Materials & Supplies,Expense,5N,Materials & Supplies,5619226
+FY15-16,Materials & Supplies,Expense,5O,Materials & Supplies,135800
+FY15-16,Materials & Supplies,Expense,5P,Materials & Supplies,1397661
+FY15-16,Materials & Supplies,Expense,5T,Materials & Supplies,2859273
+FY15-16,Materials & Supplies,Expense,5W,Materials & Supplies,16229713
+FY15-16,Materials & Supplies,Expense,5X,Materials & Supplies,10622
+FY15-16,Materials & Supplies,Expense,6I,Materials & Supplies,14454918
+FY15-16,Materials & Supplies,Expense,7E,Materials & Supplies,439500
+FY15-16,Materials & Supplies,Expense,7P,Materials & Supplies,215000
+FY15-16,Materials & Supplies,Expense,7S,Materials & Supplies,31000
+FY15-16,Materials & Supplies,Expense,8A,Materials & Supplies,50000
+FY15-16,Non Personnel Services,Expense,1G,Non Personnel Services,663032171
+FY15-16,Non Personnel Services,Expense,2S,Non Personnel Services,304561528
+FY15-16,Non Personnel Services,Expense,5A,Non Personnel Services,100715333
+FY15-16,Non Personnel Services,Expense,5C,Non Personnel Services,15838529
+FY15-16,Non Personnel Services,Expense,5H,Non Personnel Services,195408691
+FY15-16,Non Personnel Services,Expense,5L,Non Personnel Services,9156576
+FY15-16,Non Personnel Services,Expense,5M,Non Personnel Services,123270518
+FY15-16,Non Personnel Services,Expense,5N,Non Personnel Services,37140123
+FY15-16,Non Personnel Services,Expense,5O,Non Personnel Services,1550112
+FY15-16,Non Personnel Services,Expense,5P,Non Personnel Services,11746636
+FY15-16,Non Personnel Services,Expense,5T,Non Personnel Services,65529440
+FY15-16,Non Personnel Services,Expense,5W,Non Personnel Services,28503521
+FY15-16,Non Personnel Services,Expense,5X,Non Personnel Services,27928794
+FY15-16,Non Personnel Services,Expense,6I,Non Personnel Services,52094948
+FY15-16,Non Personnel Services,Expense,7E,Non Personnel Services,310000
+FY15-16,Non Personnel Services,Expense,7P,Non Personnel Services,4143562
+FY15-16,Non Personnel Services,Expense,7R,Non Personnel Services,180000
+FY15-16,Non Personnel Services,Expense,7S,Non Personnel Services,53563703
+FY15-16,Non Personnel Services,Expense,8A,Non Personnel Services,9089477
+FY15-16,Operating Transfers In,Revenue,1G,Operating Transfers In,179281711
+FY15-16,Operating Transfers In,Revenue,2S,Operating Transfers In,143605681
+FY15-16,Operating Transfers In,Revenue,4D,Operating Transfers In,4799549
+FY15-16,Operating Transfers In,Revenue,5L,Operating Transfers In,2445983
+FY15-16,Operating Transfers In,Revenue,5M,Operating Transfers In,199641803
+FY15-16,Operating Transfers In,Revenue,5N,Operating Transfers In,22597407
+FY15-16,Operating Transfers In,Revenue,5T,Operating Transfers In,36800000
+FY15-16,Operating Transfers In,Revenue,6I,Operating Transfers In,5747920
+FY15-16,Operating Transfers Out,Expense,1G,Operating Transfers Out,212613101
+FY15-16,Operating Transfers Out,Expense,2S,Operating Transfers Out,3087763
+FY15-16,Operating Transfers Out,Expense,5A,Operating Transfers Out,38431713
+FY15-16,Operating Transfers Out,Expense,5C,Operating Transfers Out,31713
+FY15-16,Operating Transfers Out,Expense,5H,Operating Transfers Out,138983948
+FY15-16,Operating Transfers Out,Expense,5L,Operating Transfers Out,4789549
+FY15-16,Operating Transfers Out,Expense,5M,Operating Transfers Out,5046621
+FY15-16,Operating Transfers Out,Expense,5N,Operating Transfers Out,122663833
+FY15-16,Operating Transfers Out,Expense,5O,Operating Transfers Out,9077970
+FY15-16,Operating Transfers Out,Expense,5P,Operating Transfers Out,1041713
+FY15-16,Operating Transfers Out,Expense,5T,Operating Transfers Out,31712
+FY15-16,Operating Transfers Out,Expense,5W,Operating Transfers Out,36831712
+FY15-16,Operating Transfers Out,Expense,5X,Operating Transfers Out,16540786
+FY15-16,Operating Transfers Out,Expense,6I,Operating Transfers Out,5747920
+FY15-16,Other Financing Sources,Revenue,1G,Other Financing Sources,29150500
+FY15-16,Other Financing Sources,Revenue,5H,Other Financing Sources,36000000
+FY15-16,Other Financing Sources,Revenue,7S,Other Financing Sources,300000
+FY15-16,Other Local Taxes,Revenue,1G,Other Local Taxes,910430000
+FY15-16,Other Local Taxes,Revenue,7S,Other Local Taxes,5100350
+FY15-16,Other Revenues,Revenue,1G,Other Revenues,20537945
+FY15-16,Other Revenues,Revenue,2S,Other Revenues,22609870
+FY15-16,Other Revenues,Revenue,5A,Other Revenues,37789000
+FY15-16,Other Revenues,Revenue,5C,Other Revenues,5312465
+FY15-16,Other Revenues,Revenue,5H,Other Revenues,8548202
+FY15-16,Other Revenues,Revenue,5L,Other Revenues,15228677
+FY15-16,Other Revenues,Revenue,5M,Other Revenues,500000
+FY15-16,Other Revenues,Revenue,5N,Other Revenues,750000
+FY15-16,Other Revenues,Revenue,5P,Other Revenues,5272300
+FY15-16,Other Revenues,Revenue,5T,Other Revenues,4578584
+FY15-16,Other Revenues,Revenue,5W,Other Revenues,31592275
+FY15-16,Other Revenues,Revenue,7E,Other Revenues,991524
+FY15-16,Other Revenues,Revenue,7S,Other Revenues,143365157
+FY15-16,Other Revenues,Revenue,8A,Other Revenues,5750000
+FY15-16,Other Support & Care Of Persons,Expense,1G,Other Support & Care Of Persons,21209063
+FY15-16,Other Support & Care Of Persons,Expense,7S,Other Support & Care Of Persons,103171800
+FY15-16,Overhead,Expense,1G,Overhead,51171038
+FY15-16,Overhead,Expense,2S,Overhead,24539865
+FY15-16,Overhead,Expense,5A,Overhead,1766036
+FY15-16,Overhead,Expense,5M,Overhead,87887595
+FY15-16,Overhead,Expense,5N,Overhead,15845247
+FY15-16,Overhead,Expense,5O,Overhead,744861
+FY15-16,Overhead,Expense,5P,Overhead,630987
+FY15-16,Overhead,Expense,5X,Overhead,5217927
+FY15-16,Overhead,Expense,6I,Overhead,668194
+FY15-16,Overhead,Expense,7A,Overhead,1611756
+FY15-16,Overhead,Expense,7P,Overhead,161728
+FY15-16,Overhead,Expense,7S,Overhead,7511067
+FY15-16,Programmatic Projects,Expense,1G,Programmatic Projects,51322315
+FY15-16,Programmatic Projects,Expense,2S,Programmatic Projects,9709580
+FY15-16,Programmatic Projects,Expense,5C,Programmatic Projects,1150000
+FY15-16,Programmatic Projects,Expense,5H,Programmatic Projects,63500000
+FY15-16,Programmatic Projects,Expense,5P,Programmatic Projects,1815906
+FY15-16,Programmatic Projects,Expense,5T,Programmatic Projects,122000
+FY15-16,Programmatic Projects,Expense,5W,Programmatic Projects,1313000
+FY15-16,Programmatic Projects,Expense,7S,Programmatic Projects,11238939
+FY15-16,Project Carryforward Budgets Only,Expense,1G,Project Carryforward Budgets Only,933000
+FY15-16,Project Carryforward Budgets Only,Expense,5P,Project Carryforward Budgets Only,1220224
+FY15-16,Project Carryforward Budgets Only,Expense,7S,Project Carryforward Budgets Only,2282550
+FY15-16,Property Taxes,Revenue,1G,Property Taxes,1232927389
+FY15-16,Property Taxes,Revenue,2S,Property Taxes,137655000
+FY15-16,Property Taxes,Revenue,4D,Property Taxes,229493388
+FY15-16,Property Taxes,Revenue,7S,Property Taxes,131308701
+FY15-16,Rents & Concessions,Revenue,1G,Rents & Concessions,22691507
+FY15-16,Rents & Concessions,Revenue,2S,Rents & Concessions,39420056
+FY15-16,Rents & Concessions,Revenue,5A,Rents & Concessions,276505000
+FY15-16,Rents & Concessions,Revenue,5C,Rents & Concessions,841597
+FY15-16,Rents & Concessions,Revenue,5L,Rents & Concessions,563740
+FY15-16,Rents & Concessions,Revenue,5M,Rents & Concessions,1300000
+FY15-16,Rents & Concessions,Revenue,5N,Rents & Concessions,47221572
+FY15-16,Rents & Concessions,Revenue,5P,Rents & Concessions,66452200
+FY15-16,Rents & Concessions,Revenue,5T,Rents & Concessions,251865
+FY15-16,Rents & Concessions,Revenue,5W,Rents & Concessions,10948583
+FY15-16,Rents & Concessions,Revenue,5X,Rents & Concessions,61588205
+FY15-16,Rents & Concessions,Revenue,6I,Rents & Concessions,163814
+FY15-16,Rents & Concessions,Revenue,7E,Rents & Concessions,724000
+FY15-16,Rents & Concessions,Revenue,7S,Rents & Concessions,29577938
+FY15-16,Rents & Concessions,Revenue,8A,Rents & Concessions,9010542
+FY15-16,Salaries,Expense,1G,Salaries,1399701082
+FY15-16,Salaries,Expense,2S,Salaries,223381049
+FY15-16,Salaries,Expense,5A,Salaries,187910943
+FY15-16,Salaries,Expense,5C,Salaries,44369402
+FY15-16,Salaries,Expense,5H,Salaries,320780334
+FY15-16,Salaries,Expense,5L,Salaries,124118478
+FY15-16,Salaries,Expense,5M,Salaries,346053552
+FY15-16,Salaries,Expense,5N,Salaries,42660404
+FY15-16,Salaries,Expense,5O,Salaries,1427456
+FY15-16,Salaries,Expense,5P,Salaries,26947848
+FY15-16,Salaries,Expense,5T,Salaries,26711823
+FY15-16,Salaries,Expense,5W,Salaries,139283282
+FY15-16,Salaries,Expense,5X,Salaries,1024854
+FY15-16,Salaries,Expense,6I,Salaries,32904937
+FY15-16,Salaries,Expense,7A,Salaries,61059242
+FY15-16,Salaries,Expense,7E,Salaries,586874
+FY15-16,Salaries,Expense,7P,Salaries,10540445
+FY15-16,Services of Other Depts,Expense,1G,Services of Other Depts,266291385
+FY15-16,Services of Other Depts,Expense,2S,Services of Other Depts,90887621
+FY15-16,Services of Other Depts,Expense,5A,Services of Other Depts,63191687
+FY15-16,Services of Other Depts,Expense,5C,Services of Other Depts,60593401
+FY15-16,Services of Other Depts,Expense,5H,Services of Other Depts,53991920
+FY15-16,Services of Other Depts,Expense,5L,Services of Other Depts,13198359
+FY15-16,Services of Other Depts,Expense,5M,Services of Other Depts,51716775
+FY15-16,Services of Other Depts,Expense,5N,Services of Other Depts,9762686
+FY15-16,Services of Other Depts,Expense,5O,Services of Other Depts,713496
+FY15-16,Services of Other Depts,Expense,5P,Services of Other Depts,15082388
+FY15-16,Services of Other Depts,Expense,5T,Services of Other Depts,20344701
+FY15-16,Services of Other Depts,Expense,5W,Services of Other Depts,92338596
+FY15-16,Services of Other Depts,Expense,5X,Services of Other Depts,533252
+FY15-16,Services of Other Depts,Expense,6I,Services of Other Depts,6522253
+FY15-16,Services of Other Depts,Expense,7E,Services of Other Depts,800
+FY15-16,Services of Other Depts,Expense,7P,Services of Other Depts,6396626
+FY15-16,Services of Other Depts,Expense,7R,Services of Other Depts,115000
+FY15-16,Services of Other Depts,Expense,8A,Services of Other Depts,7226946
+FY15-16,Unappropriated Fund Balance,Revenue,1G,Unappropriated Fund Balance,193583250
+FY15-16,Unappropriated Fund Balance,Revenue,2S,Unappropriated Fund Balance,65785476
+FY15-16,Unappropriated Fund Balance,Revenue,4D,Unappropriated Fund Balance,3012089
+FY15-16,Unappropriated Fund Balance,Revenue,5A,Unappropriated Fund Balance,69429479
+FY15-16,Unappropriated Fund Balance,Revenue,5L,Unappropriated Fund Balance,434161
+FY15-16,Unappropriated Fund Balance,Revenue,5M,Unappropriated Fund Balance,19000000
+FY15-16,Unappropriated Fund Balance,Revenue,5N,Unappropriated Fund Balance,13500000
+FY15-16,Unappropriated Fund Balance,Revenue,5P,Unappropriated Fund Balance,18649619
+FY15-16,Unappropriated Fund Balance,Revenue,5W,Unappropriated Fund Balance,50555097
+FY15-16,Unappropriated Fund Balance,Revenue,5X,Unappropriated Fund Balance,3000000
+FY15-16,Unappropriated Fund Balance,Revenue,6I,Unappropriated Fund Balance,4332967
+FY15-16,Unappropriated Fund Balance,Revenue,7S,Unappropriated Fund Balance,67524423
+FY15-16,Unappropriated Fund Balance,Revenue,8A,Unappropriated Fund Balance,1605881
+FY15-16,Unappropriated Revenue Retained,Expense,1G,Unappropriated Revenue Retained,31366882
+FY15-16,Unappropriated Revenue Retained,Expense,5C,Unappropriated Revenue Retained,39000000
+FY15-16,Unappropriated Revenue Retained,Expense,5T,Unappropriated Revenue Retained,23251796
+FY15-16,Unappropriated Revenue Retained,Expense,5W,Unappropriated Revenue Retained,29219000
+FY15-16,Unappropriated Revenue Retained,Expense,7S,Unappropriated Revenue Retained,73760286
+FY15-16,Unappropriated Revenue-Charter Reserves,Expense,1G,Unappropriated Revenue-Charter Reserves,19090000
+FY15-16,Unappropriated Revenue-Designated,Expense,1G,Unappropriated Revenue-Designated,19260971
+FY15-16,Unappropriated Revenue-Designated,Expense,2S,Unappropriated Revenue-Designated,167716
+FY15-16,Unappropriated Revenue-Designated,Expense,5C,Unappropriated Revenue-Designated,21931665
+FY15-16,Unappropriated Revenue-Designated,Expense,5P,Unappropriated Revenue-Designated,5394107
+FY15-16,Unappropriated Revenue-Designated,Expense,5T,Unappropriated Revenue-Designated,7633389
+FY15-16,Unappropriated Revenue-Designated,Expense,5W,Unappropriated Revenue-Designated,8758894
+FY15-16,Unappropriated Revenue-Designated,Expense,7R,Unappropriated Revenue-Designated,21834743

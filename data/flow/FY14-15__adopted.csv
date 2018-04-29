@@ -1,0 +1,360 @@
+budget_year,department,account_type,fund_code,account_category,amount
+FY14-15,Aid Assistance,Expense,1G,Aid Assistance,48272888
+FY14-15,Aid Assistance,Expense,2S,Aid Assistance,843776
+FY14-15,Aid Payments,Expense,1G,Aid Payments,240478153
+FY14-15,Allocated Charges,Expense,2S,Allocated Charges,1400311
+FY14-15,Business Taxes,Revenue,1G,Business Taxes,532988000
+FY14-15,Business Taxes,Revenue,2S,Business Taxes,1000000
+FY14-15,Capital Contributions-State,Revenue,1G,Capital Contributions-State,56700
+FY14-15,Capital Outlay,Expense,1G,Capital Outlay,61304559
+FY14-15,Capital Outlay,Expense,2S,Capital Outlay,45059375
+FY14-15,Capital Outlay,Expense,3C,Capital Outlay,1778961
+FY14-15,Capital Outlay,Expense,5A,Capital Outlay,77054316
+FY14-15,Capital Outlay,Expense,5C,Capital Outlay,671899
+FY14-15,Capital Outlay,Expense,5H,Capital Outlay,5821500
+FY14-15,Capital Outlay,Expense,5L,Capital Outlay,208155
+FY14-15,Capital Outlay,Expense,5M,Capital Outlay,506176
+FY14-15,Capital Outlay,Expense,5N,Capital Outlay,5490503
+FY14-15,Capital Outlay,Expense,5O,Capital Outlay,28297
+FY14-15,Capital Outlay,Expense,5P,Capital Outlay,14942421
+FY14-15,Capital Outlay,Expense,5T,Capital Outlay,3680598
+FY14-15,Capital Outlay,Expense,5W,Capital Outlay,9861924
+FY14-15,Capital Outlay,Expense,6I,Capital Outlay,1504322
+FY14-15,Capital Outlay,Expense,7P,Capital Outlay,22784
+FY14-15,Charges for Services,Revenue,1G,Charges for Services,177047549
+FY14-15,Charges for Services,Revenue,2S,Charges for Services,94414800
+FY14-15,Charges for Services,Revenue,5A,Charges for Services,548452000
+FY14-15,Charges for Services,Revenue,5C,Charges for Services,240677500
+FY14-15,Charges for Services,Revenue,5H,Charges for Services,647337258
+FY14-15,Charges for Services,Revenue,5L,Charges for Services,128906328
+FY14-15,Charges for Services,Revenue,5M,Charges for Services,212039334
+FY14-15,Charges for Services,Revenue,5N,Charges for Services,12521000
+FY14-15,Charges for Services,Revenue,5O,Charges for Services,5100
+FY14-15,Charges for Services,Revenue,5P,Charges for Services,13830031
+FY14-15,Charges for Services,Revenue,5T,Charges for Services,40246032
+FY14-15,Charges for Services,Revenue,5W,Charges for Services,392778109
+FY14-15,Charges for Services,Revenue,5X,Charges for Services,78738
+FY14-15,Charges for Services,Revenue,6I,Charges for Services,700000
+FY14-15,City Grant Programs,Expense,1G,City Grant Programs,174677407
+FY14-15,City Grant Programs,Expense,2S,City Grant Programs,197736832
+FY14-15,City Grant Programs,Expense,5W,City Grant Programs,2995125
+FY14-15,City Grant Programs,Expense,7E,City Grant Programs,76350
+FY14-15,City Grant Programs,Expense,7S,City Grant Programs,7563881
+FY14-15,Contributions (Ret, HSS, Health Care),Revenue,7P,Contributions (Ret, HSS, Health Care),20999736
+FY14-15,Contributions (Ret, HSS, Health Care),Revenue,7R,Contributions (Ret, HSS, Health Care),16500000
+FY14-15,Debt Service,Expense,1G,Debt Service,2214950
+FY14-15,Debt Service,Expense,2S,Debt Service,3038020
+FY14-15,Debt Service,Expense,4D,Debt Service,238930890
+FY14-15,Debt Service,Expense,5A,Debt Service,364166429
+FY14-15,Debt Service,Expense,5C,Debt Service,62843835
+FY14-15,Debt Service,Expense,5H,Debt Service,2865946
+FY14-15,Debt Service,Expense,5L,Debt Service,12959639
+FY14-15,Debt Service,Expense,5M,Debt Service,2000000
+FY14-15,Debt Service,Expense,5P,Debt Service,8991802
+FY14-15,Debt Service,Expense,5T,Debt Service,3223834
+FY14-15,Debt Service,Expense,5W,Debt Service,218825673
+FY14-15,Debt Service,Expense,5X,Debt Service,10000000
+FY14-15,Debt Service,Expense,7S,Debt Service,101206365
+FY14-15,Expenditure Recovery,Revenue,1G,Expenditure Recovery,372281753
+FY14-15,Expenditure Recovery,Revenue,2S,Expenditure Recovery,193134789
+FY14-15,Expenditure Recovery,Revenue,5A,Expenditure Recovery,8650712
+FY14-15,Expenditure Recovery,Revenue,5C,Expenditure Recovery,6736934
+FY14-15,Expenditure Recovery,Revenue,5H,Expenditure Recovery,4014529
+FY14-15,Expenditure Recovery,Revenue,5L,Expenditure Recovery,229950
+FY14-15,Expenditure Recovery,Revenue,5M,Expenditure Recovery,87699861
+FY14-15,Expenditure Recovery,Revenue,5N,Expenditure Recovery,1693000
+FY14-15,Expenditure Recovery,Revenue,5P,Expenditure Recovery,173228
+FY14-15,Expenditure Recovery,Revenue,5T,Expenditure Recovery,84007434
+FY14-15,Expenditure Recovery,Revenue,5W,Expenditure Recovery,163115743
+FY14-15,Expenditure Recovery,Revenue,5Y,Expenditure Recovery,105600
+FY14-15,Expenditure Recovery,Revenue,6I,Expenditure Recovery,113457891
+FY14-15,Expenditure Recovery,Revenue,7P,Expenditure Recovery,40515
+FY14-15,Facilities Maintenance,Expense,1G,Facilities Maintenance,13347716
+FY14-15,Facilities Maintenance,Expense,2S,Facilities Maintenance,737000
+FY14-15,Facilities Maintenance,Expense,5A,Facilities Maintenance,9310000
+FY14-15,Facilities Maintenance,Expense,5C,Facilities Maintenance,6194864
+FY14-15,Facilities Maintenance,Expense,5H,Facilities Maintenance,2354204
+FY14-15,Facilities Maintenance,Expense,5L,Facilities Maintenance,998000
+FY14-15,Facilities Maintenance,Expense,5P,Facilities Maintenance,3415526
+FY14-15,Facilities Maintenance,Expense,5T,Facilities Maintenance,9478136
+FY14-15,Facilities Maintenance,Expense,5W,Facilities Maintenance,17929000
+FY14-15,Fines, Forfeitures & Penalties,Revenue,1G,Fines, Forfeitures & Penalties,9096828
+FY14-15,Fines, Forfeitures & Penalties,Revenue,2S,Fines, Forfeitures & Penalties,5186457
+FY14-15,Fines, Forfeitures & Penalties,Revenue,5A,Fines, Forfeitures & Penalties,173000
+FY14-15,Fines, Forfeitures & Penalties,Revenue,5M,Fines, Forfeitures & Penalties,1009000
+FY14-15,Fines, Forfeitures & Penalties,Revenue,5N,Fines, Forfeitures & Penalties,91968800
+FY14-15,Fines, Forfeitures & Penalties,Revenue,5O,Fines, Forfeitures & Penalties,318265
+FY14-15,Fines, Forfeitures & Penalties,Revenue,5P,Fines, Forfeitures & Penalties,2261000
+FY14-15,General Fund Support,Revenue,2S,General Fund Support,84754952
+FY14-15,General Fund Support,Revenue,5H,General Fund Support,204479432
+FY14-15,General Fund Support,Revenue,5L,General Fund Support,80928649
+FY14-15,General Fund Support,Revenue,5M,General Fund Support,168730000
+FY14-15,General Fund Support,Revenue,5N,General Fund Support,63270000
+FY14-15,ISF Charges for Services,Revenue,5H,ISF Charges for Services,2576234
+FY14-15,Interest & Investment Income,Revenue,1G,Interest & Investment Income,10945599
+FY14-15,Interest & Investment Income,Revenue,2S,Interest & Investment Income,1974051
+FY14-15,Interest & Investment Income,Revenue,5A,Interest & Investment Income,7826000
+FY14-15,Interest & Investment Income,Revenue,5C,Interest & Investment Income,1088000
+FY14-15,Interest & Investment Income,Revenue,5M,Interest & Investment Income,1500000
+FY14-15,Interest & Investment Income,Revenue,5N,Interest & Investment Income,408000
+FY14-15,Interest & Investment Income,Revenue,5P,Interest & Investment Income,812500
+FY14-15,Interest & Investment Income,Revenue,5T,Interest & Investment Income,1901000
+FY14-15,Interest & Investment Income,Revenue,5W,Interest & Investment Income,1234000
+FY14-15,Interest & Investment Income,Revenue,5X,Interest & Investment Income,60000
+FY14-15,Interest & Investment Income,Revenue,7A,Interest & Investment Income,81000
+FY14-15,Interest & Investment Income,Revenue,7E,Interest & Investment Income,115000
+FY14-15,Interest & Investment Income,Revenue,7P,Interest & Investment Income,250000
+FY14-15,Interest & Investment Income,Revenue,7R,Interest & Investment Income,281636
+FY14-15,Intergovernmental Revenues-Federal,Revenue,1G,Intergovernmental Revenues-Federal,214450014
+FY14-15,Intergovernmental Revenues-Federal,Revenue,2S,Intergovernmental Revenues-Federal,145013946
+FY14-15,Intergovernmental Revenues-Federal,Revenue,5A,Intergovernmental Revenues-Federal,71741491
+FY14-15,Intergovernmental Revenues-Federal,Revenue,5H,Intergovernmental Revenues-Federal,5101921
+FY14-15,Intergovernmental Revenues-Federal,Revenue,5M,Intergovernmental Revenues-Federal,3700000
+FY14-15,Intergovernmental Revenues-Federal,Revenue,7S,Intergovernmental Revenues-Federal,6862700
+FY14-15,Intergovernmental Revenues-Other,Revenue,1G,Intergovernmental Revenues-Other,3563098
+FY14-15,Intergovernmental Revenues-Other,Revenue,2S,Intergovernmental Revenues-Other,2551306
+FY14-15,Intergovernmental Revenues-Other,Revenue,5M,Intergovernmental Revenues-Other,78870000
+FY14-15,Intergovernmental Revenues-Other,Revenue,5P,Intergovernmental Revenues-Other,2090000
+FY14-15,Intergovernmental Revenues-Other,Revenue,6I,Intergovernmental Revenues-Other,41000
+FY14-15,Intergovernmental Revenues-State,Revenue,1G,Intergovernmental Revenues-State,562866511
+FY14-15,Intergovernmental Revenues-State,Revenue,2S,Intergovernmental Revenues-State,95417566
+FY14-15,Intergovernmental Revenues-State,Revenue,4D,Intergovernmental Revenues-State,750000
+FY14-15,Intergovernmental Revenues-State,Revenue,5A,Intergovernmental Revenues-State,15000
+FY14-15,Intergovernmental Revenues-State,Revenue,5H,Intergovernmental Revenues-State,111481242
+FY14-15,Intergovernmental Revenues-State,Revenue,5M,Intergovernmental Revenues-State,30600000
+FY14-15,Intergovernmental Revenues-State,Revenue,5N,Intergovernmental Revenues-State,2500000
+FY14-15,Intergovernmental Revenues-State,Revenue,7A,Intergovernmental Revenues-State,88422483
+FY14-15,Intergovernmental Revenues-State,Revenue,7S,Intergovernmental Revenues-State,2000000
+FY14-15,Intrafund Transfers In,Revenue,1G,Intrafund Transfers In,248155154
+FY14-15,Intrafund Transfers In,Revenue,2S,Intrafund Transfers In,63117014
+FY14-15,Intrafund Transfers In,Revenue,5A,Intrafund Transfers In,107523169
+FY14-15,Intrafund Transfers In,Revenue,5C,Intrafund Transfers In,42330580
+FY14-15,Intrafund Transfers In,Revenue,5H,Intrafund Transfers In,41302190
+FY14-15,Intrafund Transfers In,Revenue,5L,Intrafund Transfers In,998000
+FY14-15,Intrafund Transfers In,Revenue,5P,Intrafund Transfers In,17552659
+FY14-15,Intrafund Transfers In,Revenue,5T,Intrafund Transfers In,55049500
+FY14-15,Intrafund Transfers In,Revenue,5W,Intrafund Transfers In,44908231
+FY14-15,Intrafund Transfers Out,Expense,1G,Intrafund Transfers Out,248155154
+FY14-15,Intrafund Transfers Out,Expense,2S,Intrafund Transfers Out,63117014
+FY14-15,Intrafund Transfers Out,Expense,5A,Intrafund Transfers Out,107523169
+FY14-15,Intrafund Transfers Out,Expense,5C,Intrafund Transfers Out,42330580
+FY14-15,Intrafund Transfers Out,Expense,5H,Intrafund Transfers Out,41302190
+FY14-15,Intrafund Transfers Out,Expense,5L,Intrafund Transfers Out,998000
+FY14-15,Intrafund Transfers Out,Expense,5P,Intrafund Transfers Out,17552659
+FY14-15,Intrafund Transfers Out,Expense,5T,Intrafund Transfers Out,55049500
+FY14-15,Intrafund Transfers Out,Expense,5W,Intrafund Transfers Out,44908231
+FY14-15,Licenses, Permits & Franchises,Revenue,1G,Licenses, Permits & Franchises,25533540
+FY14-15,Licenses, Permits & Franchises,Revenue,2S,Licenses, Permits & Franchises,10716723
+FY14-15,Licenses, Permits & Franchises,Revenue,5N,Licenses, Permits & Franchises,9727900
+FY14-15,Licenses, Permits & Franchises,Revenue,5O,Licenses, Permits & Franchises,9902548
+FY14-15,Mandatory Fringe Benefits,Expense,1G,Mandatory Fringe Benefits,550755628
+FY14-15,Mandatory Fringe Benefits,Expense,2S,Mandatory Fringe Benefits,106155256
+FY14-15,Mandatory Fringe Benefits,Expense,5A,Mandatory Fringe Benefits,93791371
+FY14-15,Mandatory Fringe Benefits,Expense,5C,Mandatory Fringe Benefits,20353182
+FY14-15,Mandatory Fringe Benefits,Expense,5H,Mandatory Fringe Benefits,135445534
+FY14-15,Mandatory Fringe Benefits,Expense,5L,Mandatory Fringe Benefits,55478243
+FY14-15,Mandatory Fringe Benefits,Expense,5M,Mandatory Fringe Benefits,166070206
+FY14-15,Mandatory Fringe Benefits,Expense,5N,Mandatory Fringe Benefits,22798914
+FY14-15,Mandatory Fringe Benefits,Expense,5O,Mandatory Fringe Benefits,587917
+FY14-15,Mandatory Fringe Benefits,Expense,5P,Mandatory Fringe Benefits,12098814
+FY14-15,Mandatory Fringe Benefits,Expense,5T,Mandatory Fringe Benefits,11848600
+FY14-15,Mandatory Fringe Benefits,Expense,5W,Mandatory Fringe Benefits,57600983
+FY14-15,Mandatory Fringe Benefits,Expense,5X,Mandatory Fringe Benefits,391259
+FY14-15,Mandatory Fringe Benefits,Expense,5Y,Mandatory Fringe Benefits,6946
+FY14-15,Mandatory Fringe Benefits,Expense,5Z,Mandatory Fringe Benefits,29766
+FY14-15,Mandatory Fringe Benefits,Expense,6I,Mandatory Fringe Benefits,15329746
+FY14-15,Mandatory Fringe Benefits,Expense,7A,Mandatory Fringe Benefits,27022980
+FY14-15,Mandatory Fringe Benefits,Expense,7E,Mandatory Fringe Benefits,276877
+FY14-15,Mandatory Fringe Benefits,Expense,7P,Mandatory Fringe Benefits,4233134
+FY14-15,Mandatory Fringe Benefits,Expense,7S,Mandatory Fringe Benefits,2654900
+FY14-15,Materials & Supplies,Expense,1G,Materials & Supplies,40666256
+FY14-15,Materials & Supplies,Expense,2S,Materials & Supplies,20661151
+FY14-15,Materials & Supplies,Expense,5A,Materials & Supplies,15195354
+FY14-15,Materials & Supplies,Expense,5C,Materials & Supplies,9400751
+FY14-15,Materials & Supplies,Expense,5H,Materials & Supplies,77004384
+FY14-15,Materials & Supplies,Expense,5L,Materials & Supplies,15722389
+FY14-15,Materials & Supplies,Expense,5M,Materials & Supplies,67760027
+FY14-15,Materials & Supplies,Expense,5N,Materials & Supplies,9273998
+FY14-15,Materials & Supplies,Expense,5O,Materials & Supplies,135800
+FY14-15,Materials & Supplies,Expense,5P,Materials & Supplies,1447598
+FY14-15,Materials & Supplies,Expense,5T,Materials & Supplies,2757967
+FY14-15,Materials & Supplies,Expense,5W,Materials & Supplies,16057434
+FY14-15,Materials & Supplies,Expense,5X,Materials & Supplies,10622
+FY14-15,Materials & Supplies,Expense,5Y,Materials & Supplies,107897
+FY14-15,Materials & Supplies,Expense,6I,Materials & Supplies,15967859
+FY14-15,Materials & Supplies,Expense,7E,Materials & Supplies,581024
+FY14-15,Materials & Supplies,Expense,7P,Materials & Supplies,200000
+FY14-15,Materials & Supplies,Expense,7S,Materials & Supplies,33400
+FY14-15,Materials & Supplies,Expense,8A,Materials & Supplies,50000
+FY14-15,Non Personnel Services,Expense,1G,Non Personnel Services,646856675
+FY14-15,Non Personnel Services,Expense,2S,Non Personnel Services,277837048
+FY14-15,Non Personnel Services,Expense,5A,Non Personnel Services,99570646
+FY14-15,Non Personnel Services,Expense,5C,Non Personnel Services,14719218
+FY14-15,Non Personnel Services,Expense,5H,Non Personnel Services,221896808
+FY14-15,Non Personnel Services,Expense,5L,Non Personnel Services,9071551
+FY14-15,Non Personnel Services,Expense,5M,Non Personnel Services,106788950
+FY14-15,Non Personnel Services,Expense,5N,Non Personnel Services,41060426
+FY14-15,Non Personnel Services,Expense,5O,Non Personnel Services,268493
+FY14-15,Non Personnel Services,Expense,5P,Non Personnel Services,11029177
+FY14-15,Non Personnel Services,Expense,5T,Non Personnel Services,66416819
+FY14-15,Non Personnel Services,Expense,5W,Non Personnel Services,24516636
+FY14-15,Non Personnel Services,Expense,5X,Non Personnel Services,14065370
+FY14-15,Non Personnel Services,Expense,5Y,Non Personnel Services,7129
+FY14-15,Non Personnel Services,Expense,6I,Non Personnel Services,39917780
+FY14-15,Non Personnel Services,Expense,7E,Non Personnel Services,470657
+FY14-15,Non Personnel Services,Expense,7P,Non Personnel Services,4542498
+FY14-15,Non Personnel Services,Expense,7R,Non Personnel Services,170000
+FY14-15,Non Personnel Services,Expense,7S,Non Personnel Services,100283800
+FY14-15,Non Personnel Services,Expense,8A,Non Personnel Services,2460015
+FY14-15,Operating Transfers In,Revenue,1G,Operating Transfers In,217982482
+FY14-15,Operating Transfers In,Revenue,2S,Operating Transfers In,134188968
+FY14-15,Operating Transfers In,Revenue,4D,Operating Transfers In,143246
+FY14-15,Operating Transfers In,Revenue,5H,Operating Transfers In,21000000
+FY14-15,Operating Transfers In,Revenue,5L,Operating Transfers In,2205688
+FY14-15,Operating Transfers In,Revenue,5M,Operating Transfers In,174690844
+FY14-15,Operating Transfers In,Revenue,5N,Operating Transfers In,24433397
+FY14-15,Operating Transfers In,Revenue,5P,Operating Transfers In,824359
+FY14-15,Operating Transfers In,Revenue,5T,Operating Transfers In,33309058
+FY14-15,Operating Transfers In,Revenue,5Y,Operating Transfers In,359237
+FY14-15,Operating Transfers In,Revenue,5Z,Operating Transfers In,167655
+FY14-15,Operating Transfers In,Revenue,6I,Operating Transfers In,5745844
+FY14-15,Operating Transfers Out,Expense,1G,Operating Transfers Out,202613698
+FY14-15,Operating Transfers Out,Expense,2S,Operating Transfers Out,3058641
+FY14-15,Operating Transfers Out,Expense,3C,Operating Transfers Out,1603626
+FY14-15,Operating Transfers Out,Expense,5A,Operating Transfers Out,36982698
+FY14-15,Operating Transfers Out,Expense,5C,Operating Transfers Out,31713
+FY14-15,Operating Transfers Out,Expense,5H,Operating Transfers Out,177559230
+FY14-15,Operating Transfers Out,Expense,5L,Operating Transfers Out,21000000
+FY14-15,Operating Transfers Out,Expense,5M,Operating Transfers Out,5046621
+FY14-15,Operating Transfers Out,Expense,5N,Operating Transfers Out,101792857
+FY14-15,Operating Transfers Out,Expense,5O,Operating Transfers Out,6824879
+FY14-15,Operating Transfers Out,Expense,5P,Operating Transfers Out,887713
+FY14-15,Operating Transfers Out,Expense,5T,Operating Transfers Out,31712
+FY14-15,Operating Transfers Out,Expense,5W,Operating Transfers Out,33340770
+FY14-15,Operating Transfers Out,Expense,5X,Operating Transfers Out,18530776
+FY14-15,Operating Transfers Out,Expense,6I,Operating Transfers Out,5745844
+FY14-15,Other Financing Sources,Revenue,1G,Other Financing Sources,1104500
+FY14-15,Other Financing Sources,Revenue,5H,Other Financing Sources,5000000
+FY14-15,Other Financing Sources,Revenue,7S,Other Financing Sources,58600000
+FY14-15,Other Local Taxes,Revenue,1G,Other Local Taxes,846924000
+FY14-15,Other Local Taxes,Revenue,7S,Other Local Taxes,3088800
+FY14-15,Other Revenues,Revenue,1G,Other Revenues,14301204
+FY14-15,Other Revenues,Revenue,2S,Other Revenues,7856210
+FY14-15,Other Revenues,Revenue,3C,Other Revenues,1778961
+FY14-15,Other Revenues,Revenue,5A,Other Revenues,38472000
+FY14-15,Other Revenues,Revenue,5C,Other Revenues,4678000
+FY14-15,Other Revenues,Revenue,5H,Other Revenues,8685706
+FY14-15,Other Revenues,Revenue,5L,Other Revenues,15269228
+FY14-15,Other Revenues,Revenue,5P,Other Revenues,1367859
+FY14-15,Other Revenues,Revenue,5T,Other Revenues,4680372
+FY14-15,Other Revenues,Revenue,5W,Other Revenues,31236466
+FY14-15,Other Revenues,Revenue,7E,Other Revenues,1123278
+FY14-15,Other Revenues,Revenue,7S,Other Revenues,44190000
+FY14-15,Other Support & Care Of Persons,Expense,1G,Other Support & Care Of Persons,21246000
+FY14-15,Other Support & Care Of Persons,Expense,2S,Other Support & Care Of Persons,650000
+FY14-15,Other Support & Care Of Persons,Expense,7S,Other Support & Care Of Persons,82930747
+FY14-15,Overhead,Expense,1G,Overhead,47086349
+FY14-15,Overhead,Expense,2S,Overhead,23505015
+FY14-15,Overhead,Expense,5A,Overhead,2588499
+FY14-15,Overhead,Expense,5M,Overhead,68847283
+FY14-15,Overhead,Expense,5N,Overhead,16003225
+FY14-15,Overhead,Expense,5O,Overhead,454843
+FY14-15,Overhead,Expense,5P,Overhead,427137
+FY14-15,Overhead,Expense,5W,Overhead,557951
+FY14-15,Overhead,Expense,5X,Overhead,2952473
+FY14-15,Overhead,Expense,5Y,Overhead,37960
+FY14-15,Overhead,Expense,5Z,Overhead,17307
+FY14-15,Overhead,Expense,6I,Overhead,982405
+FY14-15,Overhead,Expense,7A,Overhead,1623621
+FY14-15,Overhead,Expense,7P,Overhead,166917
+FY14-15,Programmatic Projects,Expense,1G,Programmatic Projects,32411828
+FY14-15,Programmatic Projects,Expense,2S,Programmatic Projects,9697054
+FY14-15,Programmatic Projects,Expense,5H,Programmatic Projects,49000000
+FY14-15,Programmatic Projects,Expense,5P,Programmatic Projects,1500714
+FY14-15,Programmatic Projects,Expense,6I,Programmatic Projects,2328517
+FY14-15,Project Carryforward Budgets Only,Expense,7S,Project Carryforward Budgets Only,2734000
+FY14-15,Property Taxes,Revenue,1G,Property Taxes,1153417389
+FY14-15,Property Taxes,Revenue,2S,Property Taxes,127862000
+FY14-15,Property Taxes,Revenue,4D,Property Taxes,217451356
+FY14-15,Property Taxes,Revenue,7S,Property Taxes,119248935
+FY14-15,Rents & Concessions,Revenue,1G,Rents & Concessions,23060899
+FY14-15,Rents & Concessions,Revenue,2S,Rents & Concessions,36819323
+FY14-15,Rents & Concessions,Revenue,5A,Rents & Concessions,256315900
+FY14-15,Rents & Concessions,Revenue,5C,Rents & Concessions,773000
+FY14-15,Rents & Concessions,Revenue,5L,Rents & Concessions,563740
+FY14-15,Rents & Concessions,Revenue,5M,Rents & Concessions,1300865
+FY14-15,Rents & Concessions,Revenue,5N,Rents & Concessions,47822400
+FY14-15,Rents & Concessions,Revenue,5P,Rents & Concessions,60246823
+FY14-15,Rents & Concessions,Revenue,5T,Rents & Concessions,271000
+FY14-15,Rents & Concessions,Revenue,5W,Rents & Concessions,10603000
+FY14-15,Rents & Concessions,Revenue,5X,Rents & Concessions,47270163
+FY14-15,Rents & Concessions,Revenue,6I,Rents & Concessions,170845
+FY14-15,Rents & Concessions,Revenue,7E,Rents & Concessions,956502
+FY14-15,Rents & Concessions,Revenue,7S,Rents & Concessions,16862000
+FY14-15,Rents & Concessions,Revenue,8A,Rents & Concessions,8819557
+FY14-15,Salaries,Expense,1G,Salaries,1328348303
+FY14-15,Salaries,Expense,2S,Salaries,208994070
+FY14-15,Salaries,Expense,5A,Salaries,180808704
+FY14-15,Salaries,Expense,5C,Salaries,43163093
+FY14-15,Salaries,Expense,5H,Salaries,307106168
+FY14-15,Salaries,Expense,5L,Salaries,116777164
+FY14-15,Salaries,Expense,5M,Salaries,311013025
+FY14-15,Salaries,Expense,5N,Salaries,42821389
+FY14-15,Salaries,Expense,5O,Salaries,1204315
+FY14-15,Salaries,Expense,5P,Salaries,25672331
+FY14-15,Salaries,Expense,5T,Salaries,25341433
+FY14-15,Salaries,Expense,5W,Salaries,132536227
+FY14-15,Salaries,Expense,5X,Salaries,975729
+FY14-15,Salaries,Expense,5Y,Salaries,299039
+FY14-15,Salaries,Expense,5Z,Salaries,120582
+FY14-15,Salaries,Expense,6I,Salaries,32528362
+FY14-15,Salaries,Expense,7A,Salaries,59856882
+FY14-15,Salaries,Expense,7E,Salaries,788529
+FY14-15,Salaries,Expense,7P,Salaries,9415001
+FY14-15,Salaries,Expense,7S,Salaries,4460000
+FY14-15,Services of Other Depts,Expense,1G,Services of Other Depts,241222694
+FY14-15,Services of Other Depts,Expense,2S,Services of Other Depts,80911579
+FY14-15,Services of Other Depts,Expense,5A,Services of Other Depts,59722359
+FY14-15,Services of Other Depts,Expense,5C,Services of Other Depts,57463377
+FY14-15,Services of Other Depts,Expense,5H,Services of Other Depts,49622548
+FY14-15,Services of Other Depts,Expense,5L,Services of Other Depts,12695165
+FY14-15,Services of Other Depts,Expense,5M,Services of Other Depts,48250199
+FY14-15,Services of Other Depts,Expense,5N,Services of Other Depts,12595310
+FY14-15,Services of Other Depts,Expense,5O,Services of Other Depts,721369
+FY14-15,Services of Other Depts,Expense,5P,Services of Other Depts,12649451
+FY14-15,Services of Other Depts,Expense,5T,Services of Other Depts,18846326
+FY14-15,Services of Other Depts,Expense,5W,Services of Other Depts,88029803
+FY14-15,Services of Other Depts,Expense,5X,Services of Other Depts,482672
+FY14-15,Services of Other Depts,Expense,5Y,Services of Other Depts,5866
+FY14-15,Services of Other Depts,Expense,6I,Services of Other Depts,6589632
+FY14-15,Services of Other Depts,Expense,7E,Services of Other Depts,1343
+FY14-15,Services of Other Depts,Expense,7P,Services of Other Depts,2709917
+FY14-15,Services of Other Depts,Expense,7R,Services of Other Depts,122500
+FY14-15,Services of Other Depts,Expense,8A,Services of Other Depts,6309542
+FY14-15,Unappropriated Fund Balance,Revenue,1G,Unappropriated Fund Balance,156426003
+FY14-15,Unappropriated Fund Balance,Revenue,2S,Unappropriated Fund Balance,56594912
+FY14-15,Unappropriated Fund Balance,Revenue,3C,Unappropriated Fund Balance,1603626
+FY14-15,Unappropriated Fund Balance,Revenue,4D,Unappropriated Fund Balance,20586288
+FY14-15,Unappropriated Fund Balance,Revenue,5A,Unappropriated Fund Balance,7544273
+FY14-15,Unappropriated Fund Balance,Revenue,5H,Unappropriated Fund Balance,19000000
+FY14-15,Unappropriated Fund Balance,Revenue,5L,Unappropriated Fund Balance,16806723
+FY14-15,Unappropriated Fund Balance,Revenue,5P,Unappropriated Fund Balance,13409302
+FY14-15,Unappropriated Fund Balance,Revenue,5T,Unappropriated Fund Balance,20686232
+FY14-15,Unappropriated Fund Balance,Revenue,5W,Unappropriated Fund Balance,19785030
+FY14-15,Unappropriated Fund Balance,Revenue,6I,Unappropriated Fund Balance,778887
+FY14-15,Unappropriated Fund Balance,Revenue,7S,Unappropriated Fund Balance,60314658
+FY14-15,Unappropriated Revenue Retained,Expense,1G,Unappropriated Revenue Retained,24100000
+FY14-15,Unappropriated Revenue Retained,Expense,2S,Unappropriated Revenue Retained,1026015
+FY14-15,Unappropriated Revenue Retained,Expense,5C,Unappropriated Revenue Retained,37000000
+FY14-15,Unappropriated Revenue Retained,Expense,5M,Unappropriated Revenue Retained,6000000
+FY14-15,Unappropriated Revenue Retained,Expense,5N,Unappropriated Revenue Retained,4000000
+FY14-15,Unappropriated Revenue Retained,Expense,5T,Unappropriated Revenue Retained,44723652
+FY14-15,Unappropriated Revenue Retained,Expense,5W,Unappropriated Revenue Retained,20252600
+FY14-15,Unappropriated Revenue Retained,Expense,7S,Unappropriated Revenue Retained,9300000
+FY14-15,Unappropriated Revenue-Charter Reserves,Expense,1G,Unappropriated Revenue-Charter Reserves,15950000
+FY14-15,Unappropriated Revenue-Designated,Expense,1G,Unappropriated Revenue-Designated,29832624
+FY14-15,Unappropriated Revenue-Designated,Expense,2S,Unappropriated Revenue-Designated,16174860
+FY14-15,Unappropriated Revenue-Designated,Expense,5C,Unappropriated Revenue-Designated,4535327
+FY14-15,Unappropriated Revenue-Designated,Expense,5P,Unappropriated Revenue-Designated,1952418
+FY14-15,Unappropriated Revenue-Designated,Expense,5W,Unappropriated Revenue-Designated,5414919
+FY14-15,Unappropriated Revenue-Designated,Expense,7R,Unappropriated Revenue-Designated,16489136

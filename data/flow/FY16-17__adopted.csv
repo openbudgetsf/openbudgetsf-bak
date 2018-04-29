@@ -1,0 +1,367 @@
+budget_year,department,account_type,fund_code,account_category,amount
+FY16-17,Aid Assistance,Expense,1G,Aid Assistance,52980112
+FY16-17,Aid Assistance,Expense,2S,Aid Assistance,4910327
+FY16-17,Aid Payments,Expense,1G,Aid Payments,287416974
+FY16-17,Allocated Charges,Expense,2S,Allocated Charges,1502692
+FY16-17,Business Taxes,Revenue,1G,Business Taxes,634460000
+FY16-17,Business Taxes,Revenue,2S,Business Taxes,1900000
+FY16-17,Capital Outlay,Expense,1G,Capital Outlay,137252598
+FY16-17,Capital Outlay,Expense,2S,Capital Outlay,43635146
+FY16-17,Capital Outlay,Expense,3C,Capital Outlay,38445113
+FY16-17,Capital Outlay,Expense,5A,Capital Outlay,28341180
+FY16-17,Capital Outlay,Expense,5C,Capital Outlay,693001
+FY16-17,Capital Outlay,Expense,5H,Capital Outlay,3348554
+FY16-17,Capital Outlay,Expense,5L,Capital Outlay,845596
+FY16-17,Capital Outlay,Expense,5M,Capital Outlay,42618475
+FY16-17,Capital Outlay,Expense,5N,Capital Outlay,26652637
+FY16-17,Capital Outlay,Expense,5P,Capital Outlay,17715955
+FY16-17,Capital Outlay,Expense,5T,Capital Outlay,3535162
+FY16-17,Capital Outlay,Expense,5W,Capital Outlay,13445317
+FY16-17,Capital Outlay,Expense,5X,Capital Outlay,3000000
+FY16-17,Capital Outlay,Expense,6I,Capital Outlay,313745
+FY16-17,Capital Outlay,Expense,7P,Capital Outlay,101735
+FY16-17,Charges for Services,Revenue,1G,Charges for Services,215484761
+FY16-17,Charges for Services,Revenue,2S,Charges for Services,97988607
+FY16-17,Charges for Services,Revenue,5A,Charges for Services,592244000
+FY16-17,Charges for Services,Revenue,5C,Charges for Services,257219182
+FY16-17,Charges for Services,Revenue,5H,Charges for Services,722167225
+FY16-17,Charges for Services,Revenue,5L,Charges for Services,161611158
+FY16-17,Charges for Services,Revenue,5M,Charges for Services,222031000
+FY16-17,Charges for Services,Revenue,5N,Charges for Services,13140000
+FY16-17,Charges for Services,Revenue,5O,Charges for Services,10000
+FY16-17,Charges for Services,Revenue,5P,Charges for Services,17847564
+FY16-17,Charges for Services,Revenue,5T,Charges for Services,45905926
+FY16-17,Charges for Services,Revenue,5W,Charges for Services,465121685
+FY16-17,Charges for Services,Revenue,5X,Charges for Services,6000
+FY16-17,Charges for Services,Revenue,6I,Charges for Services,700000
+FY16-17,City Grant Programs,Expense,1G,City Grant Programs,263026693
+FY16-17,City Grant Programs,Expense,2S,City Grant Programs,243298843
+FY16-17,City Grant Programs,Expense,5C,City Grant Programs,250000
+FY16-17,City Grant Programs,Expense,5W,City Grant Programs,2604178
+FY16-17,City Grant Programs,Expense,7E,City Grant Programs,76350
+FY16-17,City Grant Programs,Expense,7S,City Grant Programs,4005000
+FY16-17,Contributions (Ret, HSS, Health Care),Revenue,7P,Contributions (Ret, HSS, Health Care),25246241
+FY16-17,Contributions (Ret, HSS, Health Care),Revenue,7R,Contributions (Ret, HSS, Health Care),31000000
+FY16-17,Debt Service,Expense,1G,Debt Service,2372347
+FY16-17,Debt Service,Expense,2S,Debt Service,13407916
+FY16-17,Debt Service,Expense,4D,Debt Service,210971054
+FY16-17,Debt Service,Expense,5A,Debt Service,424391269
+FY16-17,Debt Service,Expense,5C,Debt Service,65922139
+FY16-17,Debt Service,Expense,5H,Debt Service,2858155
+FY16-17,Debt Service,Expense,5L,Debt Service,13014156
+FY16-17,Debt Service,Expense,5M,Debt Service,5000000
+FY16-17,Debt Service,Expense,5P,Debt Service,9295159
+FY16-17,Debt Service,Expense,5T,Debt Service,3413829
+FY16-17,Debt Service,Expense,5W,Debt Service,268936409
+FY16-17,Debt Service,Expense,5X,Debt Service,10000000
+FY16-17,Debt Service,Expense,7S,Debt Service,108994702
+FY16-17,Expenditure Recovery,Revenue,1G,Expenditure Recovery,384816417
+FY16-17,Expenditure Recovery,Revenue,2S,Expenditure Recovery,283999342
+FY16-17,Expenditure Recovery,Revenue,3C,Expenditure Recovery,2700000
+FY16-17,Expenditure Recovery,Revenue,5A,Expenditure Recovery,9272869
+FY16-17,Expenditure Recovery,Revenue,5C,Expenditure Recovery,8166162
+FY16-17,Expenditure Recovery,Revenue,5H,Expenditure Recovery,231138
+FY16-17,Expenditure Recovery,Revenue,5L,Expenditure Recovery,229950
+FY16-17,Expenditure Recovery,Revenue,5M,Expenditure Recovery,116424761
+FY16-17,Expenditure Recovery,Revenue,5N,Expenditure Recovery,2327000
+FY16-17,Expenditure Recovery,Revenue,5O,Expenditure Recovery,40000
+FY16-17,Expenditure Recovery,Revenue,5P,Expenditure Recovery,170000
+FY16-17,Expenditure Recovery,Revenue,5T,Expenditure Recovery,99653582
+FY16-17,Expenditure Recovery,Revenue,5W,Expenditure Recovery,176870668
+FY16-17,Expenditure Recovery,Revenue,6I,Expenditure Recovery,120305717
+FY16-17,Expenditure Recovery,Revenue,7P,Expenditure Recovery,40515
+FY16-17,Facilities Maintenance,Expense,1G,Facilities Maintenance,7925826
+FY16-17,Facilities Maintenance,Expense,2S,Facilities Maintenance,4679360
+FY16-17,Facilities Maintenance,Expense,5A,Facilities Maintenance,12084000
+FY16-17,Facilities Maintenance,Expense,5C,Facilities Maintenance,6121000
+FY16-17,Facilities Maintenance,Expense,5H,Facilities Maintenance,1273650
+FY16-17,Facilities Maintenance,Expense,5L,Facilities Maintenance,1100400
+FY16-17,Facilities Maintenance,Expense,5P,Facilities Maintenance,2946857
+FY16-17,Facilities Maintenance,Expense,5T,Facilities Maintenance,14722000
+FY16-17,Facilities Maintenance,Expense,5W,Facilities Maintenance,16946000
+FY16-17,Fines, Forfeitures & Penalties,Revenue,1G,Fines, Forfeitures & Penalties,4577144
+FY16-17,Fines, Forfeitures & Penalties,Revenue,2S,Fines, Forfeitures & Penalties,4847204
+FY16-17,Fines, Forfeitures & Penalties,Revenue,4D,Fines, Forfeitures & Penalties,15040215
+FY16-17,Fines, Forfeitures & Penalties,Revenue,5A,Fines, Forfeitures & Penalties,253000
+FY16-17,Fines, Forfeitures & Penalties,Revenue,5M,Fines, Forfeitures & Penalties,2580000
+FY16-17,Fines, Forfeitures & Penalties,Revenue,5N,Fines, Forfeitures & Penalties,86200000
+FY16-17,Fines, Forfeitures & Penalties,Revenue,5O,Fines, Forfeitures & Penalties,70000
+FY16-17,Fines, Forfeitures & Penalties,Revenue,5P,Fines, Forfeitures & Penalties,3073000
+FY16-17,General Fund Support,Revenue,2S,General Fund Support,97700000
+FY16-17,General Fund Support,Revenue,5H,General Fund Support,216733981
+FY16-17,General Fund Support,Revenue,5L,General Fund Support,75390571
+FY16-17,General Fund Support,Revenue,5M,General Fund Support,197800000
+FY16-17,General Fund Support,Revenue,5N,General Fund Support,74200000
+FY16-17,ISF Charges for Services,Revenue,5H,ISF Charges for Services,2569888
+FY16-17,Interest & Investment Income,Revenue,1G,Interest & Investment Income,10680000
+FY16-17,Interest & Investment Income,Revenue,2S,Interest & Investment Income,1812160
+FY16-17,Interest & Investment Income,Revenue,5A,Interest & Investment Income,5432000
+FY16-17,Interest & Investment Income,Revenue,5C,Interest & Investment Income,1379704
+FY16-17,Interest & Investment Income,Revenue,5M,Interest & Investment Income,1510000
+FY16-17,Interest & Investment Income,Revenue,5N,Interest & Investment Income,430000
+FY16-17,Interest & Investment Income,Revenue,5O,Interest & Investment Income,40000
+FY16-17,Interest & Investment Income,Revenue,5P,Interest & Investment Income,600000
+FY16-17,Interest & Investment Income,Revenue,5T,Interest & Investment Income,537767
+FY16-17,Interest & Investment Income,Revenue,5W,Interest & Investment Income,1549863
+FY16-17,Interest & Investment Income,Revenue,5X,Interest & Investment Income,80000
+FY16-17,Interest & Investment Income,Revenue,7A,Interest & Investment Income,81000
+FY16-17,Interest & Investment Income,Revenue,7E,Interest & Investment Income,76000
+FY16-17,Interest & Investment Income,Revenue,7P,Interest & Investment Income,250000
+FY16-17,Interest & Investment Income,Revenue,7R,Interest & Investment Income,559939
+FY16-17,Intergovernmental Revenues-Federal,Revenue,1G,Intergovernmental Revenues-Federal,242894098
+FY16-17,Intergovernmental Revenues-Federal,Revenue,2S,Intergovernmental Revenues-Federal,155124802
+FY16-17,Intergovernmental Revenues-Federal,Revenue,3C,Intergovernmental Revenues-Federal,20670000
+FY16-17,Intergovernmental Revenues-Federal,Revenue,5A,Intergovernmental Revenues-Federal,22250000
+FY16-17,Intergovernmental Revenues-Federal,Revenue,5H,Intergovernmental Revenues-Federal,3302450
+FY16-17,Intergovernmental Revenues-Federal,Revenue,5L,Intergovernmental Revenues-Federal,263500
+FY16-17,Intergovernmental Revenues-Federal,Revenue,5M,Intergovernmental Revenues-Federal,3890000
+FY16-17,Intergovernmental Revenues-Federal,Revenue,7S,Intergovernmental Revenues-Federal,350000
+FY16-17,Intergovernmental Revenues-Other,Revenue,1G,Intergovernmental Revenues-Other,3656488
+FY16-17,Intergovernmental Revenues-Other,Revenue,2S,Intergovernmental Revenues-Other,11603120
+FY16-17,Intergovernmental Revenues-Other,Revenue,5M,Intergovernmental Revenues-Other,87960000
+FY16-17,Intergovernmental Revenues-Other,Revenue,5P,Intergovernmental Revenues-Other,1902680
+FY16-17,Intergovernmental Revenues-Other,Revenue,6I,Intergovernmental Revenues-Other,38220
+FY16-17,Intergovernmental Revenues-State,Revenue,1G,Intergovernmental Revenues-State,657636447
+FY16-17,Intergovernmental Revenues-State,Revenue,2S,Intergovernmental Revenues-State,92714938
+FY16-17,Intergovernmental Revenues-State,Revenue,4D,Intergovernmental Revenues-State,800000
+FY16-17,Intergovernmental Revenues-State,Revenue,5A,Intergovernmental Revenues-State,20000
+FY16-17,Intergovernmental Revenues-State,Revenue,5H,Intergovernmental Revenues-State,49208312
+FY16-17,Intergovernmental Revenues-State,Revenue,5M,Intergovernmental Revenues-State,37260000
+FY16-17,Intergovernmental Revenues-State,Revenue,5N,Intergovernmental Revenues-State,2870000
+FY16-17,Intergovernmental Revenues-State,Revenue,7A,Intergovernmental Revenues-State,89703373
+FY16-17,Intrafund Transfers In,Revenue,1G,Intrafund Transfers In,428964113
+FY16-17,Intrafund Transfers In,Revenue,2S,Intrafund Transfers In,28157521
+FY16-17,Intrafund Transfers In,Revenue,5A,Intrafund Transfers In,94328212
+FY16-17,Intrafund Transfers In,Revenue,5C,Intrafund Transfers In,46368000
+FY16-17,Intrafund Transfers In,Revenue,5H,Intrafund Transfers In,20523650
+FY16-17,Intrafund Transfers In,Revenue,5L,Intrafund Transfers In,1500400
+FY16-17,Intrafund Transfers In,Revenue,5M,Intrafund Transfers In,12940000
+FY16-17,Intrafund Transfers In,Revenue,5P,Intrafund Transfers In,16908430
+FY16-17,Intrafund Transfers In,Revenue,5T,Intrafund Transfers In,32637662
+FY16-17,Intrafund Transfers In,Revenue,5W,Intrafund Transfers In,63743434
+FY16-17,Intrafund Transfers Out,Expense,1G,Intrafund Transfers Out,428964113
+FY16-17,Intrafund Transfers Out,Expense,2S,Intrafund Transfers Out,28157521
+FY16-17,Intrafund Transfers Out,Expense,5A,Intrafund Transfers Out,94328212
+FY16-17,Intrafund Transfers Out,Expense,5C,Intrafund Transfers Out,46368000
+FY16-17,Intrafund Transfers Out,Expense,5H,Intrafund Transfers Out,20523650
+FY16-17,Intrafund Transfers Out,Expense,5L,Intrafund Transfers Out,1500400
+FY16-17,Intrafund Transfers Out,Expense,5M,Intrafund Transfers Out,12940000
+FY16-17,Intrafund Transfers Out,Expense,5P,Intrafund Transfers Out,16908430
+FY16-17,Intrafund Transfers Out,Expense,5T,Intrafund Transfers Out,32637662
+FY16-17,Intrafund Transfers Out,Expense,5W,Intrafund Transfers Out,63743434
+FY16-17,Licenses, Permits & Franchises,Revenue,1G,Licenses, Permits & Franchises,27162891
+FY16-17,Licenses, Permits & Franchises,Revenue,2S,Licenses, Permits & Franchises,10795793
+FY16-17,Licenses, Permits & Franchises,Revenue,5N,Licenses, Permits & Franchises,10070000
+FY16-17,Licenses, Permits & Franchises,Revenue,5O,Licenses, Permits & Franchises,14230000
+FY16-17,Mandatory Fringe Benefits,Expense,1G,Mandatory Fringe Benefits,586289616
+FY16-17,Mandatory Fringe Benefits,Expense,2S,Mandatory Fringe Benefits,114138013
+FY16-17,Mandatory Fringe Benefits,Expense,5A,Mandatory Fringe Benefits,103195062
+FY16-17,Mandatory Fringe Benefits,Expense,5C,Mandatory Fringe Benefits,20351346
+FY16-17,Mandatory Fringe Benefits,Expense,5H,Mandatory Fringe Benefits,137054548
+FY16-17,Mandatory Fringe Benefits,Expense,5L,Mandatory Fringe Benefits,56359015
+FY16-17,Mandatory Fringe Benefits,Expense,5M,Mandatory Fringe Benefits,183902110
+FY16-17,Mandatory Fringe Benefits,Expense,5N,Mandatory Fringe Benefits,25309593
+FY16-17,Mandatory Fringe Benefits,Expense,5O,Mandatory Fringe Benefits,684086
+FY16-17,Mandatory Fringe Benefits,Expense,5P,Mandatory Fringe Benefits,12395385
+FY16-17,Mandatory Fringe Benefits,Expense,5T,Mandatory Fringe Benefits,12123320
+FY16-17,Mandatory Fringe Benefits,Expense,5W,Mandatory Fringe Benefits,57395893
+FY16-17,Mandatory Fringe Benefits,Expense,5X,Mandatory Fringe Benefits,391608
+FY16-17,Mandatory Fringe Benefits,Expense,6I,Mandatory Fringe Benefits,15548632
+FY16-17,Mandatory Fringe Benefits,Expense,7A,Mandatory Fringe Benefits,24682205
+FY16-17,Mandatory Fringe Benefits,Expense,7E,Mandatory Fringe Benefits,443487
+FY16-17,Mandatory Fringe Benefits,Expense,7P,Mandatory Fringe Benefits,4634984
+FY16-17,Mandatory Fringe Benefits,Expense,7S,Mandatory Fringe Benefits,1576660
+FY16-17,Materials & Supplies,Expense,1G,Materials & Supplies,47401623
+FY16-17,Materials & Supplies,Expense,2S,Materials & Supplies,26553015
+FY16-17,Materials & Supplies,Expense,5A,Materials & Supplies,17362146
+FY16-17,Materials & Supplies,Expense,5C,Materials & Supplies,10109138
+FY16-17,Materials & Supplies,Expense,5H,Materials & Supplies,76116062
+FY16-17,Materials & Supplies,Expense,5L,Materials & Supplies,19474693
+FY16-17,Materials & Supplies,Expense,5M,Materials & Supplies,76634482
+FY16-17,Materials & Supplies,Expense,5N,Materials & Supplies,5619226
+FY16-17,Materials & Supplies,Expense,5O,Materials & Supplies,135800
+FY16-17,Materials & Supplies,Expense,5P,Materials & Supplies,1602595
+FY16-17,Materials & Supplies,Expense,5T,Materials & Supplies,2963916
+FY16-17,Materials & Supplies,Expense,5W,Materials & Supplies,16698168
+FY16-17,Materials & Supplies,Expense,5X,Materials & Supplies,10622
+FY16-17,Materials & Supplies,Expense,6I,Materials & Supplies,14640365
+FY16-17,Materials & Supplies,Expense,7E,Materials & Supplies,523627
+FY16-17,Materials & Supplies,Expense,7P,Materials & Supplies,215000
+FY16-17,Materials & Supplies,Expense,7S,Materials & Supplies,44000
+FY16-17,Materials & Supplies,Expense,8A,Materials & Supplies,50000
+FY16-17,Non Personnel Services,Expense,1G,Non Personnel Services,689359049
+FY16-17,Non Personnel Services,Expense,2S,Non Personnel Services,296384485
+FY16-17,Non Personnel Services,Expense,5A,Non Personnel Services,105857537
+FY16-17,Non Personnel Services,Expense,5C,Non Personnel Services,15770174
+FY16-17,Non Personnel Services,Expense,5H,Non Personnel Services,207588676
+FY16-17,Non Personnel Services,Expense,5L,Non Personnel Services,9100880
+FY16-17,Non Personnel Services,Expense,5M,Non Personnel Services,110074619
+FY16-17,Non Personnel Services,Expense,5N,Non Personnel Services,37678328
+FY16-17,Non Personnel Services,Expense,5O,Non Personnel Services,1450327
+FY16-17,Non Personnel Services,Expense,5P,Non Personnel Services,11827694
+FY16-17,Non Personnel Services,Expense,5T,Non Personnel Services,86565569
+FY16-17,Non Personnel Services,Expense,5W,Non Personnel Services,28582890
+FY16-17,Non Personnel Services,Expense,5X,Non Personnel Services,28655438
+FY16-17,Non Personnel Services,Expense,6I,Non Personnel Services,50745044
+FY16-17,Non Personnel Services,Expense,7E,Non Personnel Services,324500
+FY16-17,Non Personnel Services,Expense,7P,Non Personnel Services,4180149
+FY16-17,Non Personnel Services,Expense,7R,Non Personnel Services,265000
+FY16-17,Non Personnel Services,Expense,7S,Non Personnel Services,273295337
+FY16-17,Non Personnel Services,Expense,8A,Non Personnel Services,5760193
+FY16-17,Operating Transfers In,Revenue,1G,Operating Transfers In,206782461
+FY16-17,Operating Transfers In,Revenue,2S,Operating Transfers In,156131703
+FY16-17,Operating Transfers In,Revenue,3C,Operating Transfers In,12553613
+FY16-17,Operating Transfers In,Revenue,4D,Operating Transfers In,4213185
+FY16-17,Operating Transfers In,Revenue,5C,Operating Transfers In,80000
+FY16-17,Operating Transfers In,Revenue,5L,Operating Transfers In,2462453
+FY16-17,Operating Transfers In,Revenue,5M,Operating Transfers In,212581533
+FY16-17,Operating Transfers In,Revenue,5N,Operating Transfers In,23360650
+FY16-17,Operating Transfers In,Revenue,5T,Operating Transfers In,36710000
+FY16-17,Operating Transfers In,Revenue,5W,Operating Transfers In,200000
+FY16-17,Operating Transfers In,Revenue,6I,Operating Transfers In,4816487
+FY16-17,Operating Transfers Out,Expense,1G,Operating Transfers Out,241910786
+FY16-17,Operating Transfers Out,Expense,2S,Operating Transfers Out,3231183
+FY16-17,Operating Transfers Out,Expense,5A,Operating Transfers Out,40877463
+FY16-17,Operating Transfers Out,Expense,5C,Operating Transfers Out,31713
+FY16-17,Operating Transfers Out,Expense,5H,Operating Transfers Out,156983948
+FY16-17,Operating Transfers Out,Expense,5L,Operating Transfers Out,11203185
+FY16-17,Operating Transfers Out,Expense,5M,Operating Transfers Out,5046621
+FY16-17,Operating Transfers Out,Expense,5N,Operating Transfers Out,131768529
+FY16-17,Operating Transfers Out,Expense,5O,Operating Transfers Out,9013004
+FY16-17,Operating Transfers Out,Expense,5P,Operating Transfers Out,1081713
+FY16-17,Operating Transfers Out,Expense,5T,Operating Transfers Out,31712
+FY16-17,Operating Transfers Out,Expense,5W,Operating Transfers Out,36631712
+FY16-17,Operating Transfers Out,Expense,5X,Operating Transfers Out,17264029
+FY16-17,Operating Transfers Out,Expense,6I,Operating Transfers Out,4816487
+FY16-17,Other Financing Sources,Revenue,1G,Other Financing Sources,917500
+FY16-17,Other Financing Sources,Revenue,2S,Other Financing Sources,28125000
+FY16-17,Other Financing Sources,Revenue,3C,Other Financing Sources,4521665
+FY16-17,Other Financing Sources,Revenue,7S,Other Financing Sources,44679346
+FY16-17,Other Local Taxes,Revenue,1G,Other Local Taxes,1062535000
+FY16-17,Other Local Taxes,Revenue,7S,Other Local Taxes,5023750
+FY16-17,Other Revenues,Revenue,1G,Other Revenues,31084070
+FY16-17,Other Revenues,Revenue,2S,Other Revenues,23246936
+FY16-17,Other Revenues,Revenue,5A,Other Revenues,42610000
+FY16-17,Other Revenues,Revenue,5C,Other Revenues,5312465
+FY16-17,Other Revenues,Revenue,5H,Other Revenues,8798202
+FY16-17,Other Revenues,Revenue,5L,Other Revenues,15186976
+FY16-17,Other Revenues,Revenue,5M,Other Revenues,2500000
+FY16-17,Other Revenues,Revenue,5N,Other Revenues,14219000
+FY16-17,Other Revenues,Revenue,5P,Other Revenues,5283545
+FY16-17,Other Revenues,Revenue,5T,Other Revenues,5310513
+FY16-17,Other Revenues,Revenue,5W,Other Revenues,31599833
+FY16-17,Other Revenues,Revenue,7E,Other Revenues,2892660
+FY16-17,Other Revenues,Revenue,7S,Other Revenues,269818494
+FY16-17,Other Revenues,Revenue,8A,Other Revenues,2777785
+FY16-17,Other Support & Care Of Persons,Expense,1G,Other Support & Care Of Persons,20769091
+FY16-17,Other Support & Care Of Persons,Expense,7S,Other Support & Care Of Persons,96499997
+FY16-17,Overhead,Expense,1G,Overhead,18909619
+FY16-17,Overhead,Expense,2S,Overhead,25140995
+FY16-17,Overhead,Expense,5A,Overhead,1723614
+FY16-17,Overhead,Expense,5M,Overhead,92645654
+FY16-17,Overhead,Expense,5N,Overhead,16707845
+FY16-17,Overhead,Expense,5O,Overhead,812816
+FY16-17,Overhead,Expense,5P,Overhead,694046
+FY16-17,Overhead,Expense,5W,Overhead,2277
+FY16-17,Overhead,Expense,5X,Overhead,5624148
+FY16-17,Overhead,Expense,6I,Overhead,1753700
+FY16-17,Overhead,Expense,7A,Overhead,1990407
+FY16-17,Overhead,Expense,7P,Overhead,177901
+FY16-17,Overhead,Expense,7S,Overhead,5797155
+FY16-17,Programmatic Projects,Expense,1G,Programmatic Projects,44192607
+FY16-17,Programmatic Projects,Expense,2S,Programmatic Projects,41314771
+FY16-17,Programmatic Projects,Expense,5C,Programmatic Projects,1205000
+FY16-17,Programmatic Projects,Expense,5H,Programmatic Projects,18500000
+FY16-17,Programmatic Projects,Expense,5P,Programmatic Projects,1746121
+FY16-17,Programmatic Projects,Expense,5T,Programmatic Projects,160000
+FY16-17,Programmatic Projects,Expense,5W,Programmatic Projects,1252000
+FY16-17,Programmatic Projects,Expense,6I,Programmatic Projects,1000000
+FY16-17,Project Carryforward Budgets Only,Expense,1G,Project Carryforward Budgets Only,26033000
+FY16-17,Project Carryforward Budgets Only,Expense,7S,Project Carryforward Budgets Only,3960000
+FY16-17,Property Taxes,Revenue,1G,Property Taxes,1291000000
+FY16-17,Property Taxes,Revenue,2S,Property Taxes,152104000
+FY16-17,Property Taxes,Revenue,4D,Property Taxes,186714469
+FY16-17,Property Taxes,Revenue,7S,Property Taxes,130522064
+FY16-17,Rents & Concessions,Revenue,1G,Rents & Concessions,15431961
+FY16-17,Rents & Concessions,Revenue,2S,Rents & Concessions,47169382
+FY16-17,Rents & Concessions,Revenue,5A,Rents & Concessions,293730000
+FY16-17,Rents & Concessions,Revenue,5C,Rents & Concessions,866845
+FY16-17,Rents & Concessions,Revenue,5L,Rents & Concessions,563740
+FY16-17,Rents & Concessions,Revenue,5M,Rents & Concessions,1320000
+FY16-17,Rents & Concessions,Revenue,5N,Rents & Concessions,47997319
+FY16-17,Rents & Concessions,Revenue,5P,Rents & Concessions,71449753
+FY16-17,Rents & Concessions,Revenue,5T,Rents & Concessions,259421
+FY16-17,Rents & Concessions,Revenue,5W,Rents & Concessions,11719153
+FY16-17,Rents & Concessions,Revenue,5X,Rents & Concessions,63384191
+FY16-17,Rents & Concessions,Revenue,6I,Rents & Concessions,165451
+FY16-17,Rents & Concessions,Revenue,7E,Rents & Concessions,724000
+FY16-17,Rents & Concessions,Revenue,7S,Rents & Concessions,16009296
+FY16-17,Rents & Concessions,Revenue,8A,Rents & Concessions,9650256
+FY16-17,Salaries,Expense,1G,Salaries,1493905280
+FY16-17,Salaries,Expense,2S,Salaries,243999175
+FY16-17,Salaries,Expense,5A,Salaries,199846538
+FY16-17,Salaries,Expense,5C,Salaries,46684459
+FY16-17,Salaries,Expense,5H,Salaries,343113905
+FY16-17,Salaries,Expense,5L,Salaries,130262536
+FY16-17,Salaries,Expense,5M,Salaries,371218239
+FY16-17,Salaries,Expense,5N,Salaries,44580336
+FY16-17,Salaries,Expense,5O,Salaries,1580511
+FY16-17,Salaries,Expense,5P,Salaries,27883696
+FY16-17,Salaries,Expense,5T,Salaries,27752902
+FY16-17,Salaries,Expense,5W,Salaries,145516741
+FY16-17,Salaries,Expense,5X,Salaries,1060655
+FY16-17,Salaries,Expense,6I,Salaries,35348621
+FY16-17,Salaries,Expense,7A,Salaries,63111761
+FY16-17,Salaries,Expense,7E,Salaries,976185
+FY16-17,Salaries,Expense,7P,Salaries,11609987
+FY16-17,Services of Other Depts,Expense,1G,Services of Other Depts,299434164
+FY16-17,Services of Other Depts,Expense,2S,Services of Other Depts,147220474
+FY16-17,Services of Other Depts,Expense,3C,Services of Other Depts,126552
+FY16-17,Services of Other Depts,Expense,5A,Services of Other Depts,68612248
+FY16-17,Services of Other Depts,Expense,5C,Services of Other Depts,61183963
+FY16-17,Services of Other Depts,Expense,5H,Services of Other Depts,56173699
+FY16-17,Services of Other Depts,Expense,5L,Services of Other Depts,14195799
+FY16-17,Services of Other Depts,Expense,5M,Services of Other Depts,53523530
+FY16-17,Services of Other Depts,Expense,5N,Services of Other Depts,7352716
+FY16-17,Services of Other Depts,Expense,5O,Services of Other Depts,713456
+FY16-17,Services of Other Depts,Expense,5P,Services of Other Depts,15438324
+FY16-17,Services of Other Depts,Expense,5T,Services of Other Depts,20767971
+FY16-17,Services of Other Depts,Expense,5W,Services of Other Depts,91238549
+FY16-17,Services of Other Depts,Expense,5X,Services of Other Depts,463691
+FY16-17,Services of Other Depts,Expense,6I,Services of Other Depts,6939421
+FY16-17,Services of Other Depts,Expense,7E,Services of Other Depts,1348511
+FY16-17,Services of Other Depts,Expense,7P,Services of Other Depts,4617000
+FY16-17,Services of Other Depts,Expense,7R,Services of Other Depts,115000
+FY16-17,Services of Other Depts,Expense,8A,Services of Other Depts,7144754
+FY16-17,Transfer In for Capital Expenditures,Revenue,5M,Transfer In for Capital Expenditures,19410000
+FY16-17,Transfer In for Capital Expenditures,Revenue,5N,Transfer In for Capital Expenditures,6470000
+FY16-17,Transfer Out for Capital Expenditures,Expense,1G,Transfer Out for Capital Expenditures,25880000
+FY16-17,Unappropriated Fund Balance,Revenue,1G,Unappropriated Fund Balance,183249205
+FY16-17,Unappropriated Fund Balance,Revenue,2S,Unappropriated Fund Balance,53639799
+FY16-17,Unappropriated Fund Balance,Revenue,3C,Unappropriated Fund Balance,10680000
+FY16-17,Unappropriated Fund Balance,Revenue,4D,Unappropriated Fund Balance,4203185
+FY16-17,Unappropriated Fund Balance,Revenue,5A,Unappropriated Fund Balance,36479188
+FY16-17,Unappropriated Fund Balance,Revenue,5M,Unappropriated Fund Balance,18940579
+FY16-17,Unappropriated Fund Balance,Revenue,5N,Unappropriated Fund Balance,13461790
+FY16-17,Unappropriated Fund Balance,Revenue,5P,Unappropriated Fund Balance,12748220
+FY16-17,Unappropriated Fund Balance,Revenue,5W,Unappropriated Fund Balance,23993955
+FY16-17,Unappropriated Fund Balance,Revenue,5X,Unappropriated Fund Balance,3000000
+FY16-17,Unappropriated Fund Balance,Revenue,6I,Unappropriated Fund Balance,5080140
+FY16-17,Unappropriated Fund Balance,Revenue,7S,Unappropriated Fund Balance,27769901
+FY16-17,Unappropriated Fund Balance,Revenue,8A,Unappropriated Fund Balance,526906
+FY16-17,Unappropriated Revenue Retained,Expense,1G,Unappropriated Revenue Retained,29777198
+FY16-17,Unappropriated Revenue Retained,Expense,5C,Unappropriated Revenue Retained,41000000
+FY16-17,Unappropriated Revenue Retained,Expense,5L,Unappropriated Revenue Retained,152088
+FY16-17,Unappropriated Revenue Retained,Expense,5T,Unappropriated Revenue Retained,17353662
+FY16-17,Unappropriated Revenue Retained,Expense,5W,Unappropriated Revenue Retained,37484000
+FY16-17,Unappropriated Revenue-Charter Reserves,Expense,1G,Unappropriated Revenue-Charter Reserves,19410000
+FY16-17,Unappropriated Revenue-Designated,Expense,1G,Unappropriated Revenue-Designated,17800000
+FY16-17,Unappropriated Revenue-Designated,Expense,2S,Unappropriated Revenue-Designated,9486391
+FY16-17,Unappropriated Revenue-Designated,Expense,3C,Unappropriated Revenue-Designated,12553613
+FY16-17,Unappropriated Revenue-Designated,Expense,5C,Unappropriated Revenue-Designated,6126439
+FY16-17,Unappropriated Revenue-Designated,Expense,5M,Unappropriated Revenue-Designated,6819000
+FY16-17,Unappropriated Revenue-Designated,Expense,5N,Unappropriated Revenue-Designated,1795000
+FY16-17,Unappropriated Revenue-Designated,Expense,5P,Unappropriated Revenue-Designated,10447217
+FY16-17,Unappropriated Revenue-Designated,Expense,5T,Unappropriated Revenue-Designated,235212
+FY16-17,Unappropriated Revenue-Designated,Expense,5W,Unappropriated Revenue-Designated,3488434
+FY16-17,Unappropriated Revenue-Designated,Expense,7R,Unappropriated Revenue-Designated,31179939

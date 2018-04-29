@@ -1,0 +1,94 @@
+.container
+  .row
+    .intro.col-md-12
+      block title
+
+      p This diagram depicts the flow of money through Oakland's budget: from revenue sources (on the left), to the General Fund or various non-discretionary funds (in the center), and finally to the various city departments' expenses (on the right).
+      p
+        em Mouse over a flow line to highlight it; click on a bar to highlight all its flows.
+  .row
+    .col-md-3
+      h4 Fiscal Year
+      select#fy.form-control
+
+  #sankey
+    #chart
+
+  block datasource
+
+  #hover_description
+
+  section#comments
+    .row
+      .col-md-12
+        h4 Comments
+        #disqus_thread
+
+block disqus_config
+  script(type='text/javascript').
+    var disqus_identifier = "oboDefault";
+
+script(type='text/javascript').
+
+  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+  var disqus_shortname = 'openbudgetoakland';
+  /* * * DON'T EDIT BELOW THIS LINE * * */
+  (function() {
+  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+  dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+noscript
+  | Please enable JavaScript to view the
+  a(href='http://disqus.com/?ref_noscript') comments powered by Disqus.
+
+block get_datafiles
+
+style.
+  #main {
+    float: left;
+    width: 750px;
+  }
+
+  #sidebar {
+    float: right;
+    width: 100px;
+  }
+
+  #sequence {
+    width: 600px;
+    height: 70px;
+  }
+
+  #legend {
+    padding: 10px 0 0 3px;
+  }
+
+  #sequence text, #legend text {
+    font-weight: 600;
+    fill: #fff;
+  }
+
+  #chart {
+    position: relative;
+  }
+
+  #chart path {
+    stroke: #fff;
+  }
+
+  #explanation {
+    position: absolute;
+    top: 260px;
+    left: 305px;
+    width: 140px;
+    text-align: center;
+    color: #666;
+    z-index: -1;
+  }
+
+  #percentage {
+    font-size: 2.5em;
+  }
+
+script(src='/js/sunburst.js')

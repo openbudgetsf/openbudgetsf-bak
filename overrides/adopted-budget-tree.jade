@@ -1,0 +1,43 @@
+extends templates/tree-template.jade
+
+block title 
+  h1 Detailed Breakdown
+
+block datasource
+  h6
+    | Data source:&nbsp;
+    a(href = "http://budgetdata.oaklandca.gov/#!/view-data") Oakland Budget Explorer
+
+block disqus_config
+  script(type='text/javascript').
+    var disqus_identifier = "2017-19 proposed budget tree";
+
+block datafiles
+  script.
+    var config = {
+      /* set values available in dropdown files */
+      dropdown_values: {
+        "Year": [
+          "FY10-11",
+          "FY11-12",
+          "FY12-13",
+          "FY13-14",
+          "FY14-15",
+          "FY15-16",
+          "FY16-17",
+          "FY17-18",
+          "FY18-19",
+          "FY19-20"
+        ],
+        "Account": ["Revenue", "Expense"]
+      },
+      /* set the default values */
+      dropdown_choice: {
+        "Year": "FY18-19",
+        "Account": "Expense"
+      },
+      /* create the url to the data file based on the dropdown choices */
+      url: function() {
+        return 'data/tree/Adopted.' + this.dropdown_choice["Account"] + "." + this.dropdown_choice["Year"] + ".json";
+      }
+    };

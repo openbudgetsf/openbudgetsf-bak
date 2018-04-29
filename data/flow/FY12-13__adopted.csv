@@ -1,0 +1,329 @@
+budget_year,department,account_type,fund_code,account_category,amount
+FY12-13,Aid Assistance,Expense,1G,Aid Assistance,43997528
+FY12-13,Aid Assistance,Expense,2S,Aid Assistance,100000
+FY12-13,Aid Payments,Expense,1G,Aid Payments,265929124
+FY12-13,Allocated Charges,Expense,2S,Allocated Charges,1502850
+FY12-13,Business Taxes,Revenue,1G,Business Taxes,389878000
+FY12-13,Business Taxes,Revenue,2S,Business Taxes,735000
+FY12-13,Capital Outlay,Expense,1G,Capital Outlay,33870973
+FY12-13,Capital Outlay,Expense,2S,Capital Outlay,19786586
+FY12-13,Capital Outlay,Expense,3C,Capital Outlay,1540000
+FY12-13,Capital Outlay,Expense,5A,Capital Outlay,41030235
+FY12-13,Capital Outlay,Expense,5C,Capital Outlay,4501997
+FY12-13,Capital Outlay,Expense,5H,Capital Outlay,3670868
+FY12-13,Capital Outlay,Expense,5L,Capital Outlay,174995
+FY12-13,Capital Outlay,Expense,5M,Capital Outlay,909375
+FY12-13,Capital Outlay,Expense,5N,Capital Outlay,377775
+FY12-13,Capital Outlay,Expense,5P,Capital Outlay,15914015
+FY12-13,Capital Outlay,Expense,5T,Capital Outlay,36205987
+FY12-13,Capital Outlay,Expense,5W,Capital Outlay,3920001
+FY12-13,Capital Outlay,Expense,6I,Capital Outlay,10985479
+FY12-13,Capital Outlay,Expense,7P,Capital Outlay,69065
+FY12-13,Charges for Services,Revenue,1G,Charges for Services,153545551
+FY12-13,Charges for Services,Revenue,2S,Charges for Services,83841829
+FY12-13,Charges for Services,Revenue,5A,Charges for Services,487445000
+FY12-13,Charges for Services,Revenue,5C,Charges for Services,224842880
+FY12-13,Charges for Services,Revenue,5H,Charges for Services,564002242
+FY12-13,Charges for Services,Revenue,5L,Charges for Services,130872621
+FY12-13,Charges for Services,Revenue,5M,Charges for Services,197863421
+FY12-13,Charges for Services,Revenue,5N,Charges for Services,9403770
+FY12-13,Charges for Services,Revenue,5O,Charges for Services,469543
+FY12-13,Charges for Services,Revenue,5P,Charges for Services,13552000
+FY12-13,Charges for Services,Revenue,5T,Charges for Services,105302419
+FY12-13,Charges for Services,Revenue,5W,Charges for Services,334677033
+FY12-13,City Grant Programs,Expense,1G,City Grant Programs,152743836
+FY12-13,City Grant Programs,Expense,2S,City Grant Programs,132850105
+FY12-13,City Grant Programs,Expense,5W,City Grant Programs,1580000
+FY12-13,City Grant Programs,Expense,7E,City Grant Programs,76350
+FY12-13,Contributions (Ret, HSS, Health Care),Revenue,7P,Contributions (Ret, HSS, Health Care),18169819
+FY12-13,Contributions (Ret, HSS, Health Care),Revenue,7R,Contributions (Ret, HSS, Health Care),6450000
+FY12-13,Debt Service,Expense,1G,Debt Service,3604064
+FY12-13,Debt Service,Expense,2S,Debt Service,590231
+FY12-13,Debt Service,Expense,4D,Debt Service,189859040
+FY12-13,Debt Service,Expense,5A,Debt Service,342780901
+FY12-13,Debt Service,Expense,5C,Debt Service,53808845
+FY12-13,Debt Service,Expense,5H,Debt Service,1704013
+FY12-13,Debt Service,Expense,5P,Debt Service,3850937
+FY12-13,Debt Service,Expense,5T,Debt Service,1845468
+FY12-13,Debt Service,Expense,5W,Debt Service,159556311
+FY12-13,Debt Service,Expense,5X,Debt Service,2690660
+FY12-13,Expenditure Recovery,Revenue,1G,Expenditure Recovery,342490995
+FY12-13,Expenditure Recovery,Revenue,2S,Expenditure Recovery,176224161
+FY12-13,Expenditure Recovery,Revenue,5A,Expenditure Recovery,35000
+FY12-13,Expenditure Recovery,Revenue,5C,Expenditure Recovery,6281300
+FY12-13,Expenditure Recovery,Revenue,5H,Expenditure Recovery,4133127
+FY12-13,Expenditure Recovery,Revenue,5M,Expenditure Recovery,56851912
+FY12-13,Expenditure Recovery,Revenue,5N,Expenditure Recovery,3259754
+FY12-13,Expenditure Recovery,Revenue,5P,Expenditure Recovery,167168
+FY12-13,Expenditure Recovery,Revenue,5T,Expenditure Recovery,80955967
+FY12-13,Expenditure Recovery,Revenue,5W,Expenditure Recovery,150182510
+FY12-13,Expenditure Recovery,Revenue,6I,Expenditure Recovery,93297215
+FY12-13,Expenditure Recovery,Revenue,7P,Expenditure Recovery,75515
+FY12-13,Facilities Maintenance,Expense,1G,Facilities Maintenance,8576235
+FY12-13,Facilities Maintenance,Expense,2S,Facilities Maintenance,850500
+FY12-13,Facilities Maintenance,Expense,5A,Facilities Maintenance,7075000
+FY12-13,Facilities Maintenance,Expense,5C,Facilities Maintenance,3171785
+FY12-13,Facilities Maintenance,Expense,5H,Facilities Maintenance,1000000
+FY12-13,Facilities Maintenance,Expense,5L,Facilities Maintenance,1000000
+FY12-13,Facilities Maintenance,Expense,5P,Facilities Maintenance,3404636
+FY12-13,Facilities Maintenance,Expense,5T,Facilities Maintenance,3548026
+FY12-13,Facilities Maintenance,Expense,5W,Facilities Maintenance,9345375
+FY12-13,Facilities Maintenance,Expense,8A,Facilities Maintenance,250000
+FY12-13,Fines, Forfeitures & Penalties,Revenue,1G,Fines, Forfeitures & Penalties,7710036
+FY12-13,Fines, Forfeitures & Penalties,Revenue,2S,Fines, Forfeitures & Penalties,4348779
+FY12-13,Fines, Forfeitures & Penalties,Revenue,5A,Fines, Forfeitures & Penalties,249000
+FY12-13,Fines, Forfeitures & Penalties,Revenue,5M,Fines, Forfeitures & Penalties,95979219
+FY12-13,Fines, Forfeitures & Penalties,Revenue,5N,Fines, Forfeitures & Penalties,3508000
+FY12-13,Fines, Forfeitures & Penalties,Revenue,5P,Fines, Forfeitures & Penalties,1366000
+FY12-13,General Fund Support,Revenue,2S,General Fund Support,63266285
+FY12-13,General Fund Support,Revenue,5H,General Fund Support,123112240
+FY12-13,General Fund Support,Revenue,5L,General Fund Support,46468716
+FY12-13,General Fund Support,Revenue,5M,General Fund Support,138730000
+FY12-13,General Fund Support,Revenue,5N,General Fund Support,52020000
+FY12-13,ISF Charges for Services,Revenue,5H,ISF Charges for Services,1363115
+FY12-13,Interest & Investment Income,Revenue,1G,Interest & Investment Income,6050469
+FY12-13,Interest & Investment Income,Revenue,2S,Interest & Investment Income,1562945
+FY12-13,Interest & Investment Income,Revenue,5A,Interest & Investment Income,12178000
+FY12-13,Interest & Investment Income,Revenue,5C,Interest & Investment Income,1538938
+FY12-13,Interest & Investment Income,Revenue,5M,Interest & Investment Income,1235000
+FY12-13,Interest & Investment Income,Revenue,5N,Interest & Investment Income,875000
+FY12-13,Interest & Investment Income,Revenue,5P,Interest & Investment Income,650000
+FY12-13,Interest & Investment Income,Revenue,5T,Interest & Investment Income,2417730
+FY12-13,Interest & Investment Income,Revenue,5W,Interest & Investment Income,1713560
+FY12-13,Interest & Investment Income,Revenue,5X,Interest & Investment Income,650000
+FY12-13,Interest & Investment Income,Revenue,7A,Interest & Investment Income,81000
+FY12-13,Interest & Investment Income,Revenue,7E,Interest & Investment Income,115000
+FY12-13,Interest & Investment Income,Revenue,7P,Interest & Investment Income,250000
+FY12-13,Interest & Investment Income,Revenue,7R,Interest & Investment Income,95000
+FY12-13,Intergovernmental Revenues-Federal,Revenue,1G,Intergovernmental Revenues-Federal,208783856
+FY12-13,Intergovernmental Revenues-Federal,Revenue,2S,Intergovernmental Revenues-Federal,131073213
+FY12-13,Intergovernmental Revenues-Federal,Revenue,5A,Intergovernmental Revenues-Federal,32386032
+FY12-13,Intergovernmental Revenues-Federal,Revenue,5H,Intergovernmental Revenues-Federal,9902995
+FY12-13,Intergovernmental Revenues-Federal,Revenue,5M,Intergovernmental Revenues-Federal,3721868
+FY12-13,Intergovernmental Revenues-Other,Revenue,2S,Intergovernmental Revenues-Other,490613
+FY12-13,Intergovernmental Revenues-Other,Revenue,3C,Intergovernmental Revenues-Other,2500000
+FY12-13,Intergovernmental Revenues-Other,Revenue,5M,Intergovernmental Revenues-Other,74939774
+FY12-13,Intergovernmental Revenues-State,Revenue,1G,Intergovernmental Revenues-State,469594046
+FY12-13,Intergovernmental Revenues-State,Revenue,2S,Intergovernmental Revenues-State,78609979
+FY12-13,Intergovernmental Revenues-State,Revenue,3C,Intergovernmental Revenues-State,1000000
+FY12-13,Intergovernmental Revenues-State,Revenue,4D,Intergovernmental Revenues-State,750000
+FY12-13,Intergovernmental Revenues-State,Revenue,5A,Intergovernmental Revenues-State,567003
+FY12-13,Intergovernmental Revenues-State,Revenue,5H,Intergovernmental Revenues-State,84140312
+FY12-13,Intergovernmental Revenues-State,Revenue,5M,Intergovernmental Revenues-State,25281889
+FY12-13,Intergovernmental Revenues-State,Revenue,5N,Intergovernmental Revenues-State,2949378
+FY12-13,Intergovernmental Revenues-State,Revenue,7A,Intergovernmental Revenues-State,86892525
+FY12-13,Intrafund Transfers In,Revenue,1G,Intrafund Transfers In,150078550
+FY12-13,Intrafund Transfers In,Revenue,2S,Intrafund Transfers In,37231460
+FY12-13,Intrafund Transfers In,Revenue,5A,Intrafund Transfers In,111292586
+FY12-13,Intrafund Transfers In,Revenue,5C,Intrafund Transfers In,33760567
+FY12-13,Intrafund Transfers In,Revenue,5H,Intrafund Transfers In,42291052
+FY12-13,Intrafund Transfers In,Revenue,5L,Intrafund Transfers In,1000000
+FY12-13,Intrafund Transfers In,Revenue,5M,Intrafund Transfers In,250000
+FY12-13,Intrafund Transfers In,Revenue,5N,Intrafund Transfers In,10895446
+FY12-13,Intrafund Transfers In,Revenue,5P,Intrafund Transfers In,18274735
+FY12-13,Intrafund Transfers In,Revenue,5T,Intrafund Transfers In,66932592
+FY12-13,Intrafund Transfers In,Revenue,5W,Intrafund Transfers In,26329622
+FY12-13,Intrafund Transfers Out,Expense,1G,Intrafund Transfers Out,150078550
+FY12-13,Intrafund Transfers Out,Expense,2S,Intrafund Transfers Out,38252868
+FY12-13,Intrafund Transfers Out,Expense,5A,Intrafund Transfers Out,111292586
+FY12-13,Intrafund Transfers Out,Expense,5C,Intrafund Transfers Out,33760567
+FY12-13,Intrafund Transfers Out,Expense,5H,Intrafund Transfers Out,42291052
+FY12-13,Intrafund Transfers Out,Expense,5L,Intrafund Transfers Out,1000000
+FY12-13,Intrafund Transfers Out,Expense,5M,Intrafund Transfers Out,250000
+FY12-13,Intrafund Transfers Out,Expense,5N,Intrafund Transfers Out,10895446
+FY12-13,Intrafund Transfers Out,Expense,5P,Intrafund Transfers Out,18274735
+FY12-13,Intrafund Transfers Out,Expense,5T,Intrafund Transfers Out,52860092
+FY12-13,Intrafund Transfers Out,Expense,5W,Intrafund Transfers Out,40402122
+FY12-13,Licenses, Permits & Franchises,Revenue,1G,Licenses, Permits & Franchises,24336608
+FY12-13,Licenses, Permits & Franchises,Revenue,2S,Licenses, Permits & Franchises,9777617
+FY12-13,Licenses, Permits & Franchises,Revenue,5N,Licenses, Permits & Franchises,10128447
+FY12-13,Licenses, Permits & Franchises,Revenue,5O,Licenses, Permits & Franchises,13071659
+FY12-13,Mandatory Fringe Benefits,Expense,1G,Mandatory Fringe Benefits,480364963
+FY12-13,Mandatory Fringe Benefits,Expense,2S,Mandatory Fringe Benefits,91033668
+FY12-13,Mandatory Fringe Benefits,Expense,5A,Mandatory Fringe Benefits,79417145
+FY12-13,Mandatory Fringe Benefits,Expense,5C,Mandatory Fringe Benefits,17880818
+FY12-13,Mandatory Fringe Benefits,Expense,5H,Mandatory Fringe Benefits,113771754
+FY12-13,Mandatory Fringe Benefits,Expense,5L,Mandatory Fringe Benefits,45657449
+FY12-13,Mandatory Fringe Benefits,Expense,5M,Mandatory Fringe Benefits,148025946
+FY12-13,Mandatory Fringe Benefits,Expense,5N,Mandatory Fringe Benefits,17493039
+FY12-13,Mandatory Fringe Benefits,Expense,5O,Mandatory Fringe Benefits,290117
+FY12-13,Mandatory Fringe Benefits,Expense,5P,Mandatory Fringe Benefits,10394133
+FY12-13,Mandatory Fringe Benefits,Expense,5T,Mandatory Fringe Benefits,10275613
+FY12-13,Mandatory Fringe Benefits,Expense,5W,Mandatory Fringe Benefits,51198318
+FY12-13,Mandatory Fringe Benefits,Expense,5X,Mandatory Fringe Benefits,342987
+FY12-13,Mandatory Fringe Benefits,Expense,5Y,Mandatory Fringe Benefits,79102
+FY12-13,Mandatory Fringe Benefits,Expense,5Z,Mandatory Fringe Benefits,42022
+FY12-13,Mandatory Fringe Benefits,Expense,6I,Mandatory Fringe Benefits,12830949
+FY12-13,Mandatory Fringe Benefits,Expense,7A,Mandatory Fringe Benefits,25449476
+FY12-13,Mandatory Fringe Benefits,Expense,7E,Mandatory Fringe Benefits,182657
+FY12-13,Mandatory Fringe Benefits,Expense,7P,Mandatory Fringe Benefits,3662277
+FY12-13,Materials & Supplies,Expense,1G,Materials & Supplies,38697403
+FY12-13,Materials & Supplies,Expense,2S,Materials & Supplies,19780530
+FY12-13,Materials & Supplies,Expense,5A,Materials & Supplies,15431227
+FY12-13,Materials & Supplies,Expense,5C,Materials & Supplies,9400073
+FY12-13,Materials & Supplies,Expense,5H,Materials & Supplies,68617603
+FY12-13,Materials & Supplies,Expense,5L,Materials & Supplies,10524417
+FY12-13,Materials & Supplies,Expense,5M,Materials & Supplies,63277571
+FY12-13,Materials & Supplies,Expense,5N,Materials & Supplies,8547396
+FY12-13,Materials & Supplies,Expense,5O,Materials & Supplies,72000
+FY12-13,Materials & Supplies,Expense,5P,Materials & Supplies,1305468
+FY12-13,Materials & Supplies,Expense,5T,Materials & Supplies,2708614
+FY12-13,Materials & Supplies,Expense,5W,Materials & Supplies,14947247
+FY12-13,Materials & Supplies,Expense,5X,Materials & Supplies,8500
+FY12-13,Materials & Supplies,Expense,5Y,Materials & Supplies,9000
+FY12-13,Materials & Supplies,Expense,6I,Materials & Supplies,12029110
+FY12-13,Materials & Supplies,Expense,7E,Materials & Supplies,786144
+FY12-13,Materials & Supplies,Expense,7P,Materials & Supplies,214391
+FY12-13,Materials & Supplies,Expense,8A,Materials & Supplies,12960
+FY12-13,Non Personnel Services,Expense,1G,Non Personnel Services,540184779
+FY12-13,Non Personnel Services,Expense,2S,Non Personnel Services,236567833
+FY12-13,Non Personnel Services,Expense,5A,Non Personnel Services,93672618
+FY12-13,Non Personnel Services,Expense,5C,Non Personnel Services,14614883
+FY12-13,Non Personnel Services,Expense,5H,Non Personnel Services,190894890
+FY12-13,Non Personnel Services,Expense,5L,Non Personnel Services,19613245
+FY12-13,Non Personnel Services,Expense,5M,Non Personnel Services,139635292
+FY12-13,Non Personnel Services,Expense,5N,Non Personnel Services,25844237
+FY12-13,Non Personnel Services,Expense,5O,Non Personnel Services,553344
+FY12-13,Non Personnel Services,Expense,5P,Non Personnel Services,11044466
+FY12-13,Non Personnel Services,Expense,5T,Non Personnel Services,135524359
+FY12-13,Non Personnel Services,Expense,5W,Non Personnel Services,33571180
+FY12-13,Non Personnel Services,Expense,5X,Non Personnel Services,11386053
+FY12-13,Non Personnel Services,Expense,5Y,Non Personnel Services,132636
+FY12-13,Non Personnel Services,Expense,6I,Non Personnel Services,36873558
+FY12-13,Non Personnel Services,Expense,7E,Non Personnel Services,618157
+FY12-13,Non Personnel Services,Expense,7P,Non Personnel Services,3325967
+FY12-13,Non Personnel Services,Expense,7R,Non Personnel Services,35000
+FY12-13,Non Personnel Services,Expense,8A,Non Personnel Services,2269050
+FY12-13,Operating Transfers In,Revenue,1G,Operating Transfers In,157198899
+FY12-13,Operating Transfers In,Revenue,2S,Operating Transfers In,45741553
+FY12-13,Operating Transfers In,Revenue,4D,Operating Transfers In,266492
+FY12-13,Operating Transfers In,Revenue,5M,Operating Transfers In,81855978
+FY12-13,Operating Transfers In,Revenue,5N,Operating Transfers In,663226
+FY12-13,Operating Transfers In,Revenue,5P,Operating Transfers In,2183760
+FY12-13,Operating Transfers In,Revenue,5T,Operating Transfers In,30638901
+FY12-13,Operating Transfers In,Revenue,5Y,Operating Transfers In,449540
+FY12-13,Operating Transfers In,Revenue,5Z,Operating Transfers In,154901
+FY12-13,Operating Transfers Out,Expense,1G,Operating Transfers Out,104730997
+FY12-13,Operating Transfers Out,Expense,2S,Operating Transfers Out,13724372
+FY12-13,Operating Transfers Out,Expense,5A,Operating Transfers Out,30298000
+FY12-13,Operating Transfers Out,Expense,5C,Operating Transfers Out,1000
+FY12-13,Operating Transfers Out,Expense,5H,Operating Transfers Out,113136907
+FY12-13,Operating Transfers Out,Expense,5L,Operating Transfers Out,43620
+FY12-13,Operating Transfers Out,Expense,5N,Operating Transfers Out,13750124
+FY12-13,Operating Transfers Out,Expense,5O,Operating Transfers Out,11131895
+FY12-13,Operating Transfers Out,Expense,5P,Operating Transfers Out,663739
+FY12-13,Operating Transfers Out,Expense,5T,Operating Transfers Out,2000
+FY12-13,Operating Transfers Out,Expense,5W,Operating Transfers Out,30648901
+FY12-13,Operating Transfers Out,Expense,5X,Operating Transfers Out,287
+FY12-13,Other Financing Sources,Revenue,1G,Other Financing Sources,588500
+FY12-13,Other Financing Sources,Revenue,5C,Other Financing Sources,33250000
+FY12-13,Other Financing Sources,Revenue,5T,Other Financing Sources,9991000
+FY12-13,Other Financing Sources,Revenue,5W,Other Financing Sources,33452830
+FY12-13,Other Financing Sources,Revenue,6I,Other Financing Sources,8857947
+FY12-13,Other Local Taxes,Revenue,1G,Other Local Taxes,602255296
+FY12-13,Other Local Taxes,Revenue,2S,Other Local Taxes,50903261
+FY12-13,Other Revenues,Revenue,1G,Other Revenues,18253717
+FY12-13,Other Revenues,Revenue,2S,Other Revenues,5604987
+FY12-13,Other Revenues,Revenue,3C,Other Revenues,40000
+FY12-13,Other Revenues,Revenue,5A,Other Revenues,35776000
+FY12-13,Other Revenues,Revenue,5C,Other Revenues,4965209
+FY12-13,Other Revenues,Revenue,5H,Other Revenues,8486365
+FY12-13,Other Revenues,Revenue,5L,Other Revenues,10517779
+FY12-13,Other Revenues,Revenue,5N,Other Revenues,3200
+FY12-13,Other Revenues,Revenue,5P,Other Revenues,1470494
+FY12-13,Other Revenues,Revenue,5T,Other Revenues,6683145
+FY12-13,Other Revenues,Revenue,5W,Other Revenues,30843809
+FY12-13,Other Revenues,Revenue,7E,Other Revenues,1478546
+FY12-13,Other Support & Care Of Persons,Expense,1G,Other Support & Care Of Persons,300000
+FY12-13,Other Support & Care Of Persons,Expense,2S,Other Support & Care Of Persons,380000
+FY12-13,Overhead,Expense,1G,Overhead,44402311
+FY12-13,Overhead,Expense,2S,Overhead,18695392
+FY12-13,Overhead,Expense,5C,Overhead,1338380
+FY12-13,Overhead,Expense,5M,Overhead,47330012
+FY12-13,Overhead,Expense,5N,Overhead,8842335
+FY12-13,Overhead,Expense,5O,Overhead,217834
+FY12-13,Overhead,Expense,5P,Overhead,56234
+FY12-13,Overhead,Expense,5T,Overhead,2409632
+FY12-13,Overhead,Expense,5W,Overhead,2091288
+FY12-13,Overhead,Expense,5X,Overhead,1282722
+FY12-13,Overhead,Expense,5Y,Overhead,76278
+FY12-13,Overhead,Expense,6I,Overhead,579802
+FY12-13,Overhead,Expense,7A,Overhead,1669655
+FY12-13,Overhead,Expense,7P,Overhead,28718
+FY12-13,Programmatic Projects,Expense,1G,Programmatic Projects,19089326
+FY12-13,Programmatic Projects,Expense,2S,Programmatic Projects,16508194
+FY12-13,Programmatic Projects,Expense,3C,Programmatic Projects,2500000
+FY12-13,Programmatic Projects,Expense,5C,Programmatic Projects,30652450
+FY12-13,Programmatic Projects,Expense,5H,Programmatic Projects,3000000
+FY12-13,Programmatic Projects,Expense,5P,Programmatic Projects,15912
+FY12-13,Programmatic Projects,Expense,5T,Programmatic Projects,38390000
+FY12-13,Programmatic Projects,Expense,5W,Programmatic Projects,35283636
+FY12-13,Programmatic Projects,Expense,7E,Programmatic Projects,142582
+FY12-13,Property Taxes,Revenue,1G,Property Taxes,1028677110
+FY12-13,Property Taxes,Revenue,2S,Property Taxes,113810000
+FY12-13,Property Taxes,Revenue,4D,Property Taxes,188842548
+FY12-13,Rents & Concessions,Revenue,1G,Rents & Concessions,22894632
+FY12-13,Rents & Concessions,Revenue,2S,Rents & Concessions,27769012
+FY12-13,Rents & Concessions,Revenue,5A,Rents & Concessions,219060000
+FY12-13,Rents & Concessions,Revenue,5C,Rents & Concessions,727000
+FY12-13,Rents & Concessions,Revenue,5L,Rents & Concessions,563740
+FY12-13,Rents & Concessions,Revenue,5M,Rents & Concessions,36534410
+FY12-13,Rents & Concessions,Revenue,5N,Rents & Concessions,36094082
+FY12-13,Rents & Concessions,Revenue,5P,Rents & Concessions,50271000
+FY12-13,Rents & Concessions,Revenue,5T,Rents & Concessions,250000
+FY12-13,Rents & Concessions,Revenue,5W,Rents & Concessions,9298129
+FY12-13,Rents & Concessions,Revenue,5X,Rents & Concessions,16464566
+FY12-13,Rents & Concessions,Revenue,6I,Rents & Concessions,30000
+FY12-13,Rents & Concessions,Revenue,7E,Rents & Concessions,920445
+FY12-13,Rents & Concessions,Revenue,8A,Rents & Concessions,8334873
+FY12-13,Salaries,Expense,1G,Salaries,1184610380
+FY12-13,Salaries,Expense,2S,Salaries,187186486
+FY12-13,Salaries,Expense,5A,Salaries,157527024
+FY12-13,Salaries,Expense,5C,Salaries,40333855
+FY12-13,Salaries,Expense,5H,Salaries,252994786
+FY12-13,Salaries,Expense,5L,Salaries,99402282
+FY12-13,Salaries,Expense,5M,Salaries,277358124
+FY12-13,Salaries,Expense,5N,Salaries,33372454
+FY12-13,Salaries,Expense,5O,Salaries,579078
+FY12-13,Salaries,Expense,5P,Salaries,22983251
+FY12-13,Salaries,Expense,5T,Salaries,23145168
+FY12-13,Salaries,Expense,5W,Salaries,125390853
+FY12-13,Salaries,Expense,5X,Salaries,900357
+FY12-13,Salaries,Expense,5Y,Salaries,207709
+FY12-13,Salaries,Expense,5Z,Salaries,112879
+FY12-13,Salaries,Expense,6I,Salaries,28305360
+FY12-13,Salaries,Expense,7A,Salaries,59854394
+FY12-13,Salaries,Expense,7E,Salaries,706682
+FY12-13,Salaries,Expense,7P,Salaries,8448327
+FY12-13,Services of Other Depts,Expense,1G,Services of Other Depts,211929306
+FY12-13,Services of Other Depts,Expense,2S,Services of Other Depts,70294026
+FY12-13,Services of Other Depts,Expense,5A,Services of Other Depts,54492803
+FY12-13,Services of Other Depts,Expense,5C,Services of Other Depts,56736161
+FY12-13,Services of Other Depts,Expense,5H,Services of Other Depts,46349575
+FY12-13,Services of Other Depts,Expense,5L,Services of Other Depts,12006848
+FY12-13,Services of Other Depts,Expense,5M,Services of Other Depts,47296088
+FY12-13,Services of Other Depts,Expense,5N,Services of Other Depts,13514767
+FY12-13,Services of Other Depts,Expense,5O,Services of Other Depts,696934
+FY12-13,Services of Other Depts,Expense,5P,Services of Other Depts,12267567
+FY12-13,Services of Other Depts,Expense,5T,Services of Other Depts,17493555
+FY12-13,Services of Other Depts,Expense,5W,Services of Other Depts,74292406
+FY12-13,Services of Other Depts,Expense,5X,Services of Other Depts,503000
+FY12-13,Services of Other Depts,Expense,5Y,Services of Other Depts,5866
+FY12-13,Services of Other Depts,Expense,6I,Services of Other Depts,7611063
+FY12-13,Services of Other Depts,Expense,7E,Services of Other Depts,1419
+FY12-13,Services of Other Depts,Expense,7P,Services of Other Depts,2746589
+FY12-13,Services of Other Depts,Expense,7R,Services of Other Depts,92500
+FY12-13,Services of Other Depts,Expense,8A,Services of Other Depts,5802863
+FY12-13,Unappropriated Fund Balance,Revenue,1G,Unappropriated Fund Balance,172142097
+FY12-13,Unappropriated Fund Balance,Revenue,2S,Unappropriated Fund Balance,19732906
+FY12-13,Unappropriated Fund Balance,Revenue,3C,Unappropriated Fund Balance,500000
+FY12-13,Unappropriated Fund Balance,Revenue,5A,Unappropriated Fund Balance,34028918
+FY12-13,Unappropriated Fund Balance,Revenue,5P,Unappropriated Fund Balance,12239936
+FY12-13,Unappropriated Fund Balance,Revenue,5T,Unappropriated Fund Balance,21236760
+FY12-13,Unappropriated Fund Balance,Revenue,6I,Unappropriated Fund Balance,7030159
+FY12-13,Unappropriated Revenue Retained,Expense,1G,Unappropriated Revenue Retained,24500000
+FY12-13,Unappropriated Revenue-Designated,Expense,1G,Unappropriated Revenue-Designated,25000000
+FY12-13,Unappropriated Revenue-Designated,Expense,2S,Unappropriated Revenue-Designated,2619959
+FY12-13,Unappropriated Revenue-Designated,Expense,5C,Unappropriated Revenue-Designated,9165080
+FY12-13,Unappropriated Revenue-Designated,Expense,5W,Unappropriated Revenue-Designated,4269855
+FY12-13,Unappropriated Revenue-Designated,Expense,7R,Unappropriated Revenue-Designated,6417500

@@ -1,0 +1,326 @@
+budget_year,department,account_type,fund_code,account_category,amount
+FY11-12,Aid Assistance,Expense,1G,Aid Assistance,39199167
+FY11-12,Aid Payments,Expense,1G,Aid Payments,256637863
+FY11-12,Allocated Charges,Expense,2S,Allocated Charges,3249486
+FY11-12,Business Taxes,Revenue,1G,Business Taxes,342350000
+FY11-12,Business Taxes,Revenue,2S,Business Taxes,900000
+FY11-12,Capital Outlay,Expense,1G,Capital Outlay,22245749
+FY11-12,Capital Outlay,Expense,2S,Capital Outlay,10437016
+FY11-12,Capital Outlay,Expense,3C,Capital Outlay,24377451
+FY11-12,Capital Outlay,Expense,5A,Capital Outlay,70145458
+FY11-12,Capital Outlay,Expense,5C,Capital Outlay,8084074
+FY11-12,Capital Outlay,Expense,5H,Capital Outlay,2028443
+FY11-12,Capital Outlay,Expense,5L,Capital Outlay,55138
+FY11-12,Capital Outlay,Expense,5M,Capital Outlay,1695061
+FY11-12,Capital Outlay,Expense,5N,Capital Outlay,1724625
+FY11-12,Capital Outlay,Expense,5O,Capital Outlay,25185
+FY11-12,Capital Outlay,Expense,5P,Capital Outlay,11343411
+FY11-12,Capital Outlay,Expense,5T,Capital Outlay,35874427
+FY11-12,Capital Outlay,Expense,5W,Capital Outlay,9015082
+FY11-12,Capital Outlay,Expense,6I,Capital Outlay,16428001
+FY11-12,Capital Outlay,Expense,7P,Capital Outlay,44013
+FY11-12,Charges for Services,Revenue,1G,Charges for Services,146080807
+FY11-12,Charges for Services,Revenue,2S,Charges for Services,80131252
+FY11-12,Charges for Services,Revenue,5A,Charges for Services,456247589
+FY11-12,Charges for Services,Revenue,5C,Charges for Services,218940152
+FY11-12,Charges for Services,Revenue,5H,Charges for Services,552357258
+FY11-12,Charges for Services,Revenue,5L,Charges for Services,126130356
+FY11-12,Charges for Services,Revenue,5M,Charges for Services,193463421
+FY11-12,Charges for Services,Revenue,5N,Charges for Services,9388770
+FY11-12,Charges for Services,Revenue,5O,Charges for Services,428341
+FY11-12,Charges for Services,Revenue,5P,Charges for Services,12254000
+FY11-12,Charges for Services,Revenue,5T,Charges for Services,100146879
+FY11-12,Charges for Services,Revenue,5W,Charges for Services,304145613
+FY11-12,City Grant Programs,Expense,1G,City Grant Programs,150298643
+FY11-12,City Grant Programs,Expense,2S,City Grant Programs,124136154
+FY11-12,City Grant Programs,Expense,5T,City Grant Programs,110000
+FY11-12,City Grant Programs,Expense,5W,City Grant Programs,1360000
+FY11-12,City Grant Programs,Expense,7E,City Grant Programs,111350
+FY11-12,Contributions (Ret, HSS, Health Care),Revenue,7P,Contributions (Ret, HSS, Health Care),18866321
+FY11-12,Debt Service,Expense,1G,Debt Service,1186930
+FY11-12,Debt Service,Expense,4D,Debt Service,203869690
+FY11-12,Debt Service,Expense,5A,Debt Service,328291154
+FY11-12,Debt Service,Expense,5C,Debt Service,62536219
+FY11-12,Debt Service,Expense,5H,Debt Service,2500
+FY11-12,Debt Service,Expense,5L,Debt Service,12755726
+FY11-12,Debt Service,Expense,5P,Debt Service,3075050
+FY11-12,Debt Service,Expense,5T,Debt Service,1546668
+FY11-12,Debt Service,Expense,5W,Debt Service,117534329
+FY11-12,Debt Service,Expense,5X,Debt Service,2693805
+FY11-12,Expenditure Recovery,Revenue,1G,Expenditure Recovery,332084754
+FY11-12,Expenditure Recovery,Revenue,2S,Expenditure Recovery,169577685
+FY11-12,Expenditure Recovery,Revenue,5A,Expenditure Recovery,22000
+FY11-12,Expenditure Recovery,Revenue,5C,Expenditure Recovery,6632300
+FY11-12,Expenditure Recovery,Revenue,5H,Expenditure Recovery,4133127
+FY11-12,Expenditure Recovery,Revenue,5M,Expenditure Recovery,54264204
+FY11-12,Expenditure Recovery,Revenue,5N,Expenditure Recovery,3735741
+FY11-12,Expenditure Recovery,Revenue,5P,Expenditure Recovery,267001
+FY11-12,Expenditure Recovery,Revenue,5T,Expenditure Recovery,79526070
+FY11-12,Expenditure Recovery,Revenue,5W,Expenditure Recovery,139962022
+FY11-12,Expenditure Recovery,Revenue,6I,Expenditure Recovery,94895872
+FY11-12,Expenditure Recovery,Revenue,7P,Expenditure Recovery,25000
+FY11-12,Facilities Maintenance,Expense,1G,Facilities Maintenance,8552985
+FY11-12,Facilities Maintenance,Expense,2S,Facilities Maintenance,950500
+FY11-12,Facilities Maintenance,Expense,5A,Facilities Maintenance,6000000
+FY11-12,Facilities Maintenance,Expense,5C,Facilities Maintenance,2181395
+FY11-12,Facilities Maintenance,Expense,5H,Facilities Maintenance,1000000
+FY11-12,Facilities Maintenance,Expense,5L,Facilities Maintenance,1000000
+FY11-12,Facilities Maintenance,Expense,5P,Facilities Maintenance,4270539
+FY11-12,Facilities Maintenance,Expense,5T,Facilities Maintenance,3552819
+FY11-12,Facilities Maintenance,Expense,5W,Facilities Maintenance,8124000
+FY11-12,Facilities Maintenance,Expense,8A,Facilities Maintenance,243442
+FY11-12,Fines, Forfeitures & Penalties,Revenue,1G,Fines, Forfeitures & Penalties,3794036
+FY11-12,Fines, Forfeitures & Penalties,Revenue,2S,Fines, Forfeitures & Penalties,3988746
+FY11-12,Fines, Forfeitures & Penalties,Revenue,5A,Fines, Forfeitures & Penalties,263000
+FY11-12,Fines, Forfeitures & Penalties,Revenue,5M,Fines, Forfeitures & Penalties,99391195
+FY11-12,Fines, Forfeitures & Penalties,Revenue,5N,Fines, Forfeitures & Penalties,3516000
+FY11-12,Fines, Forfeitures & Penalties,Revenue,5P,Fines, Forfeitures & Penalties,1600000
+FY11-12,General Fund Support,Revenue,2S,General Fund Support,70924386
+FY11-12,General Fund Support,Revenue,5H,General Fund Support,38115805
+FY11-12,General Fund Support,Revenue,5L,General Fund Support,39907303
+FY11-12,General Fund Support,Revenue,5M,General Fund Support,127270000
+FY11-12,General Fund Support,Revenue,5N,General Fund Support,47720000
+FY11-12,ISF Charges for Services,Revenue,5H,ISF Charges for Services,1241557
+FY11-12,Interest & Investment Income,Revenue,1G,Interest & Investment Income,9539586
+FY11-12,Interest & Investment Income,Revenue,2S,Interest & Investment Income,1819099
+FY11-12,Interest & Investment Income,Revenue,3C,Interest & Investment Income,1200000
+FY11-12,Interest & Investment Income,Revenue,5A,Interest & Investment Income,17795000
+FY11-12,Interest & Investment Income,Revenue,5C,Interest & Investment Income,1245924
+FY11-12,Interest & Investment Income,Revenue,5M,Interest & Investment Income,1105000
+FY11-12,Interest & Investment Income,Revenue,5N,Interest & Investment Income,637500
+FY11-12,Interest & Investment Income,Revenue,5P,Interest & Investment Income,795000
+FY11-12,Interest & Investment Income,Revenue,5T,Interest & Investment Income,1902160
+FY11-12,Interest & Investment Income,Revenue,5W,Interest & Investment Income,1735045
+FY11-12,Interest & Investment Income,Revenue,5X,Interest & Investment Income,637500
+FY11-12,Interest & Investment Income,Revenue,7A,Interest & Investment Income,81000
+FY11-12,Interest & Investment Income,Revenue,7E,Interest & Investment Income,115000
+FY11-12,Interest & Investment Income,Revenue,7P,Interest & Investment Income,250000
+FY11-12,Intergovernmental Revenues-Federal,Revenue,1G,Intergovernmental Revenues-Federal,236610029
+FY11-12,Intergovernmental Revenues-Federal,Revenue,2S,Intergovernmental Revenues-Federal,118588847
+FY11-12,Intergovernmental Revenues-Federal,Revenue,3C,Intergovernmental Revenues-Federal,4123195
+FY11-12,Intergovernmental Revenues-Federal,Revenue,5A,Intergovernmental Revenues-Federal,51139558
+FY11-12,Intergovernmental Revenues-Federal,Revenue,5H,Intergovernmental Revenues-Federal,13770439
+FY11-12,Intergovernmental Revenues-Federal,Revenue,5L,Intergovernmental Revenues-Federal,2963000
+FY11-12,Intergovernmental Revenues-Federal,Revenue,5M,Intergovernmental Revenues-Federal,3921868
+FY11-12,Intergovernmental Revenues-Other,Revenue,2S,Intergovernmental Revenues-Other,405837
+FY11-12,Intergovernmental Revenues-Other,Revenue,5M,Intergovernmental Revenues-Other,94246865
+FY11-12,Intergovernmental Revenues-State,Revenue,1G,Intergovernmental Revenues-State,434927097
+FY11-12,Intergovernmental Revenues-State,Revenue,2S,Intergovernmental Revenues-State,86780330
+FY11-12,Intergovernmental Revenues-State,Revenue,3C,Intergovernmental Revenues-State,4171699
+FY11-12,Intergovernmental Revenues-State,Revenue,4D,Intergovernmental Revenues-State,750000
+FY11-12,Intergovernmental Revenues-State,Revenue,5H,Intergovernmental Revenues-State,80585612
+FY11-12,Intergovernmental Revenues-State,Revenue,5M,Intergovernmental Revenues-State,25181889
+FY11-12,Intergovernmental Revenues-State,Revenue,5N,Intergovernmental Revenues-State,2949378
+FY11-12,Intergovernmental Revenues-State,Revenue,7A,Intergovernmental Revenues-State,84315758
+FY11-12,Intrafund Transfers In,Revenue,1G,Intrafund Transfers In,124258919
+FY11-12,Intrafund Transfers In,Revenue,2S,Intrafund Transfers In,32907577
+FY11-12,Intrafund Transfers In,Revenue,5A,Intrafund Transfers In,118365012
+FY11-12,Intrafund Transfers In,Revenue,5C,Intrafund Transfers In,16358832
+FY11-12,Intrafund Transfers In,Revenue,5H,Intrafund Transfers In,45429474
+FY11-12,Intrafund Transfers In,Revenue,5L,Intrafund Transfers In,1000000
+FY11-12,Intrafund Transfers In,Revenue,5M,Intrafund Transfers In,170000
+FY11-12,Intrafund Transfers In,Revenue,5N,Intrafund Transfers In,10902699
+FY11-12,Intrafund Transfers In,Revenue,5P,Intrafund Transfers In,15132746
+FY11-12,Intrafund Transfers In,Revenue,5T,Intrafund Transfers In,68426477
+FY11-12,Intrafund Transfers In,Revenue,5W,Intrafund Transfers In,46179072
+FY11-12,Intrafund Transfers Out,Expense,1G,Intrafund Transfers Out,124258919
+FY11-12,Intrafund Transfers Out,Expense,2S,Intrafund Transfers Out,33943067
+FY11-12,Intrafund Transfers Out,Expense,5A,Intrafund Transfers Out,118365012
+FY11-12,Intrafund Transfers Out,Expense,5C,Intrafund Transfers Out,16358832
+FY11-12,Intrafund Transfers Out,Expense,5H,Intrafund Transfers Out,45429474
+FY11-12,Intrafund Transfers Out,Expense,5L,Intrafund Transfers Out,1000000
+FY11-12,Intrafund Transfers Out,Expense,5M,Intrafund Transfers Out,170000
+FY11-12,Intrafund Transfers Out,Expense,5N,Intrafund Transfers Out,10902699
+FY11-12,Intrafund Transfers Out,Expense,5P,Intrafund Transfers Out,15132746
+FY11-12,Intrafund Transfers Out,Expense,5T,Intrafund Transfers Out,68426477
+FY11-12,Intrafund Transfers Out,Expense,5W,Intrafund Transfers Out,46179072
+FY11-12,Licenses, Permits & Franchises,Revenue,1G,Licenses, Permits & Franchises,23242394
+FY11-12,Licenses, Permits & Franchises,Revenue,2S,Licenses, Permits & Franchises,8809591
+FY11-12,Licenses, Permits & Franchises,Revenue,5N,Licenses, Permits & Franchises,6778447
+FY11-12,Licenses, Permits & Franchises,Revenue,5O,Licenses, Permits & Franchises,12971659
+FY11-12,Mandatory Fringe Benefits,Expense,1G,Mandatory Fringe Benefits,432023060
+FY11-12,Mandatory Fringe Benefits,Expense,2S,Mandatory Fringe Benefits,88104480
+FY11-12,Mandatory Fringe Benefits,Expense,5A,Mandatory Fringe Benefits,71453844
+FY11-12,Mandatory Fringe Benefits,Expense,5C,Mandatory Fringe Benefits,16082867
+FY11-12,Mandatory Fringe Benefits,Expense,5H,Mandatory Fringe Benefits,106068765
+FY11-12,Mandatory Fringe Benefits,Expense,5L,Mandatory Fringe Benefits,44545533
+FY11-12,Mandatory Fringe Benefits,Expense,5M,Mandatory Fringe Benefits,139802356
+FY11-12,Mandatory Fringe Benefits,Expense,5N,Mandatory Fringe Benefits,16980167
+FY11-12,Mandatory Fringe Benefits,Expense,5O,Mandatory Fringe Benefits,286620
+FY11-12,Mandatory Fringe Benefits,Expense,5P,Mandatory Fringe Benefits,9232774
+FY11-12,Mandatory Fringe Benefits,Expense,5T,Mandatory Fringe Benefits,9142596
+FY11-12,Mandatory Fringe Benefits,Expense,5W,Mandatory Fringe Benefits,43582540
+FY11-12,Mandatory Fringe Benefits,Expense,5X,Mandatory Fringe Benefits,309127
+FY11-12,Mandatory Fringe Benefits,Expense,5Y,Mandatory Fringe Benefits,69025
+FY11-12,Mandatory Fringe Benefits,Expense,5Z,Mandatory Fringe Benefits,36556
+FY11-12,Mandatory Fringe Benefits,Expense,6I,Mandatory Fringe Benefits,11795739
+FY11-12,Mandatory Fringe Benefits,Expense,7A,Mandatory Fringe Benefits,22704076
+FY11-12,Mandatory Fringe Benefits,Expense,7E,Mandatory Fringe Benefits,125995
+FY11-12,Mandatory Fringe Benefits,Expense,7P,Mandatory Fringe Benefits,3545918
+FY11-12,Materials & Supplies,Expense,1G,Materials & Supplies,38134605
+FY11-12,Materials & Supplies,Expense,2S,Materials & Supplies,18978210
+FY11-12,Materials & Supplies,Expense,5A,Materials & Supplies,14329983
+FY11-12,Materials & Supplies,Expense,5C,Materials & Supplies,9207159
+FY11-12,Materials & Supplies,Expense,5H,Materials & Supplies,64096172
+FY11-12,Materials & Supplies,Expense,5L,Materials & Supplies,9912626
+FY11-12,Materials & Supplies,Expense,5M,Materials & Supplies,63860543
+FY11-12,Materials & Supplies,Expense,5N,Materials & Supplies,8051618
+FY11-12,Materials & Supplies,Expense,5O,Materials & Supplies,57000
+FY11-12,Materials & Supplies,Expense,5P,Materials & Supplies,1484510
+FY11-12,Materials & Supplies,Expense,5T,Materials & Supplies,2535940
+FY11-12,Materials & Supplies,Expense,5W,Materials & Supplies,14430212
+FY11-12,Materials & Supplies,Expense,5X,Materials & Supplies,11849
+FY11-12,Materials & Supplies,Expense,5Y,Materials & Supplies,9000
+FY11-12,Materials & Supplies,Expense,6I,Materials & Supplies,11530724
+FY11-12,Materials & Supplies,Expense,7E,Materials & Supplies,473751
+FY11-12,Materials & Supplies,Expense,7P,Materials & Supplies,168000
+FY11-12,Materials & Supplies,Expense,8A,Materials & Supplies,14400
+FY11-12,Non Personnel Services,Expense,1G,Non Personnel Services,480594172
+FY11-12,Non Personnel Services,Expense,2S,Non Personnel Services,245807933
+FY11-12,Non Personnel Services,Expense,5A,Non Personnel Services,90352585
+FY11-12,Non Personnel Services,Expense,5C,Non Personnel Services,11381607
+FY11-12,Non Personnel Services,Expense,5H,Non Personnel Services,167352299
+FY11-12,Non Personnel Services,Expense,5L,Non Personnel Services,5711815
+FY11-12,Non Personnel Services,Expense,5M,Non Personnel Services,131900619
+FY11-12,Non Personnel Services,Expense,5N,Non Personnel Services,26762127
+FY11-12,Non Personnel Services,Expense,5O,Non Personnel Services,553344
+FY11-12,Non Personnel Services,Expense,5P,Non Personnel Services,10840321
+FY11-12,Non Personnel Services,Expense,5T,Non Personnel Services,132228135
+FY11-12,Non Personnel Services,Expense,5W,Non Personnel Services,34460846
+FY11-12,Non Personnel Services,Expense,5X,Non Personnel Services,10783160
+FY11-12,Non Personnel Services,Expense,5Y,Non Personnel Services,132636
+FY11-12,Non Personnel Services,Expense,6I,Non Personnel Services,35173538
+FY11-12,Non Personnel Services,Expense,7E,Non Personnel Services,738229
+FY11-12,Non Personnel Services,Expense,7P,Non Personnel Services,3544574
+FY11-12,Non Personnel Services,Expense,8A,Non Personnel Services,3139609
+FY11-12,Non-ISF Chrgs for Svcs to Oth City Agenc,Revenue,2S,Non-ISF Chrgs for Svcs to Oth City Agenc,1142533
+FY11-12,Operating Transfers In,Revenue,1G,Operating Transfers In,114157189
+FY11-12,Operating Transfers In,Revenue,2S,Operating Transfers In,47630754
+FY11-12,Operating Transfers In,Revenue,4D,Operating Transfers In,7521212
+FY11-12,Operating Transfers In,Revenue,5M,Operating Transfers In,69700682
+FY11-12,Operating Transfers In,Revenue,5N,Operating Transfers In,718079
+FY11-12,Operating Transfers In,Revenue,5T,Operating Transfers In,36884006
+FY11-12,Operating Transfers In,Revenue,5Y,Operating Transfers In,448494
+FY11-12,Operating Transfers In,Revenue,5Z,Operating Transfers In,149711
+FY11-12,Operating Transfers Out,Expense,1G,Operating Transfers Out,99612410
+FY11-12,Operating Transfers Out,Expense,2S,Operating Transfers Out,13621469
+FY11-12,Operating Transfers Out,Expense,3C,Operating Transfers Out,6910720
+FY11-12,Operating Transfers Out,Expense,5A,Operating Transfers Out,28896128
+FY11-12,Operating Transfers Out,Expense,5C,Operating Transfers Out,110257
+FY11-12,Operating Transfers Out,Expense,5H,Operating Transfers Out,72066720
+FY11-12,Operating Transfers Out,Expense,5N,Operating Transfers Out,5485330
+FY11-12,Operating Transfers Out,Expense,5O,Operating Transfers Out,10523557
+FY11-12,Operating Transfers Out,Expense,5P,Operating Transfers Out,665585
+FY11-12,Operating Transfers Out,Expense,5T,Operating Transfers Out,184158
+FY11-12,Operating Transfers Out,Expense,5W,Operating Transfers Out,37964213
+FY11-12,Operating Transfers Out,Expense,5X,Operating Transfers Out,134090
+FY11-12,Other Financing Sources,Revenue,1G,Other Financing Sources,785000
+FY11-12,Other Financing Sources,Revenue,3C,Other Financing Sources,53364935
+FY11-12,Other Financing Sources,Revenue,5C,Other Financing Sources,7500000
+FY11-12,Other Financing Sources,Revenue,5P,Other Financing Sources,139456
+FY11-12,Other Financing Sources,Revenue,5T,Other Financing Sources,6000000
+FY11-12,Other Financing Sources,Revenue,5W,Other Financing Sources,8303306
+FY11-12,Other Financing Sources,Revenue,6I,Other Financing Sources,13689097
+FY11-12,Other Local Taxes,Revenue,1G,Other Local Taxes,528469934
+FY11-12,Other Local Taxes,Revenue,2S,Other Local Taxes,51035200
+FY11-12,Other Revenues,Revenue,1G,Other Revenues,20676857
+FY11-12,Other Revenues,Revenue,2S,Other Revenues,2647612
+FY11-12,Other Revenues,Revenue,3C,Other Revenues,2254256
+FY11-12,Other Revenues,Revenue,5A,Other Revenues,36888816
+FY11-12,Other Revenues,Revenue,5C,Other Revenues,3792262
+FY11-12,Other Revenues,Revenue,5H,Other Revenues,7583316
+FY11-12,Other Revenues,Revenue,5L,Other Revenues,10499581
+FY11-12,Other Revenues,Revenue,5N,Other Revenues,3200
+FY11-12,Other Revenues,Revenue,5P,Other Revenues,860300
+FY11-12,Other Revenues,Revenue,5T,Other Revenues,4865000
+FY11-12,Other Revenues,Revenue,5W,Other Revenues,27149534
+FY11-12,Other Revenues,Revenue,7E,Other Revenues,849422
+FY11-12,Other Revenues,Revenue,8A,Other Revenues,3352982
+FY11-12,Other Support & Care Of Persons,Expense,1G,Other Support & Care Of Persons,1100000
+FY11-12,Overhead,Expense,1G,Overhead,38691092
+FY11-12,Overhead,Expense,2S,Overhead,19699480
+FY11-12,Overhead,Expense,5M,Overhead,45010275
+FY11-12,Overhead,Expense,5N,Overhead,8928695
+FY11-12,Overhead,Expense,5O,Overhead,223508
+FY11-12,Overhead,Expense,5P,Overhead,191727
+FY11-12,Overhead,Expense,5W,Overhead,3891114
+FY11-12,Overhead,Expense,5X,Overhead,1275169
+FY11-12,Overhead,Expense,5Y,Overhead,84750
+FY11-12,Overhead,Expense,6I,Overhead,1664714
+FY11-12,Overhead,Expense,7A,Overhead,1361215
+FY11-12,Overhead,Expense,7P,Overhead,225716
+FY11-12,Programmatic Projects,Expense,1G,Programmatic Projects,3725913
+FY11-12,Programmatic Projects,Expense,2S,Programmatic Projects,14933008
+FY11-12,Programmatic Projects,Expense,3C,Programmatic Projects,42536634
+FY11-12,Programmatic Projects,Expense,5C,Programmatic Projects,14067180
+FY11-12,Programmatic Projects,Expense,5H,Programmatic Projects,775000
+FY11-12,Programmatic Projects,Expense,5P,Programmatic Projects,19055
+FY11-12,Programmatic Projects,Expense,5T,Programmatic Projects,41010000
+FY11-12,Programmatic Projects,Expense,5W,Programmatic Projects,31850865
+FY11-12,Property Taxes,Revenue,1G,Property Taxes,984843389
+FY11-12,Property Taxes,Revenue,2S,Property Taxes,109557000
+FY11-12,Property Taxes,Revenue,4D,Property Taxes,195598478
+FY11-12,Rents & Concessions,Revenue,1G,Rents & Concessions,22346221
+FY11-12,Rents & Concessions,Revenue,2S,Rents & Concessions,28536482
+FY11-12,Rents & Concessions,Revenue,3C,Rents & Concessions,1800000
+FY11-12,Rents & Concessions,Revenue,5A,Rents & Concessions,203989189
+FY11-12,Rents & Concessions,Revenue,5C,Rents & Concessions,427000
+FY11-12,Rents & Concessions,Revenue,5L,Rents & Concessions,563740
+FY11-12,Rents & Concessions,Revenue,5M,Rents & Concessions,36330233
+FY11-12,Rents & Concessions,Revenue,5N,Rents & Concessions,35355101
+FY11-12,Rents & Concessions,Revenue,5P,Rents & Concessions,51378000
+FY11-12,Rents & Concessions,Revenue,5W,Rents & Concessions,12763571
+FY11-12,Rents & Concessions,Revenue,5X,Rents & Concessions,16337137
+FY11-12,Rents & Concessions,Revenue,6I,Rents & Concessions,14400
+FY11-12,Rents & Concessions,Revenue,7E,Rents & Concessions,921312
+FY11-12,Rents & Concessions,Revenue,8A,Rents & Concessions,7876805
+FY11-12,Salaries,Expense,1G,Salaries,1150823988
+FY11-12,Salaries,Expense,2S,Salaries,186147455
+FY11-12,Salaries,Expense,5A,Salaries,145467941
+FY11-12,Salaries,Expense,5C,Salaries,39584081
+FY11-12,Salaries,Expense,5H,Salaries,243026664
+FY11-12,Salaries,Expense,5L,Salaries,95807448
+FY11-12,Salaries,Expense,5M,Salaries,287965972
+FY11-12,Salaries,Expense,5N,Salaries,32323013
+FY11-12,Salaries,Expense,5O,Salaries,584293
+FY11-12,Salaries,Expense,5P,Salaries,22237023
+FY11-12,Salaries,Expense,5T,Salaries,22276295
+FY11-12,Salaries,Expense,5W,Salaries,124543072
+FY11-12,Salaries,Expense,5X,Salaries,903158
+FY11-12,Salaries,Expense,5Y,Salaries,208364
+FY11-12,Salaries,Expense,5Z,Salaries,113155
+FY11-12,Salaries,Expense,6I,Salaries,28566906
+FY11-12,Salaries,Expense,7A,Salaries,60331467
+FY11-12,Salaries,Expense,7E,Salaries,542764
+FY11-12,Salaries,Expense,7P,Salaries,8517317
+FY11-12,Services of Other Depts,Expense,1G,Services of Other Depts,207721474
+FY11-12,Services of Other Depts,Expense,2S,Services of Other Depts,70940565
+FY11-12,Services of Other Depts,Expense,5A,Services of Other Depts,52493899
+FY11-12,Services of Other Depts,Expense,5C,Services of Other Depts,54418885
+FY11-12,Services of Other Depts,Expense,5H,Services of Other Depts,41370551
+FY11-12,Services of Other Depts,Expense,5L,Services of Other Depts,10275694
+FY11-12,Services of Other Depts,Expense,5M,Services of Other Depts,45536494
+FY11-12,Services of Other Depts,Expense,5N,Services of Other Depts,12889627
+FY11-12,Services of Other Depts,Expense,5O,Services of Other Depts,1146493
+FY11-12,Services of Other Depts,Expense,5P,Services of Other Depts,13784206
+FY11-12,Services of Other Depts,Expense,5T,Services of Other Depts,15453013
+FY11-12,Services of Other Depts,Expense,5W,Services of Other Depts,66252771
+FY11-12,Services of Other Depts,Expense,5X,Services of Other Depts,864279
+FY11-12,Services of Other Depts,Expense,5Y,Services of Other Depts,5770
+FY11-12,Services of Other Depts,Expense,6I,Services of Other Depts,6947843
+FY11-12,Services of Other Depts,Expense,7E,Services of Other Depts,3233
+FY11-12,Services of Other Depts,Expense,7P,Services of Other Depts,3095783
+FY11-12,Services of Other Depts,Expense,8A,Services of Other Depts,7923252
+FY11-12,Unappropriated Fund Balance,Revenue,1G,Unappropriated Fund Balance,99552289
+FY11-12,Unappropriated Fund Balance,Revenue,2S,Unappropriated Fund Balance,15565892
+FY11-12,Unappropriated Fund Balance,Revenue,3C,Unappropriated Fund Balance,6910720
+FY11-12,Unappropriated Fund Balance,Revenue,5A,Unappropriated Fund Balance,41085840
+FY11-12,Unappropriated Fund Balance,Revenue,5P,Unappropriated Fund Balance,9850444
+FY11-12,Unappropriated Fund Balance,Revenue,5T,Unappropriated Fund Balance,34589936
+FY11-12,Unappropriated Fund Balance,Revenue,6I,Unappropriated Fund Balance,3508096
+FY11-12,Unappropriated Fund Balance,Revenue,7E,Unappropriated Fund Balance,109588
+FY11-12,Unappropriated Fund Balance,Revenue,8A,Unappropriated Fund Balance,90916
+FY11-12,Unappropriated Revenue Retained,Expense,1G,Unappropriated Revenue Retained,22703612
+FY11-12,Unappropriated Revenue-Designated,Expense,1G,Unappropriated Revenue-Designated,25000000
+FY11-12,Unappropriated Revenue-Designated,Expense,5C,Unappropriated Revenue-Designated,20883914
+FY11-12,Unappropriated Revenue-Designated,Expense,5W,Unappropriated Revenue-Designated,1050047
