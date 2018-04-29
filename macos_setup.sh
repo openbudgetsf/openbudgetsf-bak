@@ -9,6 +9,9 @@ cd openbudgetoakland/_src
 # Install node
 brew install node
 
+# Install fswatch
+brew install fswatch
+
 # Install yarn
 npm install yarn
 

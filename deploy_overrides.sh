@@ -1,4 +1,4 @@
 #!/bin/bash
-echo -n "Deploying... "
+echo -n "Deploying overrides... "
 rsync -a overrides/ openbudgetoakland/_src/
 echo "done"
