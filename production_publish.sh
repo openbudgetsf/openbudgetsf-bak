@@ -4,8 +4,8 @@
 git submodule update --init
 
 # delete the gh-pages branch and then recreate it as an orphan (untracked) branch
-#git branch -D gh-pages
-#git checkout --orphan gh-pages
+git branch -D gh-pages
+git checkout --orphan gh-pages
 
 # compile data
 python3 data/scripts/budget_csv_to_sqlite.py
